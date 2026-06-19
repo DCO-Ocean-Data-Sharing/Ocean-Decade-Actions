@@ -1,0 +1,39 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "{{record_url}}",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "{{name}}",
+  "sdo:name": "{{name}}",
+  "sdo:description": "{{summary}}",
+  "sdo:location": "{{country}}",
+  "sdo:identifier": "{{id}}",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "{{lead_institution}}"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "{{action_type_label}}",
+      "sdo:description": "{{action_type_description}}",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]{{#has_host_programme}},
+  "sdo:memberOf": {
+    "@id": "{{host_programme_url}}"
+  }{{/has_host_programme}}
+}
