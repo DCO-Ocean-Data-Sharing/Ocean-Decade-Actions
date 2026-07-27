@@ -13,6 +13,9 @@ TEMPLATE_PATH = "template.mustache"
 OUTPUT_DIR = "output"
 COMBINED_FILE = "ocean_decade_actions.jsonld"
 
+# pURL base for each record
+PURL_BASE = "http://purl.org/oceandecade/decadeactions/"
+
 # License is (Creative Commons CC BY 4.0)
 LICENSE_URL = "https://creativecommons.org/licenses/by/4.0/"
 
@@ -55,11 +58,10 @@ print(f"Loaded {len(df)} rows from Excel.")
 
 # ID to URL
 
-id_to_url = {}
+id_to_purl = {}
 for index, row in df.iterrows():
     record_id = str(row["ID"]).strip()
-    link = str(row["Link"]).strip()
-    id_to_url[record_id] = link
+    id_to_purl[record_id] = PURL_BASE + record_id + ".jsonld"
 
 
 # Load Mustache template
@@ -84,9 +86,11 @@ for index, row in df.iterrows():
     country = str(row["Country"]).strip()
     summary = str(row["Summary"]).strip()
     host_programme_text = str(row["Host Programme"]).strip()
-    record_url = str(row["Link"]).strip()
+    human_url        = str(row["Link"]).strip()  
 
-  
+# Build this record's permanent PURL identifier
+    purl_id = PURL_BASE + record_id + ".jsonld"
+    
     if action_type not in ACTION_TYPE_INFO:
         print(f"WARNING: row with ID {record_id} has an unknown "
               f"Type of Action ('{action_type}'). Skipping this row.")
@@ -125,20 +129,27 @@ for index, row in df.iterrows():
     
     # Fill in Mustache template
 
-    template_data = {
-        "record_url": record_url,
-        "name": name,
-        "summary": summary,
-        "country": country,
-        "id": record_id,
-        "lead_institution": lead_institution,
-        "action_type_label": type_label,
+   template_data = {
+        "purl_id":                purl_id,
+        "name":                   name,
+        "summary":                summary,
+        "country":                country,
+        "id":                     record_id,
+        "human_url":              human_url,
+        "lead_institution":       lead_institution,
+        "action_type_label":      type_label,
         "action_type_description": type_description,
-        "has_host_programme": has_host_programme,
-        "host_programme_url": host_programme_url,
+        "has_host_programme":     has_host_programme,
+        "host_programme_url":     host_programme_url,
     }
 
     filled_template = pystache.render(template_text, template_data)
+
+    # Save as docs/UN1.jsonld so GitHub Pages can serve it
+    output_path = os.path.join(OUTPUT_DIR, f"{record_id}.jsonld")
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(filled_template)
+
 
     # Save individual files
 
@@ -148,14 +159,16 @@ for index, row in df.iterrows():
 
     # add to big combined file
 
-    record_dict = {
-        "@id": record_url,
+record_dict = {
+        "@id": purl_id,
         "@type": ["foaf:Project", "sdo:Project"],
         "foaf:name": name,
         "sdo:name": name,
         "sdo:description": summary,
         "sdo:location": country,
         "sdo:identifier": record_id,
+        "sdo:url": human_url,
+        "sdo:license": LICENSE_URL,
         "sdo:parentOrganization": {
             "@type": "sdo:Organization",
             "sdo:name": lead_institution
@@ -179,8 +192,7 @@ for index, row in df.iterrows():
 
     all_records.append(record_dict)
 
-print(f"\nFinished processing rows. {len(all_records)} records created.")
-
+print(f"\nFinished. {len(all_records)} records saved to '{OUTPUT_DIR}' folder.")
 
 # combined JSON-LD file 
 
@@ -189,11 +201,12 @@ combined_data = {
         {"foaf": "http://xmlns.com/foaf/0.1/"},
         {"sdo": "https://schema.org/"}
     ],
-    "sdo:dateModified": datetime.now(timezone.utc).date().isoformat(),  
+    "sdo:dateModified": datetime.now(timezone.utc).date().isoformat(),
+    "sdo:license": LICENSE_URL,
     "@graph": all_records
 }
 
 with open(COMBINED_FILE, "w", encoding="utf-8") as f:
     json.dump(combined_data, f, indent=2, ensure_ascii=False)
 
-print(f"Combined file saved as: {COMBINED_FILE}")
+print(f"Combined graph file saved as: {COMBINED_FILE}")
