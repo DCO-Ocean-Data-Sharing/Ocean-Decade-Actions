@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/2",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Understand and slow down the Seventh Continent",
+  "sdo:name": "Understand and slow down the Seventh Continent",
+  "sdo:description": "E7C programme is designed around 2 main lines :  SCIENTIFIC RESEARCH: onboard expeditions designed and implemented by scientists from the French national research center (CNRS), with heavy embarked research equipment, to collect and analyze samples of micro and nano plastics in the deep sea and above the surface (Atlantic oceanic gyres, Mediterranean Sea, etc.).  EDUCATION-INFORMATION: making all generations understand plastic pollution, how critical is its level in the ocean, how it can be reduced.  Every year, in more than a dozen ports, our educational tours allow large public audience to discover our flagship shooner, experiment scientific procedures and attend educational conferences.",
+  "sdo:location": "France",
+  "sdo:identifier": "2",
+  "sdo:url": "https://oceandecade.org/actions/exploring-the-7th-continent-e7c/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Expédition 7e Continent"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

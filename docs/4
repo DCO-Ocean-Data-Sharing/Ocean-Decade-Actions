@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/4",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Decade Odyssey",
+  "sdo:name": "Ocean Decade Odyssey",
+  "sdo:description": "The proposed programme aims for enhancing the Global Ocean Observing System by cooperation with new ocean-going vessel types from e.g. ocean races, NGOs, citizen and private sector initiatives. We will deploy autonomous instruments like floats and drifters (if possible also funded by third parties) from the vessels, as well as instrument the ships with in-situ sensors for a range of atmospheric and surface ocean variables such as carbon dioxide. ODISI will provide overall coordination and a single-point of contact, and support the implementation of observations and data delivery. With a pool of suitable instruments we can drive deployment to critical undersampled areas. The program will benefit from efficient outreach and communication channels to advocate for ocean issues and ocean science.",
+  "sdo:location": "France",
+  "sdo:identifier": "4",
+  "sdo:url": "https://oceandecade.org/actions/Ocean-Decade-Odyssey/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "OceanOPS"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/UN1"
+  }
+}

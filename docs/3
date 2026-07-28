@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/3",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Global GO-SHIP Survey in support of the Ocean Decade 2021-2030",
+  "sdo:name": "The Global GO-SHIP Survey in support of the Ocean Decade 2021-2030",
+  "sdo:description": "GO-SHIP evolve&#x27; will focus on emerging opportunities for the fourth decadal GO-SHIP survey in three areas   •	New science area   o	Addition of biological and ecosystem measurements enabling GO-SHIP to determine changes in key indicators of ocean health.   •	Accelerating use of knowledge  o	Expanding provision of real-time data.    o	Fit-for purpose provision of calibration data to evolving partner networks including Argo.   o	New stakeholder-driven data products;    •	Multinational capability: enabling contributions from more new nations    o	Developing access and training opportunities;   o	Supporting and facilitating multinational voyages and shared facilities.  o	New funding models of funding for program-wide support and capability.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "3",
+  "sdo:url": "https://oceandecade.org/actions/go-ship-evolve/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "GO-SHIP program office"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/UN1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/15",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Early Career Ocean Professionals",
+  "sdo:name": "Early Career Ocean Professionals",
+  "sdo:description": "The ECOP Programme mission is to incorporate new ways of thinking into global ocean sustainability and stewardship challenges through diverse engagement. The ECOP programme will achieve this by empowering ECOPs with meaningful networking and professional development opportunities to engage with each other and with local to global institutions through the framework of the UN Ocean Decade. The vision of the ECOP Programme is to elevate and strengthen the diverse perspectives of new generations of ocean professionals in a collective voice, ensuring that knowledge is transferred between experienced and early-career ocean professionals, to promote ocean sustainability for &quot;The Ocean We Want&quot;.",
+  "sdo:location": "Russian Federation",
+  "sdo:identifier": "15",
+  "sdo:url": "https://oceandecade.org/actions/early-career-ocean-professionals-ecops/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "ECOP Working Group"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
