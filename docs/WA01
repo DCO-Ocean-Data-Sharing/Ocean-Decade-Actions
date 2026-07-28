@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/WA01",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Yagarrajalajalan Nagula Buru",
+  "sdo:name": "Yagarrajalajalan Nagula Buru",
+  "sdo:description": "This multidisciplinary project uses socio-ecological research to advance equity in knowledge sharing and the co-management of marine and coastal resources with Indigenous Traditional Owners. Marine parks are accessed by multiple stakeholders with different interests, activities, and responsibilities. This creates potential challenges for effective management and shared custodianship, especially where divergent stakeholder value systems potentially result in conflicting beliefs regarding the use of resources. By integrating Indigenous Knowledge and Western Science, this project’s broad objectives are to; identify the distributions of human and conservation values in space and time at a key protected location in northern Australia, translate information on the distributions of these values into management strategies, and devise and implement a communication framework to ensure equitable access of knowledge to all stakeholders and enhance custodianship of Saltwater Country.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "WA01",
+  "sdo:url": "https://oceandecade.org/actions/yagarrajalajalan-nagula-buru/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Murdoch University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/69"
+  }
+}
