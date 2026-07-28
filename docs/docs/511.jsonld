@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/511.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "European Marine Board",
+  "sdo:name": "European Marine Board",
+  "sdo:description": "The EMB provide a strategic forum to develop marine research foresight, initiate state-of-the-art analyses and translate these into clear policy recommendations to European institutions as well as national government. The EMB secretariat will oversee their contribution to the Ocean Decade. Their scientists and entities are predominantly based in Europe, however their scientific activities are global in scope. The EMB propose to contribute to the Decade as an Implementing Partner by 1) providing coordination support to their members in the context of their endorsed Decade Actions; 2) providing communication support to said endorsed Decade Actions led by their members, as well as communicating generally about the Decade to members and supporting Decade involvement in EMB led or supported events; and 3) support the science to policy pipeline by discussing links to the Ocean Decade in all of their policy documents. The third action is supported by diverse working groups which align with the Ocean Decade Outcomes. Their contributions are in-kind personnel resources in the form of EMB secretariat members leading the DIP. This is complemented by some financial contribution through funnelling of resources as they arise, into projects addressing the Engaging Ocean outcome",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "511",
+  "sdo:url": "https://oceandecade.org/actions/european-marine-board/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "European Marine Board"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/821.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Southern University of Science and Technology (SUSTech) and the Preparing Shenzhen Ocean University (SOU)",
+  "sdo:name": "Southern University of Science and Technology (SUSTech) and the Preparing Shenzhen Ocean University (SOU)",
+  "sdo:description": "The Southern University of Science and Technology (SUSTech) is a public university located in Shenzhen, China with a commitment to establishing a world-leading oceanography program.",
+  "sdo:location": "China",
+  "sdo:identifier": "821",
+  "sdo:url": "https://oceandecade.org/actions/sustech-sou/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Southern University of Science and Technology (SUSTech) and the Preparing Shenzhen Ocean University (SOU)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/558.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "MMOA IMarEST Bursary for Aspiring MMOs",
+  "sdo:name": "MMOA IMarEST Bursary for Aspiring MMOs",
+  "sdo:description": "The annual MMOA IMarEST Bursary for Aspiring Marine Mammal Observers supports student marine mammal observers and other early career marine mammal practitioners. Jointly funded by the IMarEST&#x27;s Don Bootle Fund and the Marine Mammal Observer Association (MMOA), the Bursary provides aspiring Marine Mammal Observers (MMOs), Protected Species Observers (PSOs) and Passive Acoustic Monitoring (PAM) Operators with the necessary resources to allow them to enhance their skills and expertise through participating in relevant specialised training programs and / or by obtaining equipment. This bursary aims to facilitate access to training opportunities for career advancement and competency development in marine mammal observation and conservation.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "558",
+  "sdo:url": "https://oceandecade.org/actions/mmoa-imarest-bursary-for-aspiring-mmos/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Marine Engineering, Science &amp; Technology (IMarEST)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

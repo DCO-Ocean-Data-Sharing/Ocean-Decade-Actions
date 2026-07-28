@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/AXA-002.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Community forestry to enhance conservation and restoration of mangroves for more resilient coastal livelihoods",
+  "sdo:name": "Community forestry to enhance conservation and restoration of mangroves for more resilient coastal livelihoods",
+  "sdo:description": "Dr Valerie Hagger will investigate how community forestry and Indigenous co-management can improve mangrove conservation and restoration worldwide to reverse their continuing global decline and strengthen costal populations’ resilience.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "AXA-002",
+  "sdo:url": "https://oceandecade.org/actions/community-forestry-to-enhance-conservation-and-restoration-of-mangroves-for-more-resilient-coastal-livelihoods/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The University of Queensland"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

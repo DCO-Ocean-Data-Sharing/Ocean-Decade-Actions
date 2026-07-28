@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/524.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Preventing ocean plastic in rivers",
+  "sdo:name": "Preventing ocean plastic in rivers",
+  "sdo:description": "Plastic Fischer tackles ocean plastic pollution already in rivers and collects, sorts, and manages the non-organic material in order to protect marine biodiversity. The “3L Initiative” uses locally-built, low-tech and low-cost solutions to efficiently stop River Plastic and creates jobs for the local communities to carry out the reliable end-to-end services that ensure a safe processing of the collected plastic. The used technology can be built from locally available material anywhere in the world and is easy to manufacture and maintain. Besides the waste collection, Plastic Fischer organizes awareness campaigns together with schools and volunteers to create sensitivity for the consequences of plastic pollution and the benefits of proper waste management. The social enterprise has ambitions to scale across India and Indonesia, create hundreds of jobs for underserved communities and protect the oceans from thousands of tons of plastic.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "524",
+  "sdo:url": "https://oceandecade.org/actions/preventing-ocean-plastic-in-rivers/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Plastic Fischer"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

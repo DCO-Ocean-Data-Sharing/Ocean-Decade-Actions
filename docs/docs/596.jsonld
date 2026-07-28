@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/596.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Branding of Research Vessels with Oceandecade Logo",
+  "sdo:name": "Branding of Research Vessels with Oceandecade Logo",
+  "sdo:description": "The German research vessels SONNE, METEOR (IV – will enter into service in 2026), ALKOR, and MARIA S. MERIAN support marine research in all ocean regions and are equipped for investigations in the fields of biology, geology, geophysics, glaciology, geochemistry, oceanography, and meteorology. Research conducted using these vessels contribute to the challenges of the Ocean Decade and contributes to its objectives to identify, generate and use critical ocean knowledge to manage the ocean sustainably. They form an important infrastructure and provide researchers from Germany and abroad access to all ocean regions to help them tackle societal challenges.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "596",
+  "sdo:url": "https://oceandecade.org/actions/branding-of-research-vessels-with-oceandecade-logo/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Bundesministerium für Forschung, Technologie und Raumfahrt – BMFTR (Federal Ministry of Research, Technology and Space)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

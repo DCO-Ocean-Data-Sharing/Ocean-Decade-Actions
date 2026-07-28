@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/546.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Development of comprehensive tsunami software",
+  "sdo:name": "Development of comprehensive tsunami software",
+  "sdo:description": "This action will contribute to the UN 31 Ocean Decade Tsunami Programme. The aim of this action is to develop comprehensive tsunami calculation software that will be available free of charge on the Internet. The software will include two-dimensional shallow water equations commonly used in tsunami hazard assessment. In addition, it can calculate dispersive tsunamis. Parallelized tsunami calculations are possible on laptops as well as on supercomputers. We can predict not only seismic tsunamis, but also non-seismic tsunamis caused by, for example, submarine landslides and volcanic eruptions. User-friendly input/output interfaces are provided.",
+  "sdo:location": "Japan",
+  "sdo:identifier": "546",
+  "sdo:url": "https://oceandecade.org/actions/development-of-comprehensive-tsunami-software/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Tokushima University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

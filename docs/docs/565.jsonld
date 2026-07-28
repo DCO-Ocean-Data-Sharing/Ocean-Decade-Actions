@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/565.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Kogia’s Oceanic Library",
+  "sdo:name": "Kogia’s Oceanic Library",
+  "sdo:description": "Kogia is a nonprofit media library and creative studio dedicated to protecting marine life. With the mission to transform nature conservation communication, Kogia supports the work of scientists, activists, educators, and conservationists by providing them with high-quality photos and videos donated by some of the world’s most renowned nature photographers and filmmakers.  Kogia&#x27;s Oceanic Library contributes to raising awareness about ocean health and conservation and ensuring that the urgent message of marine conservations resonates with diverse audiences worldwide, through:  - Providing organizations, conservationists and communities with the resources to share authentic, localized narratives about their ecosystems - Enabling diverse, grassroots perspectives in conservation storytelling - Enhancing global understandings of marine ecosystems and inspiring action for ocean conservation.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "565",
+  "sdo:url": "https://oceandecade.org/actions/kogias-oceanic-library/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Kogia"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

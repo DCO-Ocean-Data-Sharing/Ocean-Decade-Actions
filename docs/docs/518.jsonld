@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/518.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Brilliant Marine Research Idea Grant",
+  "sdo:name": "Brilliant Marine Research Idea Grant",
+  "sdo:description": "The philanthropy program of VLIZ, The Sea as a Good Cause, launches an annual call for Brilliant Marine Research Ideas. With the BMRI grant, worth EUR 5.000, we want to inspire and help young, original thinking marine scientists. We seek to fund a marine research idea that can contribute to solving a hypothesis-based marine research question. Topics of interest are (amongst others) pollution, ocean and human health, marine biodiversity, climate change, ocean related disasters and marine explorations. The BMRIs distinguish themselves from other funding grants by their focus on out-of-the-box thinking, the elaboration of an additional research topic but always framed within the current personal marine research field of the scientist. The grant can be used to assist researchers with lab and/or fieldwork, data acquisition and analysis, visits to other institutions for the use of specialized facilities, for the acquisition of equipment or software needed for a certain analysis, etc.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "518",
+  "sdo:url": "https://oceandecade.org/actions/brilliant-marine-research-idea-grant/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Flanders Marine Institute (VLIZ)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

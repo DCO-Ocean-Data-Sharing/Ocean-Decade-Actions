@@ -1,0 +1,46 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/806.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Peking University",
+  "sdo:name": "Peking University",
+  "sdo:description": "Peking University intends to exploit the strength of fundamental research and take advantageof multi-disciplinary subjects related to marine science to provide high-quality marine education resources and products for the international community, toinitiatemore international cooperationin the marine field, and ultimately serve the implementation plan of the Ocean Decade.
+Step 1:
+(1) A special programme of the &quot;UN Decade International Postdoctoral Research Fellowship at Peking University&quot; will be announced on Monday 27 June in Chinese and English. In fact, we have interviewed the first postdoctoral fellow who will join the programme from 1st August. The programme is open to researchers who are willing to engage in research directly related to the Ocean Decade goals and priorities from all over the world. 
+(2) We plan to organise and sponsor the Advanced Thematic Seminars on &quot;Seeking Science-Based Solutions&quot; once a year at PKU. Once we are formally approved as a DIP, we shall establishan advisory committee and start to plan the Seminars. The participants are expected to be from around the world. The focus will be on specific problems related to UN Decade goals. In this seminar series, PKU and the relevant departments of the Chinese government will invite experts at home and abroad to lecture and provide the participants with opportunities for on-site research or practice. 
+(3) The 1st Weihai Forum will be held on 6-7 August, 2022. Weihai Forum is designed to be an annual meeting with an overall theme of &quot;Ocean Sustainable Development Driven by Science-Technology Innovation”. We hope to develop this Forum into one of the high-level international communication platforms on key issues related to the UN Decade goals and priorities. The government of Weihai City (a coastal city in Shandong Province, which won the 2003 UN “Habitat Scroll of Honor Award”) has expressed their strong interests in hosting such a forum annually.
+Step 2:
+(1) Launch the Ocean Decade Capacity Building Alliance with universities and research institutions to strengthen the capacity building in the marine field and improving the marine literacy of the whole society by sharing education and research resources. 
+(2) Join the Chinese Government Marine Scholarship Programme to recruit young students from developing countries. 
+(3) Support young talents from around the world to carry out marine research by providing a scientific research and exchange base in the city of Weihai (e.g. blue carbon research).",
+  "sdo:location": "China",
+  "sdo:identifier": "806",
+  "sdo:url": "https://oceandecade.org/actions/european-marine-observation-and-data-network-emodnet/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Peking University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
