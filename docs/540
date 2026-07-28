@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/540",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Pan-Arctic Distributed Biological Observatory",
+  "sdo:name": "Pan-Arctic Distributed Biological Observatory",
+  "sdo:description": "The Distributed Biological Observatory (DBO) is a network of the Pacific Arctic Group that is also supported by the Marine Working Group of the International Arctic Science Committee.  Developed to document ecosystem responses to ongoing environmental changes observed in the Arctic, the DBO provides a framework for standard sampling of physical, chemical and biological measurements over time. The DBO model has recently expanded into a Pan-Arctic DBO network, with sites identified in the Pacific, Atlantic, and Canadian Arctic, and the Siberian seas. This development of internationally coordinated change detection network and its interconnection with declining seasonal sea ice, warming water temperatures, stratification changes and other processes are impacting all aspects of the overall marine ecosystem. An Ocean Decade endorsement will further strengthen these internationally coordinated activities.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "540",
+  "sdo:url": "https://oceandecade.org/actions/pan-arctic-distributed-biological-observatory/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Maryland Center for Environmental Science, Solomons, Chesapeake Biological Laboratory, Solomons, Maryland USA"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

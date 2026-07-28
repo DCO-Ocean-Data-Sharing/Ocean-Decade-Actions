@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/823",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "EU4OceanObs",
+  "sdo:name": "EU4OceanObs",
+  "sdo:description": "EU4OceanObs, as a catalyst for the Roadmap for Cooperation on the UN Ocean Decade between IOC/UNESCO and the European Commission&#x27;s DG Research and Innovation, commits to play a significant role as a Decade Implementing Partner, aligning its efforts with the vision of the Ocean Decade.Our strategic initiatives and sustained actions demonstrate our dedication to supporting the Decade’s goals by:1. Promoting International Cooperation: EU4OceanObs is actively fostering EU-tointernational dialogue and collaboration to advance the objectives of the Ocean Decade. Through a series of strategic events, we convene partners from data sharing, ocean observing and forecasting to cooperate for advancing the solutions for the development of a sustained ocean.2. Strengthening the existing alignment between EU priorities and Ocean Decade goals: We are committed to ensuring the development of digital innovations. In this regard, support is provided for the organization of meeting among leaders of programmes primarily attached to the OceanPrediction DCC, such as DITTO, ForeSea or BestPractices to collaborate on improving data standards.3. Supporting Decade Collaborative Centers (DCCs) and Decade Cooperation Offices (DCOs): By encouraging dialogue and collaboration between the DCC OceanPrediction and the DCOs for Ocean Observing and Data Sharing, EU4OceanObs enhances the development of the digital ecosystem in line with the EU and Decade’s priorities. Action plans is in place to support dialogues between these DDC and DCOs in the future.4. Supporting Meetings and Events: EU4OceanObs organizes meetings, dialogues, and events to engage more deeply the European initiatives with DCCs and DCOs, strengthening collaboration on data standards and other critical areas. This initiative will enhance global efforts, ensuring that the EU’s ocean observing and forecasting activities serve to the broader international community.Given these efforts, formalizing our role as an Implementing Partner would solidify our commitment and enhance our ability to contribute meaningfully to the Ocean Decade’s success.",
+  "sdo:location": "France",
+  "sdo:identifier": "823",
+  "sdo:url": "https://oceandecade.org/actions/eu4oceanobs/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "EU4OceanObs, France via Mercator Ocean International"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/827",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "National Marine Educators Association (NMEA)",
+  "sdo:name": "National Marine Educators Association (NMEA)",
+  "sdo:description": "The National Marine Educators Association (NMEA) is the leading U.S. organization dedicated to marine, freshwater, and Great Lakes education, with 15 regional chapters and a broad network of educators, scientists, and policymakers. Since the early 2000s, NMEA has been a leader in advancing Ocean Literacy (OL) and hosts the most comprehensive OL resources in the U.S., including the UN Ocean Decade-endorsed Handbook for Increasing Ocean Literacy. NMEA promotes equity, traditional knowledge, and communication through active committees and strategic partnerships, while engaging internationally with marine education networks across the globe. Though U.S.-focused, NMEA contributes globally through collaborations, conferences, and shared projects. Its mission—making known the world of water—aligns closely with the UN Ocean Decade vision. NMEA emphasizes lifelong learning, sustainable use of aquatic resources, and fostering personal connections to water. With over 800 members and decades of leadership in education and outreach, NMEA is a committed Ocean Decade Implementing Partner, especially advancing Decade Challenge 10: restoring society’s relationship with the ocean through Ocean Literacy.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "827",
+  "sdo:url": "https://oceandecade.org/actions/national-marine-educators-association-nmea/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National Marine Educators Association (NMEA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

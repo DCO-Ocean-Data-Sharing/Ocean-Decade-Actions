@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/AXA-007",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Climate-smart strategies to develop resilience in artisanal fisheries of Mediterranean Marine Protected Areas",
+  "sdo:name": "Climate-smart strategies to develop resilience in artisanal fisheries of Mediterranean Marine Protected Areas",
+  "sdo:description": "Dr Marina Sanz-Martín will aim at developing adaptive strategies and ocean-based solutions to facilitate a climate-smart management of Marine Protected Areas (MPAs). She will assess the climate risk exposure, the connectivity between MPAs, the vulnerability of commercial fishing species in Mediterranean MPAs and their associated socio-economical costs.",
+  "sdo:location": "Spain",
+  "sdo:identifier": "AXA-007",
+  "sdo:url": "https://oceandecade.org/actions/climate-smart-strategies-to-develop-resilience-in-artisanal-fisheries-of-mediterranean-marine-protected-areas/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Spanish Institute of Oceanography, Spanish National Research Council (IEO - CSIC)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/63"
+  }
+}

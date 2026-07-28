@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/801",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Heirs to Our Ocean",
+  "sdo:name": "Heirs to Our Ocean",
+  "sdo:description": "Heirs To Our Ocean (H2OO) is a youth-formed, youth-led movement created to solve the pressing humanitarian and environmental problems of our shared one-water system.  H2OO envisions a world where all youth are prepared to lead humanity into a more just, equitable, and empathetic future and are connected to the natural world and each other. Its mission is to empower the next generation of leaders by connecting them in purpose, educating them on the intersection of environmental and humanitarian crises they are inheriting, and cultivating essential skills to create innovative solutions and real-world change. H2OO’s programs include youth advisory councils, youth summits, youth-led initiatives, and more.   H2OO organized the world’s first Youth Advisory Council for the UN Ocean Decade in the U.S. (U.S. YAC UNOD) in 2020, with successful cohorts each year and now a team of supporting alumni.   H2OO believes the next generation of leaders and decision makers should have a meaningful “seat at the table” during the Decade, and that all youth should have an opportunity to develop essential real-world skills now, especially empathetic leadership skills.  H2OO is engaged as a Decade Implementation Partner (DIP) to engage youth in the Decade, including assist UN Member States to form their own meaningful youth advisory council for the Decade. H2OO created a comprehensive toolkit to assist and is available for consultation in forming a YAC.   A 14 year old youth at the start of the Decade will be 24 years at the end of it. The best way to turn the tide of the crises their generation is inheriting is to engage them meaningfully now, because then making change for good will be deeply a part of their beings as they enter their careers.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "801",
+  "sdo:url": "https://oceandecade.org/actions/heirs-to-our-ocean/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Heirs to Our Ocean"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

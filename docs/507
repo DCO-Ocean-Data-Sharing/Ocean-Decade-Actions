@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/507",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Polar Pod Expedition",
+  "sdo:name": "Polar Pod Expedition",
+  "sdo:description": "Despite oceanographic cruises (only summertime), satellite observations, Argo profilers, sensors deployed on birds and mammals, the Southern Ocean remains tremendously under-surveyed.     The international scientific community is unanimous : “Sustained observation of the Southern Ocean is critical. In addition to traditional observation methods, we need in situ long period measurements”.     Due to its isolation, its immensity, its strong winds and rough sea, the Southern Ocean is the largest data gap of global oceans.    POLAR POD is an unprecedented maritime exploration of the Southern Ocean, the main driver of the Earth climate and a huge reserve of marine biodiversity.    Collected data will be on free access for the international scientific community.",
+  "sdo:location": "France",
+  "sdo:identifier": "507",
+  "sdo:url": "https://oceandecade.org/actions/Polar-Pod-Expedition/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Ocean Polaire"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

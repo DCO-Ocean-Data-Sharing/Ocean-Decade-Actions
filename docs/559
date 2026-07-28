@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/559",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Belmont Forum Ocean Collaborative Research Actions (BF-OCRAs)",
+  "sdo:name": "Belmont Forum Ocean Collaborative Research Actions (BF-OCRAs)",
+  "sdo:description": "The Belmont Forum Ocean Collaborative Research Actions (BF-OCRAs) advance ocean science by bringing together international funders to develop multilateral calls that encourage multinational transdisciplinary research, providing knowledge for understanding, mitigating, and adapting to global environmental change. These BF-OCRA proposals align with the Ocean Decade by generating transformative knowledge and fostering capacity development. Through a transdisciplinary approach, they involve environmental and social scientists, policymakers, and local communities in co-designing and co-delivering research projects. The initiatives emphasize open access to data and knowledge, promote inter-generational and geographic diversity, and strengthen international relationships. The Belmont Forum is an international partnership of research funders that mobilize funding for global environmental change research and accelerates its delivery to remove critical barriers to sustainability.",
+  "sdo:location": "Panama",
+  "sdo:identifier": "559",
+  "sdo:url": "https://oceandecade.org/actions/belmont-forum-ocean-collaborative-research-actions/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Belmont Forum"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

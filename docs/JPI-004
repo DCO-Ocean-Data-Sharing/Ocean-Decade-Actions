@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/JPI-004",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "DEUTERONOISE",
+  "sdo:name": "DEUTERONOISE",
+  "sdo:description": "DeuteroNoise is an international collaborative and interdisciplinary project whose the main goal is to characterise noise pollution caused by maritime traffic in selected sites throughout Europe including the North Adriatic Sea, Lagoon of Venice, Barcelona coast, North Sea, and Black Sea, and testing its effects on animal behavior, nervous system and sensory organs, immune system, and resilience in marine invertebrate deuterosomes. To reach this goal, a team of experienced researchers from several countries and with diverse backgrounds, will undertake a comprehensive analysis of noise level caused by maritime traffic in the selected sites and will analyze from different points of view a panel of ecological relevant invertebrate species. Information and data generated in this project will contribute to building mathematical links in the form of a multiscale model, able to simulate noise pollution and guide decision-makers in the development of policies. This project will combine field data with laboratory experiments.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "JPI-004",
+  "sdo:url": "https://oceandecade.org/actions/DEUTERONOISE/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Universita degli Studi di Padova"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/12"
+  }
+}

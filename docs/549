@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/549",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Enhancing capacity for global coastal resilience",
+  "sdo:name": "Enhancing capacity for global coastal resilience",
+  "sdo:description": "This Decade Action will enhance coastal resilience through: 1. Technical expertise and innovation: we will provide scientifically based tools and best practices for the entire natural system, from source to sea, enabling global application to various coastal regions.  2. Capacity enhancement: our initiatives will empower professionals, organizations and infrastructure managers with essential tools to implement resilience-enhancing activities (e.g. critical infrastructure resilience, adaptive building, nature-based solutions), leveraging our open-source software and hands-on training sessions.  3. Policy and governance: we will facilitate collaboration and knowledge transfer between the DCC-CR and the IPDC (International Panel on Deltas, Coastal Areas and Islands) to accelerate climate adaptation internationally at the local level.  4. Collaboration with international networks: we plan to strengthen collaborations among other UN Ocean Decade Centers and related international networks.",
+  "sdo:location": "Netherlands (Kingdom of the)",
+  "sdo:identifier": "549",
+  "sdo:url": "https://oceandecade.org/actions/enhancing-capacity-for-global-coastal-resilience/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Deltares"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/AXA-004",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Women’s livelihoods in vulnerable coastlines",
+  "sdo:name": "Women’s livelihoods in vulnerable coastlines",
+  "sdo:description": "Pointing out the lack of gender-disaggregated data, Dr Megnaa Mehtta will investigate several forms of differentiated vulnerability among coastline resident women of the Bay of Bengal Delta, such as notably intra-household inequalities, endemic health and livelihood risks, and migration-related pressures, with a view to better inform relevant decision-making.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "AXA-004",
+  "sdo:url": "https://oceandecade.org/actions/womens-livelihoods-in-vulnerable-coastlines/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University College London"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

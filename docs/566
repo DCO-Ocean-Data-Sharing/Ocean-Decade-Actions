@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/566",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "ALDEBARAN",
+  "sdo:name": "ALDEBARAN",
+  "sdo:description": "The research and media vessel ALDEBARAN has been a flexible and cost-effective platform for marine research and communication since 1992, covering over 100,000 nautical miles on more than 250 expeditions. Specializing in shallow and coastal waters, it supports scientists, educators, and media in studying and communicating marine, climate, and biodiversity topics. Equipped with modern technology, a dedicated crew, and a low carbon footprint, ALDEBARAN enables high-quality research, environmental education, and live media broadcasts. It has contributed to marine protected areas, provided critical data, and engaged millions through science communication. Available worldwide, the vessel serves as a hub for knowledge exchange, offering an ideal platform for applied and basic marine research, outreach, and public engagement aligned with the UN Ocean Decade’s goals.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "566",
+  "sdo:url": "https://oceandecade.org/actions/aldebaran/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "German Ocean Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

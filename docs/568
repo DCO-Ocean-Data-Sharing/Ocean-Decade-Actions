@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/568",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Science Exhibition",
+  "sdo:name": "Ocean Science Exhibition",
+  "sdo:description": "The Ocean Science Multimedia Exhibition on the Cap San Diego in Hamburg is one of the first public events in Germany for the UN Decade of Ocean Science. Supported by over 75 partners, it fosters knowledge-sharing for a sustainable ocean. Serving as a learning space for Hamburg schools, it combines multimedia installations, exhibits, and discussions. Highlights include the world premieres of a microplastic collector and an underwater satellite, alongside cutting-edge ocean tech like an Argo Float, an algae reactor, and the OceanPack™ measuring station. Art from ghost nets and a historic sea mine spotlight marine litter. Visitors can explore Ocean Decade content via a touch table and films from 80 expeditions. Housed in the world’s largest seaworthy museum ship, the exhibition runs throughout the Ocean Decade. It is Hamburg’s first fully solar-powered exhibition, thanks to a photovoltaic system by Meyer Burger on Cap San Diego&#x27;s deck.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "568",
+  "sdo:url": "https://oceandecade.org/actions/ocean-science-exhibition/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "German Ocean Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

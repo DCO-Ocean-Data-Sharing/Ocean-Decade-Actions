@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/829",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Institute of Marine Engineering, Science and Technology (IMarEST)",
+  "sdo:name": "Institute of Marine Engineering, Science and Technology (IMarEST)",
+  "sdo:description": "IMarEST already is key contributor to the Ocean Decade through a diverse portfolio of endorsed Decade Actions and strategic partnerships. With over 12,500 members in 120+ countries, IMarEST provides a powerful interdisciplinary platform connecting science, engineering, policy, and industry. IMarEST’s ongoing Decade contributions include more than 12 endorsed Actions such as the M2M Mentoring Programme, ESB MMO Training Initiative, World Ocean Week Suriname, and the MMOA Bursary. These initiatives promote capacity development, early-career support, marine mammal conservation, and sustainable offshore practices. In 2024, IMarEST appointed Niru Dorrian—marine mammal expert and offshore ecologist—as its Ocean Decade Ambassador, further strengthening its leadership and outreach. IMarEST aligns most closely with the Decade Coordination Office for Ocean Data Sharing and the Decade Coordination Office for Ocean and Human Health, as many of its endorsed actions focus on ecosystem monitoring, marine mammal protection, and building the human infrastructure needed to implement ocean science. The Institute also collaborates with national Decade structures such as the UK and Irish National Decade Committees and regularly contributes to science-policy forums through its consultative status with IMO and ECOSOC.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "829",
+  "sdo:url": "https://oceandecade.org/actions/institute-of-marine-engineering-science-and-technology-imarest/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Marine Engineering, Science and Technology (IMarEST)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

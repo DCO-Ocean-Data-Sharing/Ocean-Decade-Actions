@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/575",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Building Bridges-Science, Policy and Society",
+  "sdo:name": "Building Bridges-Science, Policy and Society",
+  "sdo:description": "WIOMSA-SCALABLE and partners invite applications for a 5-day in-person training workshop on co-design for ocean sustainability. This interactive training brings together community representatives, scientists, policymakers, and other ocean professionals to learn how to collaborate to solve complex socio-ecological challenges concerning ocean and coasts of the WIO region.  Participants will gain tools and experience to apply co-design approaches that integrate diverse knowledge systems, promote inclusive participation, and address real-life marine and coastal challenges. The course includes expert-led sessions, case studies, peer learning, and a field trip, covering topics such as systems thinking, transdisciplinarity, co-management, inclusive facilitation, and effective communication.  The training is an action under the MARCOP programme",
+  "sdo:location": "United Republic of Tanzania",
+  "sdo:identifier": "575",
+  "sdo:url": "https://oceandecade.org/actions/building-bridges-science-policy-and-society/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Western Indian Ocean Marine Science Association"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

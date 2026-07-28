@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/816",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Decade Collaborative Centre for the Southern Ocean Region (DCC-SOR)",
+  "sdo:name": "Decade Collaborative Centre for the Southern Ocean Region (DCC-SOR)",
+  "sdo:description": "SCAR is an international scientific organization established under the International Science Council. The primary objective of SCAR is to initiate, develop, and coordinate high-quality international scientific research in the Antarctic and Southern Ocean region and to provide advice to policymakers, specifically the Antarctic Treaty System, on issues related to the region. SCAR is governed by a council, which is composed of Delegates from member countries and several of the Scientific Unions of the International Science Council that are members of SCAR.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "816",
+  "sdo:url": "https://oceandecade.org/actions/decade-collaborative-centre-for-the-southern-ocean-region-dcc-sor/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Scientific Committee on Antarctic Research (SCAR)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

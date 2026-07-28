@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/538",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "JPI Oceans Joint Call: Changing Marine Lightscapes",
+  "sdo:name": "JPI Oceans Joint Call: Changing Marine Lightscapes",
+  "sdo:description": "Light is fundamental for all life. Marine organisms have evolved in adaptation to natural light conditions, in terms of the amount (intensity), the colours (spectral composition) and the natural cycles (periodicity) of light. Over the last century, however, marine lightscapes in the world’s oceans and coastal regions have fundamental changed.    The JPI Oceans joint call on Changing Marine Lightscapes, with the two sub-topics Coastal Darkening and marine Artificial Light at Night (ALAN), addresses an emerging and under-studied aspect of environmental change with potential relevance for ocean health, marine pollution, biodiversity loss, and, ultimately, maritime spatial planning.  The projects funded through the call are expected to generate transversal knowledge to better understand the impacts changes in light have on the marine environment, its biodiversity and ecosystem functioning, and for providing ecosystem services. The projects should also suggest mitigating measures.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "538",
+  "sdo:url": "https://oceandecade.org/actions/jpi-oceans-joint-call-changing-marine-lightscapes/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "JPI Oceans"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

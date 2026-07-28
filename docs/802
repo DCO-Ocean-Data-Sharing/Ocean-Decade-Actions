@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/802",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "EurOcean",
+  "sdo:name": "EurOcean",
+  "sdo:description": "EurOcean supports European marine science and technology advances. They engage in marine science communication and dissemination activities, promote research achievements   and initiatives, create opportunities for developing ocean science and technology, and nurture partnerships and collaborations to help our community to make better and more informed decisions. EurOcean provides comprehensive databases of information on topics related to marine science and technology in Europe with priority given to three main domains: Marine Knowledge Management, Marine Research Infrastructures, and Ocean Public Outreach and Awareness activities.   As a Decade Implementing Partner, EurOcean will provide: • Networking events, conferences, workshops, and webinars with relevant stakeholders in the European marine science arena. Consortia for related R&amp;D projects and actively engages in such projects.    • Communication and dissemination of marine science activities to reach not only some of the most influential stakeholders but also the general public in European countries.    • Ocean Literacy activities.    • Timely and reliable data, information, and knowledge, through our databases, awareness activities, studies, and reports.    • Open databases (RID–Research Infrastructures Database and KG-Knowledge Gate) which keeps data relevant to the marine scientific community in Europe.   • The EurOcean team will also liaise with the DCU on a quarterly basis to identify further opportunities. Additionally, they will support communications through their extensive network, on behalf of the Decade.    Many of EurOcean’s activities are already aligned with the Ocean Decade. They will continue this alignment and direct implementation of Ocean Decade activities through a dedicated human resource.",
+  "sdo:location": "Portugal",
+  "sdo:identifier": "802",
+  "sdo:url": "https://oceandecade.org/actions/EurOcean/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "EurOcean"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/826",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Decade Collaborative Center Challenge 4 - Sustainable Ocean Economy",
+  "sdo:name": "Decade Collaborative Center Challenge 4 - Sustainable Ocean Economy",
+  "sdo:description": "Decade Collaborative Center (DCC) in Barcelona, focused on Challenge 4 of the Ocean Decade—developing a sustainable, resilient, and equitable ocean economy—aims to enhance global coordination, innovation, and impact. DCC will adopt a flexible, inclusive, and impact-driven model, making it well-suited to support diverse initiatives. Barcelona as a city has a strong institutional network, leadership in maritime innovation, and strategic location on the Mediterranean to serve as a global hub. Overall, the Barcelona-based DCC is positioned as a key enabler of Challenge 4, offering a global platform for ocean economy transformation and reinforcing the city’s role as a leader in sustainable ocean development.",
+  "sdo:location": "Spain",
+  "sdo:identifier": "826",
+  "sdo:url": "https://oceandecade.org/actions/decade-collaborative-center-challenge-4-sustainable-ocean-economy/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Barcelona City Council"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

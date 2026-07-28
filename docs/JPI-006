@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/JPI-006",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "IndicatorS Of changing Lightscapes in Underwater Marine Ecosystems (ISOLUME)",
+  "sdo:name": "IndicatorS Of changing Lightscapes in Underwater Marine Ecosystems (ISOLUME)",
+  "sdo:description": "ISOLUME will assess how marine lightscapes have changed across European sea basins over decadal to centennial timescales, and determine drivers, sources and impacts of these changes at both large and small scales. Our approach combines historical trend analyses of in situ and remotely sensed marine optics with statistical and mechanistic modelling. It covers both large, European sea basin scales and focused smaller scale regional case studies addressing different aspects of drivers and impacts of changing marine lightscapes. The investigation includes marine, estuarine and freshwater systems, land-ocean connectivity and temperature and salinity gradients. The project uniquely investigates four dimensions of marine lightscapes: intensity, location, timing, and spectra, with a focus on changes in the recent 25 years and projections for 2050. The involvement of external partners from further European countries, industry, stakeholders, and society is facilitated through a Science Advisory and Stakeholder Panel supported by a scoping activity and a call for expression of interest. The scientific evidence-based knowledge developed in ISOLUME will be used to advance effective monitoring and management strategies and establish policy frameworks to mitigate changing marine lightscapes.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "JPI-006",
+  "sdo:url": "https://oceandecade.org/actions/indicators-of-changing-lightscapes-in-underwater-marine-ecosystems-isolume/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Leibniz Institute for Baltic Sea Research Warnemunde (IOW)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/3.7"
+  }
+}

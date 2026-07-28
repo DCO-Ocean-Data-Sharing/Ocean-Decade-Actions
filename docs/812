@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/812",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Decade Collaborative Centre for Ocean Prediction",
+  "sdo:name": "Decade Collaborative Centre for Ocean Prediction",
+  "sdo:description": "Ocean prediction is an essential element across the objectives, challenges, and outcomes of the Decade. The modelling community has responded by mobilizing international support for numerous programmes designed to drive the innovation needed to achieve Decade goals. In the community dialogue to identify the needs and interests for an OceanPrediction DCC, more than 30 international / intergovernmental or regional programmes, projects, and organizations (both  Decade  and  non-Decade)  expressed  their  interests  in  working  together  through  a collaborative  framework.Several  of  theDecade  Outcomes  rely  directly  on  modelling  and forecastingand almost all the Decade challenges will also require a coordinated approach to ocean prediction.Fostering  collaborations  across  these  many  separate-but-interdependent  modelling  and forecasting activities to achieve the goals of the Decade and to lay the foundations of a Global Ocean  Prediction  System  as  a  legacy  of  the  Decade  will  require  a  planned,  systematic approach and strong levels of coordination and cooperation.The OceanPrediction  DCC  is  a  cross-cutting  structure  that will work  at  the  global  scale to develop  collaborationbetweenDecade  Actions  related  to  ocean  predictiontogether  with relevant organisations’ structuring initiativeswithin the following thematic scope:Thematic scope: Challenge  2:  Understand  the  effects  of  multiple  stressors  on  ocean  ecosystems,  and develop  solutions  to  monitor,  protect,  manage,  and  restore  ecosystems  and  their biodiversity under changing environmental, social and climate conditions.Challenge  3:  Generate  knowledge,  support  innovation,  and  develop  solutions  to optimize the role of the ocean in sustainably feeding the world’s population under changing environmental, social and climate conditions.Challenge  4:  Generate  knowledge,  support  innovation,  and  develop  solutions  for equitable  and  sustainable  development  of  the  ocean  economy  under  changing environmental, social and climate conditions.Challenge  5:  Enhance  understanding  of  the ocean-climate  nexus  and  generate knowledge and solutions to mitigate, adapt and build resilience to the effects of climate change  across  all  geographies  and  at  all  scales,  and  to  improve  services  including predictions for the ocean, climate, and weather.Challenge   6:   Enhance   multi-hazard   early   warning   services   for   all   geophysical, ecological, biological, weather, climate and anthropogenic related Ocean and coastal hazards, and mainstream community preparedness and resilience.Challenge 7: Ocean ObservationsChallenge.Challenge 8: Digital Representation of the Ocean  Challenge  9:  Ensure  comprehensive  capacity  development  and  equitable  access  to data, information, knowledge, and technology across all aspects of ocean science and for all stakeholders. The OceanPrediction DCC will work in close collaboration with the proposed DCOs for Ocean Observing and Data Sharing and will continue to explore activities for joint communications, initiatives and resource mobilization.",
+  "sdo:location": "France",
+  "sdo:identifier": "812",
+  "sdo:url": "https://oceandecade.org/actions/Decade-Collaborative-Centre-for-Ocean-Prediction/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Mercator Ocean International"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/830",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Swiss Polar Institute",
+  "sdo:name": "Swiss Polar Institute",
+  "sdo:description": "The Swiss Polar Institute (SPI) is Switzerland’s national body supporting polar and high-altitude DD did not raise any issues The Swiss Polar Institute is strategically positioned to become a strong Implementing Partner of the  al Organization research, playing a role in linking land-locked countries like Switzerland to global ocean science. One of their core missions is to generate synergies within the Swiss scientific community. It can therefore count on a large network of research institutions, foundations, public bodies and individual researchers both in Switzerland and abroad which will enable to connect its activities in the context of the Ocean Decade and ensure that they have the required critical mass and visibility. SPI supports numerous ocean-related initiatives and is currently advancing its engagement in the Ocean Decade through upcoming endorsement applications for: 1. The CASCADES Expedition (2026) – an international, icebreaker-based research mission 2. Swiss Polar Class modules – educational tools linking polar science and climate literacy In addition, the SPI already collaborates with globally relevant partners and initiatives: · Tara Ocean Foundation (MoU signed) · Vendée Globe skipper Oliver Heer Through endorsement of flagship initiatives like CASCADES and Swiss Polar Class, and links to global partners and polar infrastructure, SPI bridges the global ocean-polar nexus while strengthening the voice of land-locked countries in the Ocean Decade Network.",
+  "sdo:location": "Switzerland",
+  "sdo:identifier": "830",
+  "sdo:url": "https://oceandecade.org/actions/swiss-polar-institute/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Swiss Polar Institute"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

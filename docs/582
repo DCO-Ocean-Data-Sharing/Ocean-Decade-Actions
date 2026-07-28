@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/582",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sail for Impact – an action-based sailing initiative for ocean impact",
+  "sdo:name": "Sail for Impact – an action-based sailing initiative for ocean impact",
+  "sdo:description": "Sail for Impact – an action-based sailing initiative for ocean impact&#x27;&#x27; is a decentralized global initiative that uses sailing as a tool for long-term ocean research, stakeholder collaboration, and public engagement. Acting as a &quot;bnb for ocean impact,&quot; it enables scientists, brands, NGOs, and communities to co-create practical missions focused on restoration, education, and innovation. The platform supports scalable, modular action—ranging from Arctic kelp surveys to offshore racing campaigns—and blends expedition fieldwork with high-impact storytelling. By making the ocean personally and emotionally accessible, Sail for Impact activates systemic change through sailing, science, and community.",
+  "sdo:location": "Denmark",
+  "sdo:identifier": "582",
+  "sdo:url": "https://oceandecade.org/actions/sail-for-impact-an-action-based-sailing-initiative-for-ocean-impact/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Sail for Impact"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
