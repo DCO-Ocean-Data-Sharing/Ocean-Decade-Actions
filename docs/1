@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/1",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "IOGP Environmental Genomics Joint Industry Programme",
+  "sdo:name": "IOGP Environmental Genomics Joint Industry Programme",
+  "sdo:description": "The IOGP Environmental Genomics Joint Industry Programme (eDNA JIP) was launched in June 2019 to coordinate research aimed at exploring the application of eDNA-based analyses in environmental assessments and monitoring of oil and gas offshore and onshore operations.    •	Oil and gas companies undertake a variety of ecological assessments aimed at characterizing and monitoring the environments in which they operate.  •	Available conventional approaches for ecological assessment, such as direct sampling and visual/acoustic observation, tend to be more time consuming, expensive, and yield less comprehensive data.  •	Environmental DNA (eDNA) can be used to detect organisms and estimate biodiversity. This method can help to reduce field time, sampling cost, and be less invasive while often significantly improving the information found by the assessments.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "1",
+  "sdo:url": "https://oceandecade.org/actions/IOGP-Environmental-Genomics-Joint-Industry-Programme/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The International Association of Oil and Gas Producers (IOGP)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

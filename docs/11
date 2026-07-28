@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/11",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Integrated Ocean Observing Across the Northwest Atlantic",
+  "sdo:name": "Integrated Ocean Observing Across the Northwest Atlantic",
+  "sdo:description": "We will establish an interconnected system to track environmental change in the Northwest Atlantic, from the Arctic to the Gulf of Maine. The oceanographic influence of climate-driven changes in the Arctic extends well into mid-latitudes in this region, with distributions of many species shifting northward against current flow. By convening agencies, institutions, indigenous communities, and private sector stakeholders from the all nations in the region, we can track and communicate key environmental attributes, including marine carbon stores, with greater speed and at scale. This can serve as a model for multinational partnerships for  other ocean areas grappling with environmental change.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "11",
+  "sdo:url": "https://oceandecade.org/actions/Integrated-Ocean-Observing-Across-the-Northwest-Atlantic/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Northeastern Regional Association of Coastal Ocean Observing Systems (NERACOOS)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN1"
+  }
+}

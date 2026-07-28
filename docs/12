@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/12",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Decade Research Programme on the Maritime Acoustic Environment",
+  "sdo:name": "Ocean Decade Research Programme on the Maritime Acoustic Environment",
+  "sdo:description": "Sound is a persistent yet dynamic component of the maritime environment reflecting both physical and biological properties and phenomenology that define oceanography. Understanding sound in the ocean is critical to support users of, and life within, the ocean. The UN Research Programme on the Maritime Acoustic Environment will establish a comprehensive science-based program aimed at measuring and objectively characterizing underwater acoustic environments - the physical, biological and anthropogenic - at regional to global scales. It will foster new scientific knowledge, technologies, approaches to data collection and dissemination that facilitate the use of sound for analyzing, evaluating and predicting ocean-life systems.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "12",
+  "sdo:url": "https://oceandecade.org/actions/Ocean-Decade-Research-Programme-on-the-Maritime-Acoustic-Environment/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Interagency Working Group for Ocean Sound and Marine Life"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

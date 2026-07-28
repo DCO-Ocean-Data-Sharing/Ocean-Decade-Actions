@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/10",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Manejo Costero Integrado como Medida de Adaptación al Cambio Climático     Integrated Coastal Management as an Adaptation to Climate Change Measure",
+  "sdo:name": "Manejo Costero Integrado como Medida de Adaptación al Cambio Climático     Integrated Coastal Management as an Adaptation to Climate Change Measure",
+  "sdo:description": "The Integrated Coastal Management Initiative has been created as a Measure of Adaptation to Climate Change, it involves research institutions, organized civil society and private initiative. Its objective is to recover the environmental services of the marine-coastal ecosystem affected by massive sargassum arrivals. The process begins with a systematic and highly efficient satellite detection of sargassum, with these inputs and the complement of aerial images taken with a drone or plane, the dynamics of sargassum will be modeled at a very high resolution, using extensive tools and computing capabilities to generate early warnings of the arrival of sargassum. With this information, a second operational hydrodynamic model will be implemented, which will allow to coordinate the daily operation, both maritime and land, of collection, transfer, collection and disposal of sargassum, efficiently and with greater safety.",
+  "sdo:location": "Mexico",
+  "sdo:identifier": "10",
+  "sdo:url": "https://oceandecade.org/actions/integrated-coastal-management-as-an-adaptation-to-climate-change-measure/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Instituto de Ciencias del Mar y LimnologÍ­a UNAM"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

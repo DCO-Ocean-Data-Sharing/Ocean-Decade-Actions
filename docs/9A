@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/9A",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "COESSING West Africa school",
+  "sdo:name": "COESSING West Africa school",
+  "sdo:description": "Based upon our experience in Peace Corps, the Coastal Ocean Environment Summer School in Ghana (https://coessing.org), would inspire large numbers of scientists, especially early-career scientists, into its ranks, thus &quot;internationalizingâ€ their outlook, molding many of them into champions for international capacity development for the remainder of their careers, and fostering true ocean science collaborations worldwide.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "9A",
+  "sdo:url": "https://oceandecade.org/actions/ghana-school/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Michigan"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/9"
+  }
+}
