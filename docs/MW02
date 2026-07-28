@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/MW02",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Oceanographic and Ecological data for Nature-based coastal protection in Tunisia (ORIENTATE-TN)",
+  "sdo:name": "Oceanographic and Ecological data for Nature-based coastal protection in Tunisia (ORIENTATE-TN)",
+  "sdo:description": "The overall objective is to provide sustainable, cost-effective data and an ecologically sound alternative to facilitate the adaptive governance of erosion risk in Tunisia’s most vulnerable coastal areas. The project will be carried out through a living lab approach involves cost-effective intertidal seagrass transplantation. Pilot sites will be used to monitor if this Nature-based solution approach could protect the coastline against further erosion processes. This project aims to  serve as a blueprint for other beaches and coastal areas in Tunisia.",
+  "sdo:location": "Germany; Tunisia",
+  "sdo:identifier": "MW02",
+  "sdo:url": "https://oceandecade.org/actions/oceanographic-and-ecological-data-for-nature-based-coastal-protection-in-tunisia-orientate-tn/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung (AWI) and University of Sfax (US)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

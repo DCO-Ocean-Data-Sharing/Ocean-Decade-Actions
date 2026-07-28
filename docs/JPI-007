@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/JPI-007",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Impacts of artificial light at night on pelagic ecosystems in European seas (ALANIS)",
+  "sdo:name": "Impacts of artificial light at night on pelagic ecosystems in European seas (ALANIS)",
+  "sdo:description": "In aquatic environments natural light not only determines the rate of photosynthesis as primordial energy source but also critically influences trophic interactions throughout the entire food web. Light modulates visual predation by many predators as well as predation avoidance strategies by the prey and thus structures the vertical organization of aquatic ecosystems. The classical diel vertical migration of zooplankton to avoid predation during daytime and facilitate their own predation on surface phytoplankton is controlled by ambient light and is influenced especially by light intensities at night. Alterations of light, such as a general reduction of underwater light intensity due to coastal darkening and additional light at night from artificial light sources (ALAN) have the potential to strongly effect zooplankton diel migration patterns with consequences to whole marine ecosystems. In our joint project ALANIS, we will investigate the proliferation of ALAN from coastal activities and shipping and its impact on organismic behaviour such as vertical migration and on key ecosystem functions, while also considering counteracting effects of coastal darkening. We will apply a cross-basin state-of-the-art research pipeline approach, linking spectrally resolved light measurements, single species lab and in situ mesocosm studies, with community-wide field experiments and ecosystem modelling. Experimental and observational study sites will cover a high latitude region, including highly turbid coastal waters, and very clear waters of the Mediterranean. The expected results will provide the necessary fundamental physical characterization of underwater ALAN at different sites and of different types (coastal vs. from ships) and will deliver a comprehensive assessment of zooplankton photo-responsiveness and -behavioural thresholds. Remote sensing data of ocean brightness at night and long-term observations of ocean colour will be used to establish a high-resolution atlas of ALAN for European waters. This ALAN risk map together with the biological and physical knowledge leveraged at the study sites will be integrated into a mechanistic modelling approach for producing a sensitivity map of potential impacts of ALAN and coastal darkening on key ecosystem functions such as export flux. These maps and related project outcomes will be made accessible by a Web-GIS. Collaborative communication, dissemination, and outreach of ALANIS results will efficiently inform decisions and actions of a diverse group of stakeholders.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "JPI-007",
+  "sdo:url": "https://oceandecade.org/es/actions/impacts-of-artificial-light-at-night-on-pelagic-ecosystems-in-european-seas-alanis/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Helmholtz-Zentrum Hereon, Institute for Carbon Cycles"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/3.7"
+  }
+}

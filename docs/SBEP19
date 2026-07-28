@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP19",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Digital Twin of the Ocean for Offshore Wind Energy (DTO4OWE)",
+  "sdo:name": "Digital Twin of the Ocean for Offshore Wind Energy (DTO4OWE)",
+  "sdo:description": "The DTO4OWE project brings together stakeholders from academia, industry, governmental agencies, and the public to address the challenges associated with the growing Offshore Wind Energy (OWE) sector. With more than 300 offshore wind farms scheduled for EU waters in the coming decade, questions arise about their potential impact on marine ecosystems. Conversely, the OWE sector requires relevant and highquality marine data to plan its activities up to 50 years ahead in a changing climate. We will address these two contrasting but interconnected themes using digital twins of the oceans (DTOs). The first objective is to develop fit-for-purpose sub-regional DTOs for assessing OWE impacts in the Baltic Sea and North Sea. Depending on the application, DTOs will encompass the physical-ecological environment and cover short-to-long term periods (up to 50 years), offering improved resolution and quality compared to the state-of-theart. The second objective involves creating a suite of tools for OWE sector-specific What-If Scenarios, including on-demand models, AI-based data-simulation fusion, forecasting, and downscaling tools which are integrated with Destination Earth Data Lake and EDITO_infra. In the long term, DTO4OWE aims to support the sustainable growth of the offshore wind energy sector by adopting digital twin technologies of the ocean environment. The project outcomes can be incorporated into OWE sector decision-making processes, which ultimately has large scale impacts on future OWE production. The developed DTO applications are upscalable for other sub-regions and applicable to monopile, gravitybased, and floating offshore wind farms.",
+  "sdo:location": "Estonia",
+  "sdo:identifier": "SBEP19",
+  "sdo:url": "https://oceandecade.org/actions/digital-twin-of-the-ocean-for-offshore-wind-energy-dto4owe/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Tallinn University of Technology (TalTech)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

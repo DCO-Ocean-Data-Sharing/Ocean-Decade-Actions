@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP25",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Cell-cultured octopus production through sustainablemarine biomass valorization (SEANERGIES)",
+  "sdo:name": "Cell-cultured octopus production through sustainablemarine biomass valorization (SEANERGIES)",
+  "sdo:description": "The world’s population is projected to surpass nine billion by 2050, posing significant challenges for global food production and security. Current livestock farming and fishing practices are unsustainable owing to their greenhouse gas emissions and pollution. Fisheries and aquacultures are major causes of marine litter, ocean damage, and habitat destruction. In addition, factory farming or aquaculture practices, often characterized by overcrowded and unsanitary conditions, have been linked to an increased risk of zoonotic diseases, posing a serious threat to human health and animal welfare. As a result, there is a need for more sustainable and ethical food alternatives. Cultivated meat is an emerging technology where meat is produced using animal cell culture and is seen as a viable alternative, as it mitigates the impacts of conventional livestock and fishing practices. Nevertheless, major technological challenges still need to be addressed to achieve large-scale and cost-efficient cultivated meat bioprocesses. These include the development of i) immortalized cell lines, ii) costefficient animal-free media, and iii) biocompatible scaffolds for cell culture. While this technology has primarily focused on terrestrial species, there is increasing interest in cultivated seafood. The octopus, known for its remarkable tissue regeneration capabilities, is a culturally significant food source globally. The increasing demand for octopus has led to the overexploitation of wild populations. SEANERGIES hypothesizes that octopus cells involved in muscle regeneration could be utilized to create cell lines with enhanced growth and differentiation for cultivated octopus production. To tackle the challenges of media and scaffolds, micro- and macroalgae will be investigated for formulating animal-free, cost-effective culture media and developing biocompatible scaffolds. By integrating the establishment of high-performing octopus muscle cell lines, with the development of animal-free microalgae-derived culture media and seaweed-based scaffolds, SEANERGIES aims at advancing the state-of-the-art in cultivated seafood alternatives by laying the foundation for cultivated octopus production.",
+  "sdo:location": "Netherlands",
+  "sdo:identifier": "SBEP25",
+  "sdo:url": "https://oceandecade.org/actions/cell-cultured-octopus-production-through-sustainablemarine-biomass-valorization-seanergies/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Wageningen University &amp; Research (WUR)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

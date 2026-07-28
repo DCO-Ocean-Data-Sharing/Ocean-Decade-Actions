@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR01",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Biodiversity in Northern European Seagrass meadows - drivers, responses  and resilience (NORSE)",
+  "sdo:name": "Biodiversity in Northern European Seagrass meadows - drivers, responses  and resilience (NORSE)",
+  "sdo:description": "The project will examine the role of concurrent anthropogenic factors and environment drivers on seagrass meadows and their associated biodiversity. NORSE will consider some of the most pressing anthropogenic factors (climate change, nutrient enrichment, overfishing, invasive species) across gradients of environmental drivers (wave exposure, salinity) across northern Europe. The project will also study how biodiversity and trophic interactions can provide resilience to concurrent stressors. To accomplish these goals, we will use a combination of comprehensive data collection across northern Europe and experimental mesocosm methods to provide regional-scale insights on these critical ecosystems. We have assembled an international group of experts in seagrass ecology, experimental methods, and communication that have the expertise to carry out this ambitious research project. Understanding how seagrass meadows respond to multiple concurrent factors and how biodiversity can provide resilience is critical to ensuring the conservation and future survival of these ecosystems and their valuable ecosystem services, including carbon storage, habitat for commercially- and functionally important species, and coastal protection. As efforts to conserve and restore seagrass meadows grow, the results will be directly applicable to managers, and also provide avenues for future research through the creation of Nordic mesocosm network. Through this combination of field and experimental methods, the results are NORSE is expected to have a large scientific and social impact high chance of pushing the frontier for understanding human impacts on this vital coastal ecosystem, and directly contribute to improving management in northern Europe and beyond.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR01",
+  "sdo:url": "https://oceandecade.org/actions/biodiversity-in-northern-european-seagrass-meadows-norse/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Marine Research"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/17"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN34",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Decade Coordination Office for Connecting People and Ocean",
+  "sdo:name": "Decade Coordination Office for Connecting People and Ocean",
+  "sdo:description": "The DCO for Connecting People and Ocean will coordinate Decade implementation under Challenge 10 ‘Change humanity’s relationship with the ocean: Ensure that the multiple values and services of the ocean for human wellbeing, culture, and sustainable development are widely understood, and identify and overcome barriers to behaviour change required for a step change in humanity’s relati ’ Their activities will include supporting endorsed Decade Actions, engaging stakeholders, catalysing new Decade Actions, carrying out communications activities, mobilising resources, contributing to monitoring and evaluation, and contributing to capacity development.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "UN34",
+  "sdo:url": "https://oceandecade.org/actions/decade-coordination-office-for-connecting-people-and-ocean/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "IOC/UNESCO Project Office of the Regional Bureau for Science and Culture in Europe"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

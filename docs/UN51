@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN51",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Climate Resilience for Sustainable Ocean Planning",
+  "sdo:name": "Climate Resilience for Sustainable Ocean Planning",
+  "sdo:description": "While the world seeks to limit global warming, urgent action is needed to minimise the impact of climate change on marine biodiversity and increase its resilience, as well as to ensure at least 30% of the ocean is effectively and equitably protected by 2030, in line with the Kunming-Montreal Global Biodiversity Framework. Within the framework of the IOC Strategy for Sustainable Ocean Planning and Management, this project supports these global efforts by focusing on climate vulnerability in areas critical for marine biodiversity, ensuring the participation of indigenous and local communities, expanding sustainable management of marine and coastal areas, and enhancing ecosystem and community resilience to climate change.  A core component of the project is the development of an open-source climate vulnerability assessment tool that will be piloted in two MPAs in the Global North and South, before being rolled out for local use in MPAs globally.",
+  "sdo:location": "France",
+  "sdo:identifier": "UN51",
+  "sdo:url": "https://oceandecade.org/actions/climate-resilience-for-sustainable-ocean-planning/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Intergovernmental Oceanographic Commission (IOC) of UNESCO"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37"
+  }
+}

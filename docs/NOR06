@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR06",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Novel perspectives on non-invasive cetacean research using microRNA biomarkers in the exhaled breath (blow)",
+  "sdo:name": "Novel perspectives on non-invasive cetacean research using microRNA biomarkers in the exhaled breath (blow)",
+  "sdo:description": "In human and veterinary medicine, blood is the most valuable sample to use to assess health status, as most health variables from multiple metabolic processes and organs are reflected there in real time. However, there is no practical method to obtain blood samples from large free-swimming cetaceans. While possible for smaller species, it obligates the capture and restraint of these individuals, which can be logistically challenging for researchers, and stressful for the animal. Thus, the most widely used sampling technique for free-ranging cetaceans remains remote tissue biopsying, which is considered invasive, even if minimally, as it causes a small lesion on the animal. Nevertheless, in recent years, novel and promising ways of examining whale health are being developed using cetacean exhaled breath or “blow”, collected non-invasively - from the detection of hormones and other metabolites, microbiological studies, genetic markers to determine sex, species, or individual identification and there is strong potential to be used for the discovery of new biomarkers of health. In human medicine, the potential of microRNAs (miRNAs) as non-invasive biomarkers in biological fluids, including exhaled breath condensates, has been well established20. As such many model species already have miRNAomes available; however, miRNAs have not been carefully studied in wildlife species, including cetaceans. The development of miRNAs as novel non-invasive biomarkers of cetacean physiology could revolutionise the field. BLOWOMICS Thus, aims to: 1) provide a well-defined and characterised miRNAome for different tissues of cetaceans; 2) test the potential of using miRNA biomarkers in cetacean blow to address key knowledge gaps in free-swimming large cetaceans and 3) develop an ʻopen accessʼ database for cetacean miRNA resources to facilitate data sharing and advancements worldwide.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR06",
+  "sdo:url": "https://oceandecade.org/actions/novel-perspectives-on-non-invasive-cetacean-research-exhaled-breath-blow/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Nord University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/26"
+  }
+}

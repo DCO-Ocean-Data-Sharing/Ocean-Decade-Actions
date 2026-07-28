@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN25",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "An Ocean Data and Information System supporting the UN Decade of Ocean Science for Sustainable Development (OceanData 2030)",
+  "sdo:name": "An Ocean Data and Information System supporting the UN Decade of Ocean Science for Sustainable Development (OceanData 2030)",
+  "sdo:description": "Development of an open-source data and information system that will link existing ocean information systems around the world, and enable more efficient discovery of data, information and knowledge products.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "UN25",
+  "sdo:url": "https://oceandecade.org/actions/An-Ocean-Data-and-Information-System-supporting-the-UN-Decade-of-Ocean-Science-for-Sustainable-Development/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "International Oceanographic Data and Information Exchange (IODE) of the Intergovernmental Oceanographic Commission (IOC)."
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

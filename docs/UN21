@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN21",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Accelerate Marine Spatial Planning in the Western Pacific",
+  "sdo:name": "Accelerate Marine Spatial Planning in the Western Pacific",
+  "sdo:description": "The proposed Action will capitalize on the MSPglobal and its results, and further promote and accelerate MSP in the Western Pacific, with a view to assisting member states in the region in achieving SDG 14 and the 2030 Agenda as a whole.",
+  "sdo:location": "Thailand",
+  "sdo:identifier": "UN21",
+  "sdo:url": "https://oceandecade.org/actions/Accelerate-Marine-Spatial-Planning-in-the-Western-Pacific-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "IOC Sub-Commission for the Western Pacific, IOC/UNESCO"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

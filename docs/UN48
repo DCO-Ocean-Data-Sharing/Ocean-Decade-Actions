@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN48",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Decade Coordination Office for Africa",
+  "sdo:name": "Decade Coordination Office for Africa",
+  "sdo:description": "The Africa Region encompasses the continent’s extensive coastal and marine areas, and is characterized by remarkable biological diversity and complex geopolitical landscapes. It is home to numerous Small Island Developing States (SIDS), coastal nations, and mainland countries whose economies, livelihoods, and cultures are intimately linked to the ocean. However, the region faces significant challenges, including fragmented marine spatial planning, limited governance capacity in areas beyond national jurisdiction (ABNJ), uneven ocean observation infrastructure, and persistent gaps in scientific, technical, and policy capacities, particularly among island and coastal communities. Fisheries, aquaculture, shipping, and marine-based tourism are critical to the region’s economy and food security, yet they are increasingly threatened by climate change, marine pollution, and overexploitation. Despite these pressures, there are substantial gaps in ecosystem-based management, the application of ocean science and services, and the capacity to implement and enforce measures that promote sustainable ocean use and conservation. The DCO Africa plays a central role in facilitating coordinated action across the region. It partners with National Decade Committees and the Taskforce including national governments, SIDS, regional organizations, research institutions, NGOs, and the private sector to support the co-design, implementation, and monitoring of Ocean Decade Actions, fostering a collaborative approach to sustainable ocean management and the advancement of ocean science in Africa.",
+  "sdo:location": "Kenya",
+  "sdo:identifier": "UN48",
+  "sdo:url": "https://oceandecade.org/actions/decade-coordination-office-for-africa/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "IOC Sub Commission for Africa and the Adjacent Island States (IOC AFRICA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

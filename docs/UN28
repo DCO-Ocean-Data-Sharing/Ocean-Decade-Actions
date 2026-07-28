@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN28",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Decade Coordination Office for the Western Pacific",
+  "sdo:name": "Decade Coordination Office for the Western Pacific",
+  "sdo:description": "Hosted within the IOC Sub-Commission for Western Pacific and supported by Thailand, the WESTPAC Decade Coordination Office will coordinate Decade Actions across all Ocean Decade Challenges in the Western Pacific region and its adjacent areas. It will assure the creation of synergies and links between existing Decade Actions, catalyse new Decade Actions, assist in resource mobilisation and outreach, and coordinate monitoring and evaluation of Decade progress in the region. The DCO will ensure close interactions with the South Pacific DCC hosted in PCCOS to avoid overlap and maximize the Decade benefits to SIDS in the South Pacific region.",
+  "sdo:location": "Thailand",
+  "sdo:identifier": "UN28",
+  "sdo:url": "https://oceandecade.org/actions/Decade-Coordination-Office-for-the-Western-Pacific/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "IOC-WESTPAC"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

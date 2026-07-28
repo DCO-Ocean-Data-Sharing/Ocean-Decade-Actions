@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR17",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "HubSmolt: a novel genetic locus defining seawater consequences of freshwater rearing conditions in Atlantic salmon (HubSmolt)",
+  "sdo:name": "HubSmolt: a novel genetic locus defining seawater consequences of freshwater rearing conditions in Atlantic salmon (HubSmolt)",
+  "sdo:description": "The HubSmolt project focuses on the issue of how to optimise freshwater rearing conditions to maximise welfare and productivity in the seawater phase of salmon production. We recently discovered genetic locus that dramatically affects the light-dependent process of smoltification, affecting molecular reorganisation of the gill, somatic growth in freshwater, and survival in the seawater cage environment. Because of the remarkable extent of the effects on gill gene expression, we call this locus the hub locus. HubSmoltʼs objectives are therefore to properly characterise the consequences of variation at this locus for smolt development and seawater performance; additionally it will begin the complex process of defining the mechanisms through the hub locus affects smolt phenotype. To meet the HubSmolt objectives we will conduct a new study in pools of fish, homozygous for either the major or minor allele at the hub locus. Fish will be taken through smoltification protocols using short photoperiod or continuous light, with multi-tissue sampling and endocrine monitoring throughout the freshwater phase. This will allow us to define in what tissues, and at what times the hub locus affects development, and to assess the extent to which such effects interact with rearing conditions. Subsequently, fish will be transferred to seawater cages and monitored to commercial slaughter weight. In parallel, we will conduct controlled handling stresses, and SAV3 virus challenges and assess acute and long term immunological and pathological responses. By combining these analyses with detailed genetic characterisation of the hub locus we will gain a comprehensive picture of how the hub locus affects development prior to seawater transfer and its potential utility in refinement of salmon aquaculture. Through its extensive complementary experience in basic and applied research in salmonid biology, the project consortium is outstandingly qualified to deliver on these objectives.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR17",
+  "sdo:url": "https://oceandecade.org/actions/hubsmolt-novel-genetic-locus-atlantic-salmon/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institutt for arktisk og marin biologi"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

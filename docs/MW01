@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/MW01",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Mangroves as Nature-based Solutions to Coastal Hazards in Eastern Ghana (MANCOGA)",
+  "sdo:name": "Mangroves as Nature-based Solutions to Coastal Hazards in Eastern Ghana (MANCOGA)",
+  "sdo:description": "MANCOGA will use mangroves to develop a robust and participatory Nature-based Solution (NbS) to hazards such as climate change, flooding, coastal erosion and pollution in Ghana. It will also cover aspects of blue carbon, ocean acidification and biodiversity loss. The ultimate aim is increasing community resilience and affluence. MANCOGA will develop a decision support system building on existing structures and incorporating state-of-the-art technology, including the development of a Digital Twin.",
+  "sdo:location": "Germany; Ghana",
+  "sdo:identifier": "MW01",
+  "sdo:url": "https://oceandecade.org/actions/mangroves-as-nature-based-solutions-to-coastal-hazards-in-eastern-ghana-mancoga/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Helmholtz-Zentrum Hereon, GmbH; Department of Marine and Fisheries Sciences, University of Ghana; Institute of Environment and Sanitation Studies, University of Ghana"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144"
+  }
+}

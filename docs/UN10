@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN10",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "OceanTeacher Global Academy: Building Capacity and Accelerated Technology Transfer for the Ocean Decade",
+  "sdo:name": "OceanTeacher Global Academy: Building Capacity and Accelerated Technology Transfer for the Ocean Decade",
+  "sdo:description": "The OceanTeacher Global Academy provides a comprehensive internet-based training platform that supports classroom training, blended training, and online (distance) learning. OTGA courses cover a range of topics addressing the priority areas of the UN Decade of Ocean Science for Sustainable Development and 2030 Agenda and its SDGs as well as supporting the implementation of the IOC Capacity Development Strategy. OTGA works with Decade partners to further develop, host and deliver Decade related capacity development (training) products and activities to meet capacity development priorities.  OTGA aims at assisting all countries to acquire the necessary capacity to equitably participate in, and benefit from, the Decade actions and related products and services.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "UN10",
+  "sdo:url": "https://oceandecade.org/actions/oceanteacher-global-academy-building-capacity-and-accelerated-technology-transfer-for-the-ocean-decade/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "UNESCO/IOC Project Office for IODE"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

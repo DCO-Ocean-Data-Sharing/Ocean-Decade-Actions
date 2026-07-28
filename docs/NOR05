@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR05",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Kinship-based assessment of Norwegian coastal cod to determine sustainable harvest levels and protect genetic diversity in fisheries (COASTAL-KIN)",
+  "sdo:name": "Kinship-based assessment of Norwegian coastal cod to determine sustainable harvest levels and protect genetic diversity in fisheries (COASTAL-KIN)",
+  "sdo:description": "Splitting fish populations into manageable &quot;stocks&quot; and counting them in large scientific surveys to determine sustainable fishing levels has greatly reduced overfishing in the last 50 years. Yet, complex population structure and inefficient, costly monitoring methods challenge this approach and have led to overharvest and biodiversity loss of vulnerable subpopulations. Our project further develops a powerful new monitoring method, close kin mark recapture (CKMR), which can estimate population size with far greater precision than currently possible. CKMR relies on modern genomics to identify related individuals (e.g. parent-offspring and sibling pairs) in tissue samples. These kinship data are then fit in a population model to estimate key values such as population size and mortality. CKMR data have great potential to improve management of coastal cod and other Norwegian fish stocks by simultaneously addressing several big challenges to assessment. Our work to integrate genetic kinship data into the same model framework as fisheries and survey data is at the leading-edge of developing &quot;next-generation stock assessment models&quot; and is anticipated to revolutionize the field by estimating previously intractable parameters (e.g. natural mortality), reducing our reliance on questionable assumptions, and greatly improving precision of abundance estimates used by managers and policy makers.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR05",
+  "sdo:url": "https://oceandecade.org/actions/kinship-based-assessment-of-norwegian-coastal-cod-coastal-kin/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Marine Research"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

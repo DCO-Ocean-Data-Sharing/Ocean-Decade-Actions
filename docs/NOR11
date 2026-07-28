@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR11",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Computer Vision and Artificial Intelligence based Salmon Identification and automated long-term welfare assessment in aquaculture net-pens (cAIge)",
+  "sdo:name": "Computer Vision and Artificial Intelligence based Salmon Identification and automated long-term welfare assessment in aquaculture net-pens (cAIge)",
+  "sdo:description": "Technology development in cAIge will allow automated, machine-assisted monitoring of fish health and welfare in aquaculture farms at hitherto unprecedented precision levels. This is to be achieved by leveraging advanced AIbased computer vision technology along with individual fish re-identification algorithms for uninterrupted welfare assessment over time. In addition, the relationship between observed welfare status, environmental factors, and farming practices will be integrated into comprehensive models, thereby gaining a better understanding of how these factors interact to shape optimal holding conditions of fish in aquaculture. We emphasize that monitoring the welfare and responses to operational and environmental factors of individual fish over a prolonged period of time represents a significant advancement over the current practice to monitor the fish, thereby enabling researchers in the future to assess fish welfare and behavior on a scale never experienced before.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR11",
+  "sdo:url": "https://oceandecade.org/actions/computer-vision-ai-based-salmon-identification-caige/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "SINTEF OCEAN AS"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

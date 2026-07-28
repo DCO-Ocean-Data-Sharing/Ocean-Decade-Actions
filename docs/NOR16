@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR16",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Present and past climate change impacts on Norwegian fjord ecosystems (PASTIME)",
+  "sdo:name": "Present and past climate change impacts on Norwegian fjord ecosystems (PASTIME)",
+  "sdo:description": "Climate change and anthropogenic pressures are currently altering fjord ecosystems. These perturbations may have profound impacts on marine biodiversity and ecosystem processes. Yet, to date it remains unclear how marine communities respond to environmental change; a gap in knowledge that extends especially to microbial communities. Elucidating the effects of climate/anthropogenic change on the lower trophic level of the ecosystem is crucial as microbes play pivotal ecological roles. Any change in their diversity can have wide-ranging consequences for ecosystem health. However, so far, methods for studying changes in entire marine communities beyond the time scales of historic observations were limited. In PASTIME, we apply the innovative, cross-disciplinary approach of paleogenomics to investigate for the first time if and how microbial communities changed due to environmental changes in the western Norwegian Masfjorden and the polar Kongsfjorden in Svalbard. Specifically, we adapt sedimentary ancient DNA sequencing to high-resolution fjord sediment cores to define the baseline biodiversity over the last two to four centuries in both fjords. For environmental context, we use existing historical data and generate new data on past temperature, freshwater inflow, oxygen-content, nutrients, and sea ice. Combined, we provide the first comprehensive evaluation of fjord ecosystem changes from a pristine state (preindustrial) to a modern state in response to climate change (since ~1850s) and direct anthropogenic pressures (since ~1960s). This approach will allow us to identify natural ecosystem variability or potential (ir)reversible shifts and to document the extent of anthropogenic impact of the last decades. PASTIME is thus highly relevant for producing new knowledge on the link between climate/anthropogenic change, marine biodiversity and ecosystem processes and it contributes to an improved baseline understanding of coastal ecosystems valuable for climate adaptation.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR16",
+  "sdo:url": "https://oceandecade.org/actions/present-and-past-climate-change-impacts-on-norwegian-fjord-ecosystems-pastime/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "NORCE"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/26"
+  }
+}
