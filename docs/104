@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/104",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Coastal Zones Under Intensifying Human Activities and Changing Climate: A Regional Programme Integrating Science, Management and Society to Support Ocean Sustainability",
+  "sdo:name": "Coastal Zones Under Intensifying Human Activities and Changing Climate: A Regional Programme Integrating Science, Management and Society to Support Ocean Sustainability",
+  "sdo:description": "With ~2 billion people relying on its resources, the East Asian seas have nourished rapid economic growth during past decades, which has unfortunately occurred at the expense of ocean health. This Project articulates a novel approach of cross-sectoral partnership in designing, conducting and delivering &quot;the science we need for the ocean we want&quot;. Through interdisciplinary research, we propose to examine the trajectories of six model East Asian coastal ecosystems over the past 50 years and predict their future (30-year) direction. The Programme enables effective integration of science, governance, and society to fundamentally change the business-as-usual development model of the coastal zone.",
+  "sdo:location": "China",
+  "sdo:identifier": "104",
+  "sdo:url": "https://oceandecade.org/actions/Coastal-Zones-Under-Intensifying-Human-Activities-and-Changing-Climate-A-Regional-Programme-Integrating-Science-Management-and-Society-to-Support-Ocean-Sustainability/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Xiamen University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/34"
+  }
+}

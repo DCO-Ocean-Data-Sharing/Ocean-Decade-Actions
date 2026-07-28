@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/91",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Fenoy-X: A data domain system of ocean knowledge for the future prosperity of ocean resources in the Western Indian Ocean.    (Fenoy: Malagasy name for filing the gaps) (X: is for the decade)",
+  "sdo:name": "Fenoy-X: A data domain system of ocean knowledge for the future prosperity of ocean resources in the Western Indian Ocean.    (Fenoy: Malagasy name for filing the gaps) (X: is for the decade)",
+  "sdo:description": "Fenoy-X identify knowledge gaps through datasets from past and present publications. An online interactive map explores ocean related themes, data and tools. Our map seeks to promote understandings of sciences from the Western Indian Ocean region. An online map is open, fair and provide accessible ocean data information. Fenoy-X seeks to demonstrate and promote a sustainable development programme and partnerships to advance their country&#x27;s knowledge. Training and development in protection and conservation of the Indian Ocean ecosystem services forms part of the Fenoy-X library to promote new studies for the future.",
+  "sdo:location": "South Africa",
+  "sdo:identifier": "91",
+  "sdo:url": "https://oceandecade.org/actions/fenoy-x-data-domain-system-of-ocean-knowledge-for-the-future-prosperity-of-ocean-resources-in-the-western-indian-ocean-fenoy-malagasy-name-for-filing-the-gaps-x-the-decade/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Western Indian Ocean Early Career Scientists Network"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

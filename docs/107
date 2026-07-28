@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/107",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Nippon Foundation-GEBCO Seabed 2030 Project",
+  "sdo:name": "The Nippon Foundation-GEBCO Seabed 2030 Project",
+  "sdo:description": "Ocean knowledge is critical to understanding our planet yet today we know little about the shape of the ocean floor with 81% yet to be fully mapped.  The Nippon Foundation-GEBCO Seabed 2030 Project is a collaboration between The Nippon Foundation and the General Bathymetric Chart of the Oceans (GEBCO) to produce the definitive bathymetric map of the entire ocean by 2030.  This is driven by strong motivation to empower the world to make policy decisions, use the ocean sustainably and undertake scientific research informed by detailed understanding of the ocean floor.  The map will be freely available for all users.",
+  "sdo:location": "Monaco",
+  "sdo:identifier": "107",
+  "sdo:url": "https://oceandecade.org/actions/The-Nippon-Foundation-GEBCO-Seabed-2030-Project/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Nippon Foundation-GEBCO Seabed 2030 Project"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

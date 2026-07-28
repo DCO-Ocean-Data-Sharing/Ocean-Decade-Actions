@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/94",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Science Monitoring And Reliable Telecommunications (SMART) Subsea Cables: Observing the Global Ocean for Climate Monitoring and Disaster Risk Reduction",
+  "sdo:name": "Science Monitoring And Reliable Telecommunications (SMART) Subsea Cables: Observing the Global Ocean for Climate Monitoring and Disaster Risk Reduction",
+  "sdo:description": "Observing the oceans and Earth with a planetary-scale network of sensor enabled submarine telecommunications cables delivering tangible societal benefit implementing telecom+sensing SMART subsea cable systems on a global scale, to support climate, ocean circulation, sea level monitoring, and tsunami and earthquake early warning and disaster risk reduction",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "94",
+  "sdo:url": "https://oceandecade.org/actions/smart-cables-for-observing-the-global-ocean/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Joint Task Force SMART Subsea Cables"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN1"
+  }
+}

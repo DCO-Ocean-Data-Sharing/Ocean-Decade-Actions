@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/116",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "A Transformative Decade for the Global Ocean Acidification Observing System",
+  "sdo:name": "A Transformative Decade for the Global Ocean Acidification Observing System",
+  "sdo:description": "Ocean acidification (OA) is the ongoing observed increase in seawater acidity (pH) primarily due to the ocean&#x27;s uptake of anthropogenic atmospheric carbon dioxide (CO2). The rate of the ocean&#x27;s changing chemistry is measured by a suite of stations worldwide, and conditions expected by 2100 will have a number of negative effects on marine life.  Many challenges to understanding OA and its impacts remain. A robust understanding of OA and its impacts requires interdisciplinary monitoring and research efforts, including carbonate chemistry, physical oceanography, biogeochemistry, ecology, biology, natural resource economics, and other social and hard sciences. It also requires a global workforce that is capable of analyzing, assessing, and applying this data. This Decade Programme expands CO2 observing systems by developing the next generation of sensors, training new experts, ensuring materials are available for accurate measurements, and filling in under-observed regions. It also builds capacity for publicly-available data that is fed into products useful for stakeholders.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "116",
+  "sdo:url": "https://oceandecade.org/actions/A-Transformative-Decade-for-the-Global-Ocean-Acidification-Observing-System-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National Oceanic and Atmospheric Administration"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

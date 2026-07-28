@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/119",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Resilience of the ecosystems, fisheries and marine-based economy under a persistent anomalous warm and low-productivity regime in the Gulf of California",
+  "sdo:name": "Resilience of the ecosystems, fisheries and marine-based economy under a persistent anomalous warm and low-productivity regime in the Gulf of California",
+  "sdo:description": "The Gulf of California (GOC) is a region of high biodiversity that supports the majority of Mexico&#x27;s commercial and sport fisheries. During 2014-2020, this region experienced a period of intense oceanic warming and decreased productivity (chlorophyll-a concentration) compared to satellite (1980-2020) or historical (1900-2020) data. This Decade Programme is a multidisciplinary collaboration of institutions and independent stakeholders from Mexico and USA to evaluate the impacts of present and future climatic conditions on the biodiversity and fisheries of the GOC and to identify mitigation strategies during the decade 2020-2030.",
+  "sdo:location": "Mexico",
+  "sdo:identifier": "119",
+  "sdo:url": "https://oceandecade.org/actions/Resilience-of-the-ecosystems-fisheries-and-marine-based-economy-under-a-persistent-anomalous-warm-and-low-productivity-regime-in-the-Gulf-of-California/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Instituto de Ciencias del Mar y LimnologÍ­a, Universidad Nacional Autónoma de México"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

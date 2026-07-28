@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/101",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Animal-Borne Ocean Sensors: A decadal vision through new eyes",
+  "sdo:name": "Animal-Borne Ocean Sensors: A decadal vision through new eyes",
+  "sdo:description": "AniBOS, an emerging network of the Global Ocean Observing System (GOOS), will provide freely available oceanographic measurements across the hard-to-reach world&#x27;s polar and tropical oceans collected through bio-logging, the deployment of sensors on marine animals. These data complements conventional approaches by providing both physical and ecological data in ocean regions directly at the scale and resolution at which animals move. . AniBOS will fill this gap by integrating animal collected data within Global Ocean Observing System to improve our ability to observe and predict global climate processes and animal behaviour for societal benefit.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "101",
+  "sdo:url": "https://oceandecade.org/actions/animal-borne-ocean-sensors-anibos-a-decadal-vision-through-new-eyes/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Sydney Institute of Marine Science"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN1"
+  }
+}

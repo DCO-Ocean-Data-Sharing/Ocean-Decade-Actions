@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/90",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sustainability of Marine Ecosystems through global knowledge networks (SMARTNET)",
+  "sdo:name": "Sustainability of Marine Ecosystems through global knowledge networks (SMARTNET)",
+  "sdo:description": "SMARTNET will establish a global knowledge network (GKN) for ocean science by strengthening and expanding the collaboration of ICES/PICES and partner organizations. It will support and leverage ICES/PICES member countries&#x27; activities related to UNDOS, by emphasizing areas of mutual research interest including climate change, fisheries and ecosystem-based management, social, ecological and environmental dynamics of marine systems, coastal communities and human dimensions, and communication and capacity development. It also incorporates strategies to facilitate UNDOS cross-cutting inclusivity themes relating to gender equality, early career engagement, and involvement of indigenous communities and developing nations in the planning and implementation of joint activities.",
+  "sdo:location": "Denmark",
+  "sdo:identifier": "90",
+  "sdo:url": "https://oceandecade.org/actions/Sustainability-of-Marine-Ecosystems-through-global-knowledge-networks-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "International Council for the Exploration of the Sea (ICES)  The North Pacific Marine Science Organization (PICES)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
