@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/SBEP29",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Novel functional textiles from red and brown seaweed (SeaWeave)",
+  "sdo:name": "Novel functional textiles from red and brown seaweed (SeaWeave)",
+  "sdo:description": "Today’s global textile and garment industry is characterized by overproduction and little reuse in so-called “fast fashion”, accompanied by an increased use of synthetic materials that are non-renewable and contribute to 35% of microplastics pollution in the collaboration to develop technology and solve societal challenges along the entire value chain from raw material to products. SeaWeave will focus on cultivated biomass and other sustainable seaweed feedstocks, and study how the biomass composition and structure is related to its properties for textile applications. We will develop pre-treatment and biorefinery processes to extract and maintain polysaccharides and pigments in an integrated and circular process. Innovative fibers will be developed through functionalization and innovative combination of materials and manufacturing methods, providing functional textiles that can be scaled in an environmentally and economically feasible manner. New fabric prototypes will be developed toward the fashion and furniture industries, as well as functionalized fibers. Lastly, the project will perform environmental and social assessments along the value chain, to understand the shortand long-term impacts of the developed technology and products, in close collaboration with stakeholders The SeaWeave project will establish new knowledge and develop technologies for the conversion of macroalgae from the Atlantic Ocean and Mediterranean Sea into textile fibers and dyes. The project consortium consists of seven partners from six countries in a highly cross-disciplinary collaboration to develop technology and solve societal challenges along the entire value chain from raw material to products. SeaWeave will focus on cultivated biomass and other sustainable seaweed feedstocks, and study how the biomass composition and structure is related to its properties for textile applications. We will develop pre-treatment and biorefinery processes to extract and maintain polysaccharides and pigments in an integrated and circular process. Innovative fibers will be developed through functionalization and innovative combination of materials and manufacturing methods, providing functional textiles that can be scaled in an environmentally and economically feasible manner. New fabric prototypes will be developed toward the fashion and furniture industries, as well as functionalized fibers. Lastly, the project will perform environmental and social assessments along the value chain, to understand the shortand long-term impacts of the developed technology and products, in close collaboration with stakeholders.",
+  "sdo:location": "Sweden",
+  "sdo:identifier": "SBEP29",
+  "sdo:url": "https://oceandecade.org/actions/novel-functional-textiles-from-red-and-brown-seaweed-seaweave/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Kungliga Tekniska Hoegskolan (KTH)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

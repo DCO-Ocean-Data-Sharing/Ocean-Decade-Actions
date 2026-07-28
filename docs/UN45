@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN45",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Blue School Global Network",
+  "sdo:name": "Blue School Global Network",
+  "sdo:description": "The Blue Schools Global Network (BSGN) is a UNESCO-IOC-led initiative that promotes Ocean Literacy (OL) through transformative education. It connects schools around the world to integrate OL into formal curricula using an interdisciplinary, project-based learning approach. The programme empowers students to engage with real-world ocean issues through hands-on experiences and collaboration with local communities, professionals, and decision-makers, fostering lasting behavioural change. By bridging education with action, BSGN is cultivating a dynamic, interconnected community of ocean stewards, advancing the goals of the UN Decade of Ocean Science for Sustainable Development. The project distinguishes itself by actively linking schools, academia, the blue economy, local communities, and municipalities, strengthening cross-sector collaboration for a more sustainable ocean future.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "UN45",
+  "sdo:url": "https://oceandecade.org/actions/blue-school-global-network/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "UNESCO-IOC"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/UN7"
+  }
+}

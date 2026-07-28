@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/SBEP27",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Development of Modular and Mobile By-Product and Wastes Bio-refiney Valorisation Systems and Supporting Structures for Fisheries and Aquaculture SME Industrie (DORIS)",
+  "sdo:name": "Development of Modular and Mobile By-Product and Wastes Bio-refiney Valorisation Systems and Supporting Structures for Fisheries and Aquaculture SME Industrie (DORIS)",
+  "sdo:description": "The DORIS project is an ambitious innovative project which proposes solutions to improve the the availability of valorisation oppourtunities, uptake, and potential financing/ funding mechanisms for waste biomass processing in EU Blue SMEs. The main objective of the project is the research and development of lab-scale mobile and modular biorefinery conversion systems for use in Blue processing SMEs operating in diverse EU Basin locations. This is with the goal of advancing and testing practical flexible and scalable valorisation technology prototypes for the cost-effective conversion of fishery and aquaculture by-products and wastes to medium and high value products. The project focuses on the conversion of the main blue by-product types in EU sea basins i.e. Finfish, crustacean and mollusc wastes. To ensure the suitability and relevance of the developed outputs, the effectiveness and feasibility of the proposed valorisation approaches through specific case study considerations relevant to SMEs and EU Basin production scenarios will be tested and validated. The DORIS project will also afford a detailed mapping and estimation of practical exploitable by products and wastes resources in the Sea Basin regions, coupled with an assessment of the economic viability, environmental impact, and societal benefits of the developed biorefinery systems. With lack of capital, and knowledge of funding approaches a major barrier to the uptake of valorisation technologies by Blue SMEs, DORIS will further investigate and propose practical funding and ownership models for the developed valorisation systems. The project also reflects on and considers the legislative requirements to ensure compliance and enhanced uptake of developed technologies, and will also inform the development of policy support instruments. The project activities and execution which is designed with full quadruple helix engagement of all relevant stakeholders and actors affords an ambitious multi-disciplinary knowledge and innovation exchange between research, local policy and engaged enterprise sectors, aimed at informing policy and strengthening the local industry capacities to institute sustainable and cost-effective circular economy.",
+  "sdo:location": "Ireland",
+  "sdo:identifier": "SBEP27",
+  "sdo:url": "https://oceandecade.org/actions/development-of-modular-and-mobile-by-product-and-wastes-bio-refiney-valorisation-systems-and-supporting-structures-for-fisheries-and-aquaculture-sme-industries-doris/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Atlantic Technological University Sligo (ATU)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

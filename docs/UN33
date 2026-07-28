@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN33",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "OBIS 2030 - The biodiversity data hub for the Ocean Decade Actions (OBIS 2030)",
+  "sdo:name": "OBIS 2030 - The biodiversity data hub for the Ocean Decade Actions (OBIS 2030)",
+  "sdo:description": "Through the OBIS Clearing-House Mechanism, OBIS 2030 will provide the biodiversity data hub made up of standardised, quality controlled and managed data to create information tailored for decision makers to help them protect and restore marine ecosystems and protect life in the ocean. OBIS 2030 will achieve this by (i) improving the flow of historical and new data into OBIS, train the next generation of scientists and ocean professionals in biodiversity data management and contributing data to OBIS in a consistent manner, collaborate and bring together communities of practice (through clusters of decade actions) and organise or support capacity development and data mobilisation activities; (ii) creating and publishing information products, at global, regional and national scale to feed directly into reporting and assessment processes; (iii) supporting and contributing quality-controlled data to initiatives in the development of a digital representation of the ocean (Digital Twin); (iv) engaging and closely working together with stakeholders in the design and uptake of information products and assist with regional stakeholder meetings; and finally (v) developing specific targets, track their progress and generate regular progress reports, and implement a consistent communication and outreach strategy.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "UN33",
+  "sdo:url": "https://oceandecade.org/actions/obis-2030-the-biodiversity-data-hub-for-the-ocean-decade-actions/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Ocean Biodiversity Information System under IODE of IOC of UNESCO"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/17"
+  }
+}

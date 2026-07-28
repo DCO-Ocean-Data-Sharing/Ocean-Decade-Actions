@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/NOR18",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Long-term effects of environmental changes on Arctic seabirds: effects of seasonal distribution and contamination on population dynamics (ACCUMULATION)",
+  "sdo:name": "Long-term effects of environmental changes on Arctic seabirds: effects of seasonal distribution and contamination on population dynamics (ACCUMULATION)",
+  "sdo:description": "The Arctic has become a sink for pollutants like Persistent Organic Pollutants (POPs) and mercury (Hg), exacerbated by climate change. As POPs and Hg increase in individuals (i.e., bioaccumulation) and into marine food chains (i.e biomagnification), top-predators like seabirds present some of the highest wildlife concentrations, making them particularly sensitive to the pollutants toxicity. The long-term effects of contaminants on Arctic seabird population dynamics are still scarcely explored but the few studies found that those pollutants had deleterious effects on adult survival or breeding success for the most contaminated species. However, those studied focused on breeding period contamination only, that just represent a part of their annual cycle. With this project, we aim to study the influence of seasonal (i.e., breeding and non-breeding period) and spatial variations in distribution and contamination by POPs and Hg on population dynamics of Arctic seabirds. More specifically, we will study the influence on the population survival of 1/ long-term contaminant exposure during breeding periods and the relationship with climate change, 2/ non-breeding distribution and long-term contaminant exposure. To do so, we will study common eiders (Somateria mollissima), Arctic- (Stercorarius parasiticus) and great skuas (S. skua) breeding sympatrically at Kongsfjorden (Svalbard), where they have been monitored for ~17 years. Ultimately, this research will be essential to better acknowledge the risk of long-term and acute contamination to pollutants on already sensitive Arctic seabird species. Dr Albert will 1/ lead two additional field seasons to collect blood and feathers samples, and deploy geotracking devices 2/ do the laboratory analyses and 3/ perform population dynamics analyses. We will work with an interdisciplinarity team to investigate for the first time spatial ecology, ecotoxicology, climate change and population dynamics.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR18",
+  "sdo:url": "https://oceandecade.org/actions/long-term-effects-of-environmental-changes-on-arctic-seabirds-accumulation/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Norwegian Institute for Nature Research (NINA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/17"
+  }
+}

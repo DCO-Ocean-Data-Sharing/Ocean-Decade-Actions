@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/NOR08",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Non-invasive biological warning systems: monitoring of farmed fish and environment to improve welfare in aquaculture systems (BIOWASYS)",
+  "sdo:name": "Non-invasive biological warning systems: monitoring of farmed fish and environment to improve welfare in aquaculture systems (BIOWASYS)",
+  "sdo:description": "Effective prevention, control of diseases and non-invasive systems to monitor the welfare of the fish are crucial for sustainable salmon production. This requires the development and use of sensor systems able to generate heterogeneous datasets that need to be analyzed and interpreted to detect possible patterns that could be used as Operational Welfare Indicators (OWI) to trigger warning actions. The number of individuals per unit in modern fish farms (up to 200 000 fish per cage/tank) renders the use of conventional individual based welfare monitoring methods difficult. There is therefore an industrial need for new sensor systems and more automated and effective procedures for analysis that can provide reliable and continuous insights on how fish welfare on a group level is  affected by the production environment. BIOWASYS aims to establish a foundation for a non-invasive biological warning system for fish farming by using behavioural responses to assess welfare impacts of external and internal environmental parameters during production. This will entail acquiring new knowledge on the complex 3D environmental conditions, the spatiotemporal distribution of selected pathogens inside sea cages and farms and data describing their interactions. The project will also seek to identify biological parameters that can be used to detect and register fish responses toward changes in these parameters. The work will therefore also include developing a new non-invasive and automatised fish welfare and health monitoring procedure based on group behaviour analyses. Data acquired with this procedure will finally be correlated with data on the conditions in the cage to unveil how variations in the cage environment, pathogen distribution dynamics and occurrence impacts fish welfare status.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR08",
+  "sdo:url": "https://oceandecade.org/actions/non-invasive-biological-warning-systems-biowasys/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "SINTEF OCEAN AS - Aquaculture"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

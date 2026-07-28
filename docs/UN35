@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN35",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Harmful Algae Bloom Solutions",
+  "sdo:name": "Harmful Algae Bloom Solutions",
+  "sdo:description": "HAB-S will be co-created with stakeholders, leading to improved data resources, innovative observing instrumentation, and sound knowledge for decision-making to manage and mitigate HAB impacts to human health and wellbeing-related activities (aquaculture, fisheries, desalination, tourism) and the environment. HAB-S aims to enhance knowledge and understanding of the causes and effects of HABs at the level of scientists, societal stakeholders, and the public at large, through comprehensive public awareness campaigns, education initiatives, and interdisciplinary solutions that reduce the frequency and severity of HAB events and minimize their adverse effects on the social, economic and natural environments.",
+  "sdo:location": "France",
+  "sdo:identifier": "UN35",
+  "sdo:url": "https://oceandecade.org/actions/harmful-algae-bloom-solutions/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Intergovernmental Oceanographic Commission (IOC) and Food and Agriculture Organization (FAO) Intergovernmental Panel on Harmful Algae Blooms (IPHAB)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

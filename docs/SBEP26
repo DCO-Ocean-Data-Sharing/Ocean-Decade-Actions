@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/SBEP26",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Coastal Corrosion Risk Management through Digital twin model for a Sustainable Blue Economy (CORRASBlue)",
+  "sdo:name": "Coastal Corrosion Risk Management through Digital twin model for a Sustainable Blue Economy (CORRASBlue)",
+  "sdo:description": "CORRASBlue aims to deliver a cross-sectoral digital platform to the marine and maritime industries by 1) maximizing materials sustainability, 2) minimizing corrosion-associated environmental and ecological risks, 3) providing decision makers and industry a ‘winwin’ approach for infrastructure management and control, and 4) producing a flexible, longterm data integration system for future innovative developments. The CORRASBlue consortium encompasses multi-disciplinary and cross-sectoral experts across 10 countries and 3 sea basins (Atlantic Ocean, Mediterranean Sea, and North Sea). We have gathered a significant number of experts across research, industry, and policymaking sectors with the aim to defragmentalize the current landscape of corrosion management and drive the innovation needed to advance sustainability of our knowledgebased society and economy and to meet the EU Green Deal and future EU Blue Deal targets. The main objective of CorrasBLUE is to develop a novel Coastal Corrosion Risk Management (CCRM) digital twin that will integrate holistic sensor measurements, corrosion state, and mitigator effectiveness to enhance corrosion management, enabling comprehensive monitoring and maintenance strategies to safeguard marine infrastructure and ecosystem health. The state-of-the-art corrosion prevention strategies produced from this project will reduce failures and related emission, thus benefit the marine ecosystem and indirectly safety of sea food and the marine environment.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "SBEP26",
+  "sdo:url": "https://oceandecade.org/actions/coastal-corrosion-risk-management-through-digital-twin-model-for-a-sustainable-blue-economy-corrasblue/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Norwegian Research Centre (NORCE)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

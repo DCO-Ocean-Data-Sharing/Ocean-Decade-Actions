@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/SBEP15",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Multi-use Infrastructure Spatial Concepts for the Blue Economy: Leveraging on Sustainable Port Ecosystems through Living Labs (BluePortLab)",
+  "sdo:name": "Multi-use Infrastructure Spatial Concepts for the Blue Economy: Leveraging on Sustainable Port Ecosystems through Living Labs (BluePortLab)",
+  "sdo:description": "BluePortLab focuses on transforming European maritime ports into sustainable, lowcarbon energy hubs pivotal for the blue economy’s transition. Recognizing ports’ significant role at the intersection of land and sea, the initiative seeks to rethink maritime ports’ function to enhance energy efficiency, biodiversity, and sustainable growth. This aligns with the EU’s goals for a clean energy future and sustainable ocean principles. BluePortLab argues for a transformative vision where ports expand on their traditional roles to become multifunctional spaces driving regional development, social cohesion, and environmental sustainability. It introduces multi-use spatial concepts within ports, incorporating renewable energy, green technologies, and practices to address challenges like greenhouse gas emissions and energy consumption. This approach envisions ports as catalysts for clean energy, promoting synergies among maritime activities to facilitate a climate-neutral blue economy. Scientifically, the project aims to develop innovative spatial concepts enhancing energy efficiency and biodiversity, assess socio-economic and environmental impacts, and establish a governance framework for resilient and sustainable port management.  The novelty lies in the holistic perspective on ports, integrating them into broader energy and economic systems for societal benefits. The project introduces Living Labs Networks (LLNs) for real-world testing and co-creation of multiuse infrastructures, fostering collaborative innovation. The project seeks to embed renewable energy and biodiversity initiatives in port operations, stimulate regional economies, and ensure inclusive transition to a sustainable blue economy.",
+  "sdo:location": "Denmark",
+  "sdo:identifier": "SBEP15",
+  "sdo:url": "https://oceandecade.org/actions/multi-use-infrastructure-spatial-concepts-for-the-blue-economy-leveraging-on-sustainable-port-ecosystems-through-living-labs-blueportlab/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Copenhagen Business School"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN2021-002",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "WYTEC Blue - Women &amp; Youth Technical Capacity for the Blue Economy:Growing Technical Capacity amongst Women and Youth in Canada &amp; West Africa for a Safe, Secure and Sustainable Blue Economy",
+  "sdo:name": "WYTEC Blue - Women &amp; Youth Technical Capacity for the Blue Economy:Growing Technical Capacity amongst Women and Youth in Canada &amp; West Africa for a Safe, Secure and Sustainable Blue Economy",
+  "sdo:description": "Project aims to strengthen and connect emerging capacity of a small-island developing state and partner institutions in western Africa with Canadian multi-sectoral expertise.  Project is focused on a primarily virtual training program with objectives related to advancing a sustainable blue economy through ocean technology, maritime security, and business development.  Pilot cohort will focus on women and youth participants.",
+  "sdo:location": "Canada",
+  "sdo:identifier": "UN2021-002",
+  "sdo:url": "https://oceandecade.org/actions/wytec-blue/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "DOTCAN Institute"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

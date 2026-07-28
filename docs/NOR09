@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/NOR09",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Marine resource gathering and infrastructure in the Norse North Atlantic  (MARGAIN)",
+  "sdo:name": "Marine resource gathering and infrastructure in the Norse North Atlantic  (MARGAIN)",
+  "sdo:description": "Gathered marine resources such as driftwood, seaweed, shellfish, coastal plants and eiderdown were vital elements of past subsistence, but are often overlooked. However, there has been increased interest recently in how such resources may benefit modern societies. This interdisciplinary project uses ethnohistorical sources, archaeological survey and excavations, and scientific analysis of samples from archaeological sites to work towards a holistic understanding of marine resource use and its impact on settlement patterns and lifeways along the west coast of Norway from the Viking Age to the Early Modern Period. To achieve this, we will examine historical records of marine resource use, as well as excavating coastal archaeological sites and surveying them from land and sea. Many past studies of coastal sites have focused on the productivity of commercial fisheries, but we aim to explore the lived experience of the inhabitants of these communities. However, we are working against the clock: many such sites are greatly at risk from the increasing coastal erosion caused by climate change. We are particularly interested in driftwood, which was used as fuel and timber in many coastal communities, especially north of Stad, and is now declining due to climate change and increased river management. We will develop a method to identify driftwood in the archaeological record, thus allowing us to better understand its past use. Other samples from our excavations will provide material for student projects, building local expertise in environmental archaeology. We will also explore modern drift material: where past communities collected driftwood, we now find plastic pollution. Through films, workshops, and a touring exhibition, we will connect the marine resources exploited in the past with what washes up on the shore in the present, raising awareness of the diverse potential of marine gathered resources and encouraging more conscious interactions with our coasts and oceans.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR09",
+  "sdo:url": "https://oceandecade.org/fr/actions/marine-resource-gathering-infrastructure-in-norse-north-atlantic-margain/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Museum of Archaeology, University of Stavanger"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/69"
+  }
+}

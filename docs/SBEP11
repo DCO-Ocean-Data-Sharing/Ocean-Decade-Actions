@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/SBEP11",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "BLUEBOOST Low trophic species to boost aquaculture",
+  "sdo:name": "BLUEBOOST Low trophic species to boost aquaculture",
+  "sdo:description": "BLUEBOOST aims to demonstrate that co-culture of a wide range of low trophic species with established species can boost aquaculture of blue foods and feeds while reducing the environmental footprint and moving towards a carbon-neutral aquaculture blue economy. BLUEBOOST through co-creation/co-design will provide societal value: (a) technical advances that provide new sustainable production methods and products; (b) reduced environmental footprint of blue food; (c) environmental restorative aquaculture practices; (d) improved economics with increased volume and diversity of production; (e), policy-making to provide conditions to drive desired change and (f) low carbon products and business investments to meet consumer demand. This win-win scenario will deliver improved diversification of blue foods and, at the same time, increase production volumes and quality, to improve the competitiveness of European and Brazilian aquaculture while reducing the industries environmental footprint.",
+  "sdo:location": "Spain",
+  "sdo:identifier": "SBEP11",
+  "sdo:url": "https://oceandecade.org/actions/blueboost-low-trophic-species-to-boost-aquaculture/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "IRTA"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/UN37"
+  }
+}

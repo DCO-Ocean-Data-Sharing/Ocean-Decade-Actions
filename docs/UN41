@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN41",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Protect Restore Ocean Capital and Blue Economies (PROCARIBE+)",
+  "sdo:name": "Protect Restore Ocean Capital and Blue Economies (PROCARIBE+)",
+  "sdo:description": "PROCARIBE+ is (co)funded by the Global Environment Facility, aims to protect, restore and harness natural coastal and marine capital of the Wider Caribbean region; catalyze investments in a climate-resilient, sustainable Blue Economy, through strengthened regional coordination, collaboration and wide-ranging partnerships.  The project will enable and support sustainable and resilient blue economies through upscaling of actions on marine spatial planning, marine conservation, Blue Carbon, sustainable fisheries, community grants, and enhanced regional ocean governance (including capacity building efforts and enhanced marine data, information and knowledge management, strategic planning and environmental and socio-economic reporting) through the Ocean Coordination Mechanism (OCM). The OCM will enhance cross-sectoral collaboration and coordination among the region’s countries and IGOs with ocean-relevant mandates and consider cross-cutting issues of climate change and gender.",
+  "sdo:location": "Colombia",
+  "sdo:identifier": "UN41",
+  "sdo:url": "https://oceandecade.org/actions/protect-restore-ocean-capital-and-blue-economies-procaribe/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "United Nations Office for Project Services (UNOPS) and United Nations Development Programme (UNDP)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/NOR15",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Climate Change impact on the marine Coastal ecosystem of Kerala  (C3-eKerala)",
+  "sdo:name": "Climate Change impact on the marine Coastal ecosystem of Kerala  (C3-eKerala)",
+  "sdo:description": "Coastal areas with high population density are in the frontline of the unprecedented impacts of climate change. India, one of the top-most densely populated nations of the world has highly vulnerable coastal areas subjected to climate change. Of many in India, one of the most vulnerable is the coast of Kerala state (total length, 593 km) which is also the most densely populated coastal zone in the entire South India (tropical Latitudes lower than 20N). Urban settlement, industrial as well as port establishments in the Kerala coast reside within 25 km to the shore and hence most of the socio-economic exchanges happen here. The project C3-eKerala is an Indo-Norwegian, transdisciplinary (scientists, policy maker and social/citizen science experts) effort to assess the impact of climate change on the marine coastal ecosystem of Kerala, which will support the development and implementation of relevant mitigation plans through the Kerala state action plan on climate change 2023-2030. Using a multidisciplinary approach including the integrated use of satellite sensor synergy, in-situ observations, statistical and numerical modeling together with state-of-the-art machine learning methods, we attribute the impact of climate change on the coastal sea level and ocean waves via changes in the winds and ocean warming, map the observed shoreline changes along the Kerala coast and to predict future coastal shoreline changes and inundations, assess the impact on the structure and functioning of the vulnerable coastal ecosystems like mangroves and seagrass, and understand the impact of climate change induced ocean variability in triggering the Harmful algal blooms. All results obtained are further transferred to the policy makers and the societal stakeholders.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR15",
+  "sdo:url": "https://oceandecade.org/actions/climate-change-impact-on-marine-coastal-ecosystem-kerala-c3-ekerala/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Nansen Environmental and Remote Sensing Center (NERSC)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/118"
+  }
+}

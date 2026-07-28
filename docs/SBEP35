@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/SBEP35",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Upcycling of bilge water into biobased solutions for ghostfishing and oil-spilling (BilgeUP)",
+  "sdo:name": "Upcycling of bilge water into biobased solutions for ghostfishing and oil-spilling (BilgeUP)",
+  "sdo:description": "The BilgeUP project was born with the idea of valorizing a neglected waste product of the maritime industry: bilge water. During navigation, ships of various types, including merchant vessels, fishing boats, and pleasure craft, accumulate bilge water. This wastewater results from activities such as cleaning engine rooms and bilge areas, as well as condensation from airconditioning systems. It comprises a mixture of oil, grease, and organic and inorganic substances, salts, and metals. Discharging oil residues into marine environments is prohibited by regulations such as those of the International Maritime Organization (IMO) and the European directive 2000/59/EC, hence bilge water must be properly treated on board or disposed of at reception facilities on land. Some ships use fractionation systems to separate the oily fraction from bilge water, resulting in a waste product known as sludge, which is stored on board and then typically incinerated or used in tar production on land. BilgeUP aims to utilize bilge water and sludge, sampled in different European sea basins (Mediterranean Sea, Atlantic Ocean and Black Sea), as starting material for two processes. In the first one, bilge water will serve as a growth medium for marine bacteria and fungi already known as biosurfactants (BS) producers. This bioprocess not only will reduce the environmental impact of bilge water disposal but will produce extremely useful molecules. Indeed, in the second bioprocess biosurfactants will be added to sludge to make this waste a bioavailable nutrient for the growth of bacteria able to produce polyhydroxyalkanoates (PHA). The BS produced by the first bioprocess will be tested as dispersing agents in the cleanup of oil spills, thus addressing one of the major causes of marine pollution. While the PHAs produced in the second bioprocess will be applied in the manufacturing of biodegradable fishing gears, these new types of equipment will not only replace the fossil plastic ones but also be proposed as possible mitigation of ghost fishing problems. Indeed, derelict fishing gears continues to fish and trap animals, entangle and potentially kill marine life, smother habitat, and act as a hazard to navigation. Thanks to the production of biosurfactants and biodegradable fishing gears BilgeUP proposes the development of processes that, starting from wastes from various basins, produce products beneficial to the entire marine ecosystem, transforming waste not only into value but even into a concrete solution. The project’s objectives include sampling and characterizing bilge water and sludge from various basins, designing bioprocesses for biosurfactant and PHA production, designing and evaluating biodegradable materials for fishing gear, evaluating the effectiveness of the produced biosurfactants in oil spill cleanup, and assessing the circularity, economic feasibility, and market potential of the final products.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "SBEP35",
+  "sdo:url": "https://oceandecade.org/actions/upcycling-of-bilge-water-into-biobased-solutions-for-ghostfishing-and-oil-spilling-bilgeup/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Naples Federico II (UNINA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

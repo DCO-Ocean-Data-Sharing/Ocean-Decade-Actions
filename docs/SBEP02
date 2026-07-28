@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/SBEP02",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Quieting Oceans for a Sustainable Future",
+  "sdo:name": "Quieting Oceans for a Sustainable Future",
+  "sdo:description": "Human activities like shipping and wind farm development contribute to underwater noise, a pollutant that disrupts biological functions dependent on sound. BluEcho, an interdisciplinary project, aims to mitigate these impacts, enhance sustainability in wind farm and shipping sectors, and support marine biodiversity through advanced noise modeling, mitigation strategies, and policy alignment. The project combines numerical simulations, fieldwork in experimental and control zones, and marine spatial planning across sea basins (Mediterranean, North, Baltic, Norwegian, and Polar Oceans) to create 3D sound maps and assess species-specific impacts. By evaluating noise mitigation measures like vessel slowdowns and re-routing, and conducting cost-benefit analyses, BluEcho guides policymakers and fosters stakeholder collaboration to achieve Sustainable Development Goal 14 and maintain the Good Environmental Status of marine environments.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "SBEP02",
+  "sdo:url": "https://oceandecade.org/actions/quieting-oceans-for-a-sustainable-future/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Trieste"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/UN37"
+  }
+}

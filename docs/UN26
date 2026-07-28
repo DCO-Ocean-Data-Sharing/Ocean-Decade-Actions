@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN26",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "GEMS Ocean for Ocean and Coasts",
+  "sdo:name": "GEMS Ocean for Ocean and Coasts",
+  "sdo:description": "The GEMS Ocean for Ocean and Coasts Programme is a multi-stakeholder partnership bringing together experts from earth observation, monitoring and modelling communities, together with end users and stakeholders to provide fit-for-purpose information for policy-making. The Programme seeks to enhance the capacity of all sectors of society to access, analyse, use, and communicate information to protect and sustainably use marine and coastal resource and feed global, regional and national processes especially regarding Marine Spatial Planning (MSP), Ocean Forecasting and Sustainable Blue Economy Developments. The GEMS Ocean for Ocean and Coasts Programme strives to address challenges such as coastal erosion, sea level rise, marine pollution, habitat degradation and overfishing, to name a few, in a more coherent and impactful way leading to improve the conservation, management and sustainable use of ocean and coastal resources. Special emphasis will be placed on filling the gap and analysis the Source to Sea (S2S) system, which refers to a biophysical continuum of the land area that is drained by a river system, its lakes and tributaries connected aquifers and downstream recipients including deltas and estuaries, coastlines and nearshore waters, the adjoining sea and continental shelf as well as the open ocean. Emphasis will be given in supporting Small Island Developing States (SIDS) and Developing Countries in strengthening their capacities on key aspects of ocean monitoring. For more information on the priorities and strategic approach of the GEMS Ocean Programme, please refer to our strategy brochure. The Programme leverages and contributes to UNEP’s World Environment Situation Room (WESR) platform and other relevant partner portals to publicly display data and data analytics. The goal is to provide and showcase compelling individual case-level narratives, including examples that illustrate nature-based solutions efforts, to ultimately inform relevant societal stakeholders across all sectors.",
+  "sdo:location": "Kenya",
+  "sdo:identifier": "UN26",
+  "sdo:url": "https://oceandecade.org/actions/Global-Environment-Monitoring-System-for-the-Ocean-and-Coasts-GEMS-Ocean-Programme-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "UN Environment Programme (UNEP)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN38",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Global network to monitor marine plastic pollution (IAEA - NUTEC Marine Plastics)",
+  "sdo:name": "Global network to monitor marine plastic pollution (IAEA - NUTEC Marine Plastics)",
+  "sdo:description": "Monitoring marine microplastics is indispensable for determining the pathways and impacts on the marine ecosystem and on seafood, and hence, for providing decision makers with actionable scientific knowledge to reduce microplastics entering the ocean. The goal of IAEA’s flagship initiative ‘Nuclear Technology for Controlling Plastic Pollution - NUTEC Plastics’ is raising the capacity of laboratories worldwide for tracking marine microplastics by providing sampling and analytical equipment along with tailored capacity building and harmonized methods. IAEA develops a global network of laboratories in Member States, for monitoring and assessing the impact of marine plastics, with the IAEA Marine Environment Laboratories as Reference Laboratory. IAEA supports Member States in reporting on SDG 14, on the upcoming international legally binding instrument on plastic pollution, and on UNEP’s Global Partnership on Marine Litter.",
+  "sdo:location": "Monaco",
+  "sdo:identifier": "UN38",
+  "sdo:url": "https://oceandecade.org/actions/global-network-to-monitor-marine-plastic-pollution-iaea-nutec-marine-plastics/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "International Atomic Energy Agency, Marine Environment Laboratories Monaco"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

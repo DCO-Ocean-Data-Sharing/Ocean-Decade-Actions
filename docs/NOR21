@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/NOR21",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Hidden Toll of Lice (Hitlice)",
+  "sdo:name": "The Hidden Toll of Lice (Hitlice)",
+  "sdo:description": "Wild Atlantic salmon is declining throughout its range and is believed to be at a historic low. In Norway, this coincides with a tremendous increase in farmed salmon production. These opposing trends have sparked controversy as the association between fish farms and wild salmonids has become increasingly evident. The main impact of fish farming on wild salmon is via the proliferation and spillover of parasitic salmon lice. Although there is no doubt that salmon lice infestations harm salmon, salmonid tolerance limits towards lice remains a critically unresolved question. Knowledge on the lice tolerance limits, derived mostly from laboratory studies using farmed salmon, has been the basis for management interventions. However, current understanding of lice thresholds inflicting sublethal effects and decreased wild fish survival in natural environments is critically limited. As there are &gt;400 salmon rivers in Norway, the only feasible way to assess the effect of salmon lice on the survival of wild smolts is to use models. Consequently, the main objective of Hitlice is to improve existing models by providing an accurate estimate of the relationship between salmon lice and the marine survival of salmon smolts. To this end, examining lice threshold levels by field and lab experiments with artificial infestation of wild fish will be performed. To test direct and indirect effect of lice under variable environmental conditions, results will be compared with time series from tagged wild salmon, and in addition from rivers with estimated smolt migration and return rates. In turn, model accuracy will be tested. Simultaneously the project will assess the causes of different stakeholder perceptions of the salmon lice challenge through surveys and by involving stakeholders (including scientists) in translating data to management advice in a post-normal science context. Accordingly, this project involves biologists, statisticians, oceanographers, and social scientists.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR21",
+  "sdo:url": "https://oceandecade.org/actions/the-hidden-toll-of-lice-hitlice/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Marine Research"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN5",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Practices for the Decade",
+  "sdo:name": "Ocean Practices for the Decade",
+  "sdo:description": "Humanity&#x27;s connection to the ocean is based on how we act and react to its multifaceted wonder. Our &quot;ocean practices’’ are an essential bridge between humanity&#x27;s cultural and natural heritage. The Ocean Practices for the Decade Programme (&quot;OceanPractices’’) will support all ocean stakeholders in securing, equitably sharing, and collectively advancing this methodological heritage. By engaging diverse communities of practice and interlinking them through FAIR digital technologies, OceanPractices will transform how science and other stakeholders align their interests/capacities, creating ever-better practices, promoting sustainable human and ocean well-being. These practices improve interoperability and facilitate training so broader global participation naturally evolves.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "UN5",
+  "sdo:url": "https://oceandecade.org/actions/ocean-best-practices-for-the-decade/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "International Oceanographic Data and Information Exchange (IODE) &amp; GOOS"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
