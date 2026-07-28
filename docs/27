@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/27",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The NASA Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission: Advanced satellite measurements of the sea and sky",
+  "sdo:name": "The NASA Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission: Advanced satellite measurements of the sea and sky",
+  "sdo:description": "The NASA Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission represents NASA&#x27;s next great investment in satellite ocean color, cloud, and aerosol data records to enable continued and advanced insight into oceanographic responses to Earth&#x27;s changing climate. Scheduled for launch in 2023/2024, PACE&#x27;s primary instrument is a global spectrometer that will enable improved understanding of aquatic ecosystems, as well as provide new information on phytoplankton community composition and improved detection of algal blooms. PACE will also carry two multi-angle polarimeters, the advanced technology from which will offer new and unique insights into the composition of microscopic aquatic communities.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "27",
+  "sdo:url": "https://oceandecade.org/actions/The-NASA-Plankton-Aerosol-Cloud-ocean-Ecosystem-PACE-mission-Advanced-satellite-measurements-of-the-sea-and-sky-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "NASA Goddard Space Flight Center"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

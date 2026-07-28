@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/28",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "ForeSea - The Ocean Prediction Capacity of the Future",
+  "sdo:name": "ForeSea - The Ocean Prediction Capacity of the Future",
+  "sdo:description": "ForeSea&#x27;s vision is for strong international coordination and community building of an ocean prediction capacity for the future. The overarching goal are to (1) improve the science, capacity, efficacy, use, and impact of ocean prediction systems and (2) build a seamless ocean information value chain, from observations to end users, for economic and societal benefit. These transformative goals aim to make ocean prediction science more impactful and relevant.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "28",
+  "sdo:url": "https://oceandecade.org/actions/ForeSea--The-Ocean-Prediction-Capacity-of-the-Future/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "OceanPredict"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
