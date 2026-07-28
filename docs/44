@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/44",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Low cost real-time monitoring of pollutants and water quality along the coral reefs in Tanzania: Supporting effective ocean management",
+  "sdo:name": "Low cost real-time monitoring of pollutants and water quality along the coral reefs in Tanzania: Supporting effective ocean management",
+  "sdo:description": "The Reef Protect Project is a project that seek to deploy water quality monitoring devices in eight coral reef sites along the coast of Tanzania. The devices will help to measure ocean temperature, Dissolved Oxygen, and Ph. The devices will be able to log the collected information in real time and made available publicly through the to be designed portal. This information will be collected for 10 years and used in informing the policy makers on possible actions that can be used to safeguard the Tanzania coral reefs and the impact of climate change. Details of the device development are available here (https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-019-0009-4)",
+  "sdo:location": "Tanzania",
+  "sdo:identifier": "44",
+  "sdo:url": "https://oceandecade.org/actions/Low-cost-real-time-monitoring-of-pollutants-and-water-quality-along-the-coral-reefs-in-Tanzania-Supporting-effective-ocean-management/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Aqua Farms Organization"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
