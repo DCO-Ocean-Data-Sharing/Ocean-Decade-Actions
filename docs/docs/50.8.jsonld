@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/50.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "A Sea of Connections: Valuing Reef Passages",
+  "sdo:name": "A Sea of Connections: Valuing Reef Passages",
+  "sdo:description": "Pacific Island nations, particularly their Indigenous peoples, are crucial as they possess sovereign rights and holistic knowledge essential for protecting marine ecosystems. Reef passages are biodiversity hotspots vital for coral reef health. The SOCPacific2R project focuses on these ‘keystone places’, aiming to: 1. Study reef passages as social-ecological systems, 2. Document management and conservation arrangements, 3. Establish a participatory dialogue integrating scientific and Oceanian perspectives. This project aims to integrate reef passages into future marine policies. It provides evidence-based research and exchange forums to empower stakeholders for joint management and conservation of these critical ecosystems. The initiative aligns with global efforts to expand protected areas to 30% of the planet by 2030, recognizing the unique role of Pacific Islanders in ocean stewardship and the importance of their traditional knowledge in achieving sustainable marine conservation.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "50.8",
+  "sdo:url": "https://oceandecade.org/actions/a-sea-of-connections-valuing-reef-passages/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Leibniz Centre for Tropical Marine Research (ZMT)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/69.jsonld"
+  }
+}

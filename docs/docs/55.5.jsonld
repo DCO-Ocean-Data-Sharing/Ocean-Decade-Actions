@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/55.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Cross sector collaboration grows circular economy",
+  "sdo:name": "Cross sector collaboration grows circular economy",
+  "sdo:description": "Australia has a waste problem, with the highest per capita material footprint in the world, the third lowest rate of manufacturing self-sufficiency in the OECD and a circular economy that is half the global average. Circular economy is an economic model that aims to retain the value of circulating resources, products, parts and materials through a system that allows for renewability, long life, optimal (re)use, refurbishment, remanufacturing, recycling and biodegradation. Circularity is based on three integrated principles: designing out waste and pollution; keeping products and materials in use; and regenerating natural systems. The FRDC Circular Economy project uses cross-sector, cross-industry and transnational initiatives to identify circular opportunities, develop stakeholders’ circular capacity and capability; and showcase success stories that together will increase adoption of circularity throughout Australian fishing and aquaculture and improve ocean outcomes.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "55.5",
+  "sdo:url": "https://oceandecade.org/actions/cross-sector-collaboration-grows-circular-economy/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Fisheries Research and Development Corporation (FRDC)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN5.jsonld"
+  }
+}

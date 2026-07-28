@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/63.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Protecting Africa&#x27;s Marine Ecosystems",
+  "sdo:name": "Protecting Africa&#x27;s Marine Ecosystems",
+  "sdo:description": "The project seeks to enhance marine ecosystem resilience in Africa by addressing pollution, fostering biodiversity conservation, and supporting sustainable marine economies. It will emphasize local capacity-building, data-sharing, and collaboration across stakeholders, including governments, NGOs, and indigenous communities.",
+  "sdo:location": "Nigeria",
+  "sdo:identifier": "63.8",
+  "sdo:url": "https://oceandecade.org/actions/protecting-africas-marine-ecosystems/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "African Marine Environment Sustainability Initiative (AFMESI)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN36.jsonld"
+  }
+}

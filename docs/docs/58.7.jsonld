@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/58.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Korean Network of Oceanic Teams",
+  "sdo:name": "Korean Network of Oceanic Teams",
+  "sdo:description": "The purpose of this project “KNOT” is created to establish a network among early career oceanographers in Korea, lower the barriers to entry into academia, and plan and encourage activities where ECOPs can take the lead. Activities of KNOT include: • Holding regular ECOP sessions at the Korean Oceanography Society’s biannual meetings and planning ECOP-led activities • Mentor-mentee programs in oceanography for graduate students • Group talks on topics beneficial to future oceanographers (such as further education, scholarships, funding, and employment)  • Publishing and sharing newsletters and/or email that provide information on scholarships/support programs, events, and job opportunities for ECOPs • Acting as a contact point between ECOPs and various marine-related organizations, as well as educational councils of elementary, middle, and high schools (for lectures, R&amp;E mentoring, etc.) in Korea • Leading updates for the Korean node in the UN Decade ECOPs program",
+  "sdo:location": "Republic of Korea",
+  "sdo:identifier": "58.7",
+  "sdo:url": "https://oceandecade.org/actions/korean-network-of-oceanic-teams/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Pukyong National University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/15.jsonld"
+  }
+}

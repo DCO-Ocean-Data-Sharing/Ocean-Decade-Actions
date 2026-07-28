@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/57.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sth East Australian Coastal Ocean Forecast System",
+  "sdo:name": "Sth East Australian Coastal Ocean Forecast System",
+  "sdo:description": "The East Australian Current (EAC); an ocean warming hotspot, flows along SE Australia, where 80% of the population lives impacting the weather, climate and ocean productivity. This project will combine cutting edge ocean sensing and advanced numerical modelling to provide an open access high resolution ocean forecast system for SE Australian coastal waters and the EAC. These services are essential for enhancing operational efficiencies, sustainable growth, and risk mitigation in coastal industries, including commercial shipping and fishing, supporting coastal community prosperity and protecting environmental health and biosecurity. We will integrate high resolution operational ocean observing and modelling programmes with forecasting capabilities to make meaningful predictions about the state of our coastal oceans. This programme will create a new, dynamic and more integrated knowledge base - reducing uncertainty, maximising opportunity, and preparing for future ocean changes.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "57.5",
+  "sdo:url": "https://oceandecade.org/actions/south-east-australian-coastal-ocean-forecast-system/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of New South Wales (UNSW, Sydney) Australia"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/48.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean to climate seamless forecasting in Africa",
+  "sdo:name": "Ocean to climate seamless forecasting in Africa",
+  "sdo:description": "Climate change-induced natural hazards. e.g., extreme drought, tropical cyclones, marine heatwaves, cause heavy personnel and property losses in Africa. OSFiA aims to improve the forecasting capability of the ocean and climate in Africa, realizing the seamless forecasting from minutes to years. During its implementation, OSFiA will 1) conduct ocean and climate observations around Africa utilizing new-type buoys and satellites, 2) develop a pan-Africa ocean forecasting system of ultra-high resolution, 3) establish an intra-annual climate prediction system in Africa, 4) provide public services and products (e.g., monsoon and precipitation forecasting) to Africa and further to the world, and 5) carry out capacity building related to ocean and climate to the young generation with international partners including IOCAFRICA, OAAD and the UNESCO/IOC-RTRC-ODC Center. All in all, OSFiA relies on the outcome of the OSF programme and its implementation will be closely aligned with OSF.",
+  "sdo:location": "Benin",
+  "sdo:identifier": "48.4",
+  "sdo:url": "https://oceandecade.org/actions/ocean-to-climate-seamless-forecasting-in-africa/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institut de Recherches Halieutiques et Océanologiques du Bénin (IRHOB)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/18.2.jsonld"
+  }
+}

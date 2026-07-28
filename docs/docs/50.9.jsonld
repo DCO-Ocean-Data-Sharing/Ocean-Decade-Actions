@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/50.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Coral Reefs Acidification Monitoring Network",
+  "sdo:name": "Coral Reefs Acidification Monitoring Network",
+  "sdo:description": "Our project focuses on observing and studying the acidification impacts on coral reef ecosystems in countries along the 21st Century Maritime Silk Road. Key activities include conducting large-scale observations in coral reef areas to assess current acidification levels and ecological conditions; establishing long-term observation networks through continuous monitoring at selected representative sites (both healthy and degraded reefs). Concurrently, laboratory-based acidification simulation experiments are conducted. By integrating field observation data, we analyze and predict the responses of coral reef ecosystems to ocean acidification and other stresses, proposing effective conservation and restoration strategies. We also deliver training sessions and public outreach lectures on ocean acidification to enhance scientific literacy and community engagement in addressing and mitigating its impacts on coral reef ecosystems.",
+  "sdo:location": "China",
+  "sdo:identifier": "50.9",
+  "sdo:url": "https://oceandecade.org/actions/coral-reefs-acidification-monitoring-network/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "South China Sea Marine Survey Center, Ministry of Natural Resources"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/219.jsonld"
+  }
+}

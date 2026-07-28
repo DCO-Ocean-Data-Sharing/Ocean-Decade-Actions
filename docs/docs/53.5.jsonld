@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/53.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Making environmental DNA FAIR",
+  "sdo:name": "Making environmental DNA FAIR",
+  "sdo:description": "Environmental DNA (eDNA) is a cutting-edge scientific technique that involves collecting and analysing genetic material shed by organisms into their surrounding environment such as water and soil. While millions of DNA sequences are typically generated and assigned to taxa in each eDNA study, these records are stored in various locations and formats, which makes the data difficult to be found, combined with similar datasets, and reused for further studies. We will seek to make eDNA data FAIR (Findable, Accessible, Interoperable, Reusable) through multiple stages including establishing a standard vocabulary, encouraging authors to make data available through journal publication procedures, and developing scripts to bring datasets to one biodiversity platform such as GBIF and ALA. FAIR eDNA will enable its value to go beyond individual researchers and projects and achieve its revolutionary potential.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "53.5",
+  "sdo:url": "https://oceandecade.org/actions/making-environmental-dna-fair/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Commonwealth Scientific and Industrial Research Organization"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/26.jsonld"
+  }
+}

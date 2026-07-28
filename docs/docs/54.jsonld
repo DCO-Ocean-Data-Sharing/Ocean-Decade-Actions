@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/54.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Current V: Ancestral Ocean",
+  "sdo:name": "The Current V: Ancestral Ocean",
+  "sdo:description": "This phase on The Current will focus on oceanic kinships, cultural languages, embodied legacies, ancestral memory, and marine historiographies within the Indian Ocean World, with a particular emphasis on island geographies connecting Afrasian pasts, presents, and futures. Working alongside artists, scientific researchers, musicians, writers, and poets, this initiative will continue a decade-long trajectory of individual and collaborative practices unfolding across the waterways of the Indian Ocean.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "54",
+  "sdo:url": "https://oceandecade.org/actions/the-current-iii-the-mediterranean-waves-come-in-pairs/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "TBA21-Academy"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

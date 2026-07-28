@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/57.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Virtual Platform for Sustainable Ocean Education",
+  "sdo:name": "Virtual Platform for Sustainable Ocean Education",
+  "sdo:description": "A Digital learning and teaching platform- Ocean communication, education and outreach in the WIO SIDS has not always been consistent, nor supported learning within the school systems. Educators have difficulty accessing appropriate materials relevant to SIDS for formal education and Non-Governmental Organisations (NGOs) and other stakeholders sometimes lack simple to use materials to design and conduct activities that engages the public. This means that changing values and beliefs as pertain to ocean protection and conservation that results from ocean literacy is not always easy to achieve. To overcome this and support ocean communication. education and outreach it is proposed that a virtual platform is established to build and transfer knowledge of the WIO Coasts and Ocean, and empower &amp; engage the next generation to safeguard this Ocean.",
+  "sdo:location": "Seychelles",
+  "sdo:identifier": "57.4",
+  "sdo:url": "https://oceandecade.org/actions/virtual-platform-for-sustainable-ocean-education/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Blue Economy Research Institute - University of Seychelles"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

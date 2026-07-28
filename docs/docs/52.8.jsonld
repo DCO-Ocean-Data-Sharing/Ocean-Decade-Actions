@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/52.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "BlueDOT - Divers for Ocean Temperature",
+  "sdo:name": "BlueDOT - Divers for Ocean Temperature",
+  "sdo:description": "In 2023, the Copernicus Climate Service reported alarming sea surface temperature records in the Mediterranean Sea, which have continued, highlighting persistent ocean heat excess. Ocean heatwaves impact ecosystems, fisheries, and coral reefs, and understanding them is crucial for coastal protection and climate change mitigation. Subsurface heatwaves, especially within the first 40 meters of the water column, have been observed by divers for years but remain undetected by current monitoring methods. The BlueDOT project aims to create an open-access database centralizing dive computer temperature data from this depth, complementing existing systems and improving our understanding of ocean warming. It will empower divers to act as citizen scientists, using their dive computers as scientific tools.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "52.8",
+  "sdo:url": "https://oceandecade.org/actions/bluedot-divers-for-ocean-temperature/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "MARUM - Centre for Marine Environmental Sciences University of Bremen"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/55.6.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Marine Chemical Speciation (MarChemSpec)",
+  "sdo:name": "Marine Chemical Speciation (MarChemSpec)",
+  "sdo:description": "Our project is guided by the vision “The marine science community will have free access to fully documented, state of the art, user-friendly software for chemical speciation calculations, including uncertainty estimates”. Our chemical speciation models used Pitzer equations for calculating activity coefficients. This means that the application of the models is not restricted to standard seawater conditions, which is the case for models such as CO2SYS. Our models are freely available to all, flexible in use, and can be used either directly or accessed through the Python or MATLAB environments. This combination of capabilities, with code based on state of the art thermodynamic data, is unique. We have thus far developed two models. The first is for Tris buffers in artificial seawater, which are used for calibration of oceanic pH measurements. This model is essential to understanding the differences between routine total pH measurements and the thermodynamic definition of total pH, which is the sum of hydrogen ion and bisulphate concentrations. This work is essential to correct interpretation of oceanic pH measurements, and also to development of a SI-traceable oceanic pH scale that BIPM and WMO have identified as a priority. This model is undergoing further development as noted above. The second model is for the major components of seawater (the seawater electrolyte), which can be used for calculations of the CO2 system (acid-base chemistry). This model currently also includes the 10 trace metal cations that are most important as micronutrients, toxins, and tracers of oceanic processes (Al3+, Mn2+, Fe2+, Fe3+, Co2+, Ni2+. Cu2+, Zn2+, Cd2+, Pb2+).",
+  "sdo:location": "Sweden",
+  "sdo:identifier": "55.6",
+  "sdo:url": "https://oceandecade.org/actions/marine-chemical-speciation-marchemspec/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Gothenburg"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/219.jsonld"
+  }
+}

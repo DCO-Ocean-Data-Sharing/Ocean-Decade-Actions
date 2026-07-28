@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/62.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Aotearoa New Zealand Marine Carbon Forum",
+  "sdo:name": "Aotearoa New Zealand Marine Carbon Forum",
+  "sdo:description": "The Aotearoa New Zealand Marine Carbon Forum (AMCF) will provide independent evidence-based analysis of the potential of nature-based solutions for capturing and storing carbon in Aotearoa’s coastal waters and ocean. The forum will facilitate co-ordination and collaboration within and across sectors (research, policy, government, private sector), and with Iwi/Māori, on carbon sequestration and burial in Aotearoa’s marine environment. This will inform the development of a national strategy for assessing the relative merits and risks of different techniques, that will ensure joint benefits of optimal carbon dioxide removal and increased resilience of marine ecosystems. This approach will generate findings and tools that will be of interest to other Pacific nations. The forum will foster an inclusive and collaborative network in Aotearoa and enable a focal point for international connections.",
+  "sdo:location": "New Zealand",
+  "sdo:identifier": "62.7",
+  "sdo:url": "https://oceandecade.org/fr/actions/aotearoa-new-zealand-marine-carbon-forum/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Otago"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

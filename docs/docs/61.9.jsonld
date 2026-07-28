@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/61.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Adopt a Marine Carbon Sink",
+  "sdo:name": "Adopt a Marine Carbon Sink",
+  "sdo:description": "Coastal marine carbon sinks, like salt marshes or seagrass beds, mitigate climate change and associated health challenges. They are menaced from acidification, urbanization, industrial development, littering &amp; pollution, biopollutants. We will create a network of participatory science groups in diverse latitudes in Africa, America, Europe and Oceania, for adopting unprotected and RAMSAR-protected coastal carbon sinks for study and care. Local Observatories will be created with stakeholders and the civil society. The scientists groups will take environmental and biota data from the adopted sites to early detect acidification, pollution and health and biological threats. They will clean the sites; publish and make public the data, celebrating their improvement in annual community fests. Through the Observatory, the local community will help to solve the problems and envisage realistic restoration plans to improve the status of the adopted sites, enhancing ocean literacy and awareness.",
+  "sdo:location": "Spain",
+  "sdo:identifier": "61.9",
+  "sdo:url": "https://oceandecade.org/actions/adopt-a-marine-carbon-sink/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Oviedo"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

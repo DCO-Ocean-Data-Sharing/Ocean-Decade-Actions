@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/56.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "EO technologies for Continental Healthy Currents",
+  "sdo:name": "EO technologies for Continental Healthy Currents",
+  "sdo:description": "The Indian Ocean land-sea interface, a habitats for marine biodiversity and provides essential ecosystem services to millions of people depending on them for livelihoods, and cultural heritage remain polluted. Resulting to health disorders from exposure to marine pollutants, including reproductive, and immunological issues. Inequalities in ocean science capacity and capabilities impede access to and quality control of data on pollution mitigation and management, knowledge and technology transfer. EO technologies for Continental Healthy Currents project envisions to leverage on earth observation technologies, including satellite remote sensing and geographic information systems for data collection, to monitor, analyze, and respond to marine pollution. The project envisions to establish a multi-scale replicable EO monitoring system along the Indian Ocean coastline that provides an accessible, open and equitable access to data and information on pollution governance.",
+  "sdo:location": "Kenya",
+  "sdo:identifier": "56.9",
+  "sdo:url": "https://oceandecade.org/actions/eo-technologies-for-continental-healthy-currents/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Chemichemi Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN36.jsonld"
+  }
+}

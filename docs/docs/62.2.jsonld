@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/62.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Empowering Women in Hydrography",
+  "sdo:name": "Empowering Women in Hydrography",
+  "sdo:description": "The Empowering Women in Hydrography project aims to enable more women to participate equitably in the field of hydrography and to reach more leadership roles.  Hydrography, like other fields in science, technology, engineering and math (STEM), sees an imbalance between the participation of women compared to men. This inequity is emphasized at advanced career echelons, for example currently only 6 out of the IHO’s 97 Member States have a National Hydrographer who is a woman.  This project will coordinate activities and outreach initiatives to raise awareness about the issue of gender equity, with the participation of IHO Member States. It will include a study of the numbers of women in leadership positions, training opportunities and symposiums, and the establishment of a mentoring network. A communication campaign will highlight women role models in the ocean community, with a focus on women in hydrography. Canada, Norway and the United Kingdom have already agreed to participate.",
+  "sdo:location": "Monaco",
+  "sdo:identifier": "62.2",
+  "sdo:url": "https://oceandecade.org/actions/Empowering-Women-in-Hydrography/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "International Hydrographic Organization (IHO)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

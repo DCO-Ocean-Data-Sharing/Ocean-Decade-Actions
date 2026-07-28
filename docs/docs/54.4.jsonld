@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/54.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Surfer Scientists",
+  "sdo:name": "Surfer Scientists",
+  "sdo:description": "Surfer Scientists uses marine habitat sampling to promote science literacy among local youth in Indonesia. In doing so, the youth will have the knowledge, tools, and understanding of their coastal ecosystem to contribute to a sustainable blue economy and habitat conservation.  The Surfer Scientists project involves a benthic transect sampling protocol for local surfers. Our methods involve easily accessible equipment and repeatable procedures that allow the local surfing community to start a record keeping program.  By monitoring the surf breaks, the local community has insight into a renewable resource and ecosystem of socio-economic importance. Our plan is for continued monitoring of these systems for community socio-economic and ecosystem health.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "54.4",
+  "sdo:url": "https://oceandecade.org/actions/surfer-scientists/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "A Liquid Future"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN2.jsonld"
+  }
+}

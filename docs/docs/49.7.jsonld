@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/49.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Pearl River Delta Estuary Marine Restoration",
+  "sdo:name": "Pearl River Delta Estuary Marine Restoration",
+  "sdo:description": "The project is located in the Pearl River Estuary in Nansha District, Guangzhou, Guangdong Province. It serves as a key node in the East Asia-Australasia migratory bird flyway and represents one of China’s most typical tropical-subtropical transitional coastal estuarine ecosystems. In response to the &quot;Mega Deltas&quot; programme, which addresses the urgent need for marine ecological disaster management and sustainable development in large river deltas, the project has implemented a range of effective measures.  Currently, the Pearl River Estuary delta faces challenges in ecological disaster reduction and prevention, the provision of ecosystem services, and the survival environments of wildlife.  In order to solve these problems, the project will focus on Coastal Ecological Disaster Early Warning and Monitoring and strengthen the protection and wetland restoration of important Marine ecosystems.",
+  "sdo:location": "China",
+  "sdo:identifier": "49.7",
+  "sdo:url": "https://oceandecade.org/pt/actions/pearl-river-delta-estuary-marine-restoration/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Guangzhou Municipal Oceanic Bureau"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/161.jsonld"
+  }
+}

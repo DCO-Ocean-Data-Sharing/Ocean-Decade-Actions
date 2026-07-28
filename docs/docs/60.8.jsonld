@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/60.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Towards sustainable coastal marine ecosystems",
+  "sdo:name": "Towards sustainable coastal marine ecosystems",
+  "sdo:description": "Tropical coastal marine ecosystems such as coral reefs, seagrass meadows, and mangroves play a central role in hosting biodiversity and provide many ecosystem services to human societies, but suffer from global changes and are declining. The objective of the Track Changes project is to evaluate the response of coastal marine ecosystems to environmental changes and elucidate mechanisms underlying resilience, using the exceptional coastal system of New Caledonia as a study model. The project follows two complementary scientific investigation routes, one looking to the past using available historical data, the other to the future with the development of innovative technology. A third route, more institutional in nature, is dedicated to assisting decision-making based on the project outcomes. This highly collaborative initiative unites contribution from various local societal actors and international academia, building an empiric foundation for implementing sustainable coastal management.",
+  "sdo:location": "France",
+  "sdo:identifier": "60.8",
+  "sdo:url": "https://oceandecade.org/actions/towards-sustainable-coastal-marine-ecosystems/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institut de Recherche pour le Développement (IRD)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

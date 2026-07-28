@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/57.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Challenger 150 - A Decade to Study Deep-Sea Life",
+  "sdo:name": "Challenger 150 - A Decade to Study Deep-Sea Life",
+  "sdo:description": "Challenger 150 is a global cooperative devoted to delivering the science we need to sustainably manage the deep ocean. At its heart is the development of deep-ocean expertise, particularly in economically-developing nations, in order to achieve a global generation of stewards working together to maintain the integrity of deep-ocean ecosystems. Furthermore, through supporting the development of new technologies and the expansion of observations, Challenger 150 aims to advance understanding of the diversity, distribution, function and services provided by deep-ocean biota; and to use this new knowledge to educate, inspire, and promote better management and sustainable use of the deep ocean.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "57",
+  "sdo:url": "https://oceandecade.org/actions/Challenger-150--A-Decade-to-Study-Deep-Sea-Life/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "DOSI - Deep Ocean Stewardship Initiative"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
