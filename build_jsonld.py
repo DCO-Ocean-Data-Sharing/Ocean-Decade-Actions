@@ -84,8 +84,7 @@ for index, row in df.iterrows():
     action_type      = str(row["Type of Action"]).strip()
     lead_institution = str(row["Lead Institution"]).strip()
     country          = str(row["Country"]).strip()
-    ('summary          = " ".join(str(row["Summary"])'
-       '.strip().splitlines())')
+    summary = " ".join(str(row["Summary"]).strip().splitlines())
     host_programme_text = str(row["Host Programme"]).strip()
     human_url        = str(row["Link"]).strip()  # real webpage for humans
 
