@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/41",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Mesopelagic Ecosystem and Biopump Dynamics and Connectivity in the Pacific (MEBIDyC-P)",
+  "sdo:name": "Mesopelagic Ecosystem and Biopump Dynamics and Connectivity in the Pacific (MEBIDyC-P)",
+  "sdo:description": "The mesopelagic ecosystem residing 200m to 1000m depth serves as the mainstay of the marine food web in the open sea and the global carbon cycle. Yet, understanding on its structure and function and related bio-physico-chemical processes are limited.   This program aims to understand the mesopelagic ecosystem in the Pacific in terms of the species diversity, distribution and biomass, food web connectivity among epi-, meso- and bathy-pelagic regions, biological pump and carbon flux, and water column mixing and nutrient recycling. Activities of the program will include joint exploration and data sharing, capacity building, engagement of public and policy makers for conservation of the mesopelagic.",
+  "sdo:location": "Republic of Korea",
+  "sdo:identifier": "41",
+  "sdo:url": "https://oceandecade.org/actions/Mesopelagic-Ecosystem-and-Biopump-Dynamics-and-Connectivity-in-the-Pacific-MEBIDyC-P-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Korea Institute of Ocean Science and Technology (KIOST)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/189"
+  }
+}

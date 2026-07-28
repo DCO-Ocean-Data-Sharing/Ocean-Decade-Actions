@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/47",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean effects on climate variability of the Northwest Pacific",
+  "sdo:name": "Ocean effects on climate variability of the Northwest Pacific",
+  "sdo:description": "The proposed program is an integrative large-scale multi-nation scientific program to enhance understanding how the climate variability in the Northwest Pacific together with remote changes in the Indian Ocean modulates regional changes in Northwest Pacific ecosystems including its marginal seas, to improve forecasts for the Northwest Pacific variability of climate and ecosystem, and to help generate solutions to mitigate climate crisis in the Northwest Pacific.",
+  "sdo:location": "Republic of Korea",
+  "sdo:identifier": "47",
+  "sdo:url": "https://oceandecade.org/actions/Ocean-effects-on-climate-variability-of-the-Northwest-Pacific/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Korea Institute of Ocean Science and Technology"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

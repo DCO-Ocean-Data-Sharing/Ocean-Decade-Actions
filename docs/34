@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/34",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Cities, an international network of cities in harmony with the marine environment",
+  "sdo:name": "Ocean Cities, an international network of cities in harmony with the marine environment",
+  "sdo:description": "Ocean Cities (OC-NET) is a network of marine cities committed with sustainability, permeability and regeneration of natural marine environments, for and with its population. OC-NET is an interdisciplinary and bottom-up transformative program, which will change how coastal cities and their inhabitants perceive, interact and evolve with the ocean, from the surrounding waters to the single global ocean. Cities concentrate most of the world&#x27;s population. Thus, they have a major impact on land-ocean ecosystems and climate, and are among the least resilient environments. OC-NET combines scientific knowledge, research synergies, and social awareness to effectively impact the city&#x27;s evolution and the ocean&#x27;s sustainability. Starting on June 8, 2021, and initially running for 5 years (07/06/2025), with 2 years of implementation plus 3 years of operation. OC-NET will naturally scale up in time as a result of its own process of reflection and action, so that it may eventually extend for the entire decade.",
+  "sdo:location": "Spain",
+  "sdo:identifier": "34",
+  "sdo:url": "https://oceandecade.org/actions/ocean-cities-network/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Mediterranean Center for Marine and Environmental Research (CMIMA-CSIC)  Institut de Ciències del Mar (ICM-CSIC)  Unitat de Tecnologia Marina (UTM-CSIC)    The ICM together with the Marine Technology Unit (Unidad de Tecnologia Marina, UTM), responsible for the management of the Spanish oceanographic fleet, make up the Mediterranean Center for Marine and Environmental Research (CMIMA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
