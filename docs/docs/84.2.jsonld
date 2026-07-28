@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/84.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Nord Observations and Research on marine Life",
+  "sdo:name": "Nord Observations and Research on marine Life",
+  "sdo:description": "For the Decade, Nord University will consolidate and expand its observations on marine biodiversity in a variety of habitats using conventional and new technologies, and publish this data online through OBIS and other open access platforms for use by researchers and citizens. These include monitoring of zooplankton and benthos, collaboration with marineGEO, and new initiatives using webcams, eDNA and citizen science to increase availability of quality assured data and engagement with the public.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "84.2",
+  "sdo:url": "https://oceandecade.org/actions/Nord-Observations-and-Research-on-marine-Life/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Nord University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/17.jsonld"
+  }
+}

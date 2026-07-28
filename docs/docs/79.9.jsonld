@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/79.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Methodological Framework for Tsunami Risk in Ports (TSUPORT)",
+  "sdo:name": "Methodological Framework for Tsunami Risk in Ports (TSUPORT)",
+  "sdo:description": "Ports are highly exposed to tsunamis, one of the most destructive natural hazards. While several countries are making substantial efforts to enhance tsunami preparedness, there is currently no widely adopted comprehensive methodology for assessing tsunami risk in port environments (including quay water areas, inland cargo storage, port infrastructure, assets, and personnel). TSUPORT Project aims to address this gap by developing a tailored methodology for analysing tsunami risk in ports, thereby enhancing preparedness for this critical infrastructure as well as for communities, cities, and populations within or near these areas. This multidisciplinary initiative brings together expertise in disaster risk management and reduction, numerical modelling, earthquake and tsunami physics, coastal engineering, port logistics, and security. The methodology is designed to be flexible and adaptive, allowing its application to other coastal and sea-level-related hazards, whether regular or extreme",
+  "sdo:location": "Spain",
+  "sdo:identifier": "79.9",
+  "sdo:url": "https://oceandecade.org/actions/methodological-framework-for-tsunami-risk-in-ports-tsuport/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "IHCantabria - Instituto de Hidráulica Ambiental de la Universidad de Cantabria"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN31.jsonld"
+  }
+}

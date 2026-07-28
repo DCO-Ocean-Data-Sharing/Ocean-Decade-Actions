@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/72.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Scripps Ecological Observatory",
+  "sdo:name": "Scripps Ecological Observatory",
+  "sdo:description": "The Scripps Ecological Observatory establishes a modern observational program at the Ellen Browning Scripps Pier at Scripps Institution of Oceanography.  The SEO builds on over a century of environmental observations at the Scripps Pier and will consolidate and improve ongoing measurements, while applying new and emerging technologies to understand ecological change at an unprecedented level of detail.  These technologies include automated, high-throughput in situ microscopy, molecular sampling techniques, and in situ sampling of dissolved gases.  Our goal is a publicly available, high quality, high resolution, and continuous record of key environmental variables that will be used to model marine ecosystem dynamics and predict future change.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "72.2",
+  "sdo:url": "https://oceandecade.org/actions/Scripps-Ecological-Observatory/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Scripps Institution of Oceanography"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/26.jsonld"
+  }
+}

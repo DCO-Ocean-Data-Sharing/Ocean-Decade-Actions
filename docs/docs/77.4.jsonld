@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/77.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Community: Engaging through best practices",
+  "sdo:name": "Ocean Community: Engaging through best practices",
+  "sdo:description": "Global and regional perspectives of the ocean are essential in addressing climate and sustainability. To understand a global ocean. similar and interoperable methods are needed for in situ and remote sensing observations. data management.  analyses as well as creation of products and services. To use similar methods in regions with different levels of infrastructure. methods must be adapted to local and regional capabilities. yet remain interoperable and transparent. The project addresses this challenge through active participation of  experts. early career scientists. and indigenous knowledge holders   in many global regions. This work will leverage the initial pilot in the OBPS Task Team 22:01 “Coastal observation for Under-Resourced Countries” and  will be enriched by partners in LDC and SIDS. The efforts address all aspects of the ocean community incl. citizen science in support of broader ocean science. options for lower cost quality instrumentation will also be examined",
+  "sdo:location": "France",
+  "sdo:identifier": "77.4",
+  "sdo:url": "https://oceandecade.org/actions/ocean-community-engaging-through-best-practices/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "IFREMER"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN5.jsonld"
+  }
+}

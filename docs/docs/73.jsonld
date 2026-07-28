@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/73.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Complex multidisciplinary research and monitoring of ecosystems in strategic areas of the South Atlantic (with interested countries)",
+  "sdo:name": "Complex multidisciplinary research and monitoring of ecosystems in strategic areas of the South Atlantic (with interested countries)",
+  "sdo:description": "Complex scientific research is supposed to be carried out in the area of the Russian station Â«BellinghausenÂ» on the island of King George, Strait of Bransfield, annually between January and April, 2021-2030, using scientific expeditionary vessels of reinforced ice class Â«Akademik TryoshnikovÂ» and Â«Akademik FedorovÂ» by Roshydromet.  Work is to be carried out during the voyage, in the coastal zone and on the islands.",
+  "sdo:location": "Russian Federation",
+  "sdo:identifier": "73",
+  "sdo:url": "https://oceandecade.org/actions/Complex-multidisciplinary-research-and-monitoring-of-ecosystems-in-strategic-areas-of-the-South-Atlantic-with-interested-countries-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Arctic and Antarctic Research Institute (AARI)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

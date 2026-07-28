@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/66.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Development of a warning system for predicting  the risk of formation of intense atmospheric vortices of various spatial and temporal scales (water tornadoes, polar mesocyclones) over the seas of the Arctic and middle latitudes",
+  "sdo:name": "Development of a warning system for predicting  the risk of formation of intense atmospheric vortices of various spatial and temporal scales (water tornadoes, polar mesocyclones) over the seas of the Arctic and middle latitudes",
+  "sdo:description": "During  the project  implementation it is planned to develop an automated system to forecast the risk of formation of intense atmospheric vortices - waterspout over  the seas of middle latitudes and polar cyclones over the seas of Arctic latitudes, and delivering information to consumers. The system will be based on ground radar and satellite monitoring data, as well as on the results of calculations based on numerical weather forecast models. Appropriate methods will be developed for predicting the risk of formation of intense atmospheric vortices, taking into account regional  features of their genesis within the considered water areas. The methods will be based on adaptive algorithms for data aggregation and subsequent calculation of risk zones for the formation of vortices.",
+  "sdo:location": "Russian Federation",
+  "sdo:identifier": "66",
+  "sdo:url": "https://oceandecade.org/actions/warning-system-for-predicting-atmospheric-vortices/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Research and Production Association &quot;Typhoon&quot;  (RPA &quot;Typhoon&quot;)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

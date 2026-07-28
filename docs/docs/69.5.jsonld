@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/69.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "ArtWaves: Fusion of Marine Biodiversity and Art",
+  "sdo:name": "ArtWaves: Fusion of Marine Biodiversity and Art",
+  "sdo:description": "The Helmholtz Institute for Functional Marine Biodiversity (HIFMB) and the Institute for Advanced Study (HWK), are jointly offering annual artist-in-residence scholarships. The art projects are intended to address aspects of marine biodiversity change and to promote public understanding and the transfer of knowledge in a changing world through art.  Main objectives are to develop new formats for the transfer of science into social and/or political debates and to build new networks to promote the visibility of marine biodiversity research. In the context of the Ocean Decade Challenges, we ask the artists to address in particular the Challenge 2: Protect and restore ecosystems and biodiversity. HIFMB aims for the most effective interaction and create conditions for an inspiring and creative collegial dialogue between artists and researchers. We ask the artists to involve young scientists and to show them ideas and ways of integrating new ways of thinking and working into their work.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "69.5",
+  "sdo:url": "https://oceandecade.org/actions/artwaves-fusion-of-marine-biodiversity-and-art/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Helmholtz Institute for Functional Marine Biodiversity at the University of Oldenburg (HIFMB)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

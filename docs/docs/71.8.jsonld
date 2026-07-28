@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/71.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "A Caribbean SIDS Pollutants Observatory",
+  "sdo:name": "A Caribbean SIDS Pollutants Observatory",
+  "sdo:description": "This Ocean Decade Action seeks to establish a Caribbean SIDS Pollutants Observatory , using a co-design approach.  A key priority in the region is the need for developing an inventory of contaminant sources along with a regional database, to better understand and interpret the impact of the combination and synergy between pollutants and climate change on marine life along with future changes and trends. A goal is to unify programs and efforts whilst enhancing technical capacities through institutional expertise across the region to develop integrated solutions and help to coordinate, analyze and regularly publish information on marine pollution and produce data that will be open accessed, to better guide and  inform key stakeholders and  decision makers in the Caribbean SIDS. We plan to have coordination meetings, workshops to discuss harmonized protocols to be implemented in the region, and training courses to develop capacities in several priority topics related to marine pollution.",
+  "sdo:location": "Trinidad and Tobago",
+  "sdo:identifier": "71.8",
+  "sdo:url": "https://oceandecade.org/actions/a-caribbean-sids-pollutants-observatory/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Marine Affairs"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN26.jsonld"
+  }
+}

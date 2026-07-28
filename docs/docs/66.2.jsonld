@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/66.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Hakai Institute Biomolecular Observing Network",
+  "sdo:name": "Hakai Institute Biomolecular Observing Network",
+  "sdo:description": "HI-BON is a highly coordinated network of partners across British Columbia, Canada who are using long-term genetic-based assessments of marine biodiversity to create baselines, track changes through time, and provide local-scale biodiversity data in remote areas. The taxonomic focus of this research is broad, with core initiatives quantifying the diversity of fish, invertebrates, and microbes. Biomolecular sampling began at the Hakai Institute in November 2014 and has now grown to a large-network of over 20 partners collecting monthly samples across the BC coast. Our network emphasizes: 1. Standardization of biomolecular monitoring approaches in BC, with the goal to align with global OBON standards. 2. Building capacity by developing community partnerships to enhance spatial and temporal coverage. 3. Open data and contribution to a broad coalition of partners across regional and global communities (i.e. GOOS) to assist in conservation and sustainable management of BC waters and beyond.",
+  "sdo:location": "Canada",
+  "sdo:identifier": "66.2",
+  "sdo:url": "https://oceandecade.org/actions/Hakai-Institute-Biomolecular-Observing-Network/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Tula Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/26.jsonld"
+  }
+}

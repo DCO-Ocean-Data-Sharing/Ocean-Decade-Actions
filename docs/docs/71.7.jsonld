@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/71.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Blue Horizon",
+  "sdo:name": "Blue Horizon",
+  "sdo:description": "The project Blue Horizon, is a project aimed at the identification, prevention, control and reduction of all forms of marine pollution in Nigeria&#x27;s coastal states. This will be achieved through stakeholders engagement, training and community education and involvement as well as research.",
+  "sdo:location": "Nigeria",
+  "sdo:identifier": "71.7",
+  "sdo:url": "https://oceandecade.org/actions/blue-horizon/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Keep the Ocean Clean Initiative"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/6.5.jsonld"
+  }
+}

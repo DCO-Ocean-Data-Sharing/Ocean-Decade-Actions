@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/64.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Updating Tsunami Hazard Assessments for Costa Rica",
+  "sdo:name": "Updating Tsunami Hazard Assessments for Costa Rica",
+  "sdo:description": "SINAMOT Program performed preliminary Tsunami Hazard Assessments (THA) for Costa Rican coasts: Pacific and Caribbean since 2016. Their results defined the tsunami inundation areas and were the base of the almost 70 tsunami evacuation maps and tsunami evacuation plans and protocols currently existing for Costa Rica. However, those THAs were limited to seismic sources with homogeneous ruptures. To perform more comprehensive THAs, other sources are going to be considered in this project with the support of EDANYA group, including landslide sources characterization as input for numerical simulations. From a researcher at Barcelona we will get the stochastic seismic sources, as recommended by the ODTP. The results of these THAs will be employed to update tsunami inundation areas and evacuation maps for both shores. Also, tsunami preparedness and response plans and tsunami warning protocols will be reviewed based on these results.",
+  "sdo:location": "Costa Rica",
+  "sdo:identifier": "64.9",
+  "sdo:url": "https://oceandecade.org/actions/updating-tsunami-hazard-assessments-for-costa-rica/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National University Costa Rica – SINAMOT Program"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN31.jsonld"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/67.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Silent Depth under the Arctic Ocean",
+  "sdo:name": "Silent Depth under the Arctic Ocean",
+  "sdo:description": "&quot;Silent Depth under the Arctic Ocean&quot; is a science-sailing initiative by PVO Expeditions in collaboration with Tarevoktere to address Arctic kelp forest decline. Through bi-annual expeditions in northern Norway, we will map kelp density, test urchin-removal techniques, and document restoration efforts. The project blends research, exploration, and media to generate open-access data, visual content, and policy advocacy. The aim is to raise awareness of the hidden crisis facing Arctic marine ecosystems, engage local and global communities, and contribute to long-term kelp forest regeneration and climate resilience.",
+  "sdo:location": "Denmark",
+  "sdo:identifier": "67.9",
+  "sdo:url": "https://oceandecade.org/actions/silent-depth-under-the-arctic-ocean/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "PVO Expeditions"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

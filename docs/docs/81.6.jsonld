@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/81.6.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Women, heritage &amp; navigation in the Pacific",
+  "sdo:name": "Women, heritage &amp; navigation in the Pacific",
+  "sdo:description": "Using historical maritime archaeological methods, this project will investigate the role of Indigenous women in oceans’ activities in the Pacific Islands in order to highlight the importance of Indigenous women knowledge for environmental security. This study will be aligned with the approach of the Science-Policy Platform of the United Nations of working with indigenous and local knowledge to offer solutions to environmental challenges. Environmental security is concerned with ecological emergencies such as climate change, food security or biodiversity loss and its effects on the security of people and societies. Indigenous peoples in general emphasise the spiritual nature of their relationship with the land or the oceans, which is basic to their existence and to their sustainable use of the oceans.",
+  "sdo:location": "Spain",
+  "sdo:identifier": "81.6",
+  "sdo:url": "https://oceandecade.org/actions/women-heritage-navigation-in-the-pacific/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Universitat Pompeu Fabra"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/69.jsonld"
+  }
+}

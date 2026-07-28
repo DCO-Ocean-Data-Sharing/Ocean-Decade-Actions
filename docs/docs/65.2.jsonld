@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/65.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Cozumel Coral Conservatory",
+  "sdo:name": "The Cozumel Coral Conservatory",
+  "sdo:description": "The Cozumel Coral Conservatory (CozCC) is a unique place to preserve and grow corals uniting science, technology, engineering, arts, and math (STEAM). A diverse coalition of all ages, including nonprofits, universities, individuals, private entities, and governmental institutions, are working to protect, monitor, and rehabilitate the Mesoamerican Barrier Reef in Cozumel, Mexico. The CozCC aims to increase coral coverage, marine biodiversity, and shore protection in the Villa Blanca Reef tract through recognized best practices and groundbreaking innovation while offering novel opportunities for ocean engagement, science education and employment made possible through trans-disciplinary collaboration. Natural coral heads, as well as artistic and functional artificial reef structures and sculptures, populate the seafloor in this shallow reef. The CozCC bridges quantitative science and the originality of hands-on creation to scale coral restoration and strive for a balanced, healthy ocean.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "65.2",
+  "sdo:url": "https://oceandecade.org/actions/The-Cozumel-Coral-Conservatory/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Living Sea Sculpture"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/17.jsonld"
+  }
+}

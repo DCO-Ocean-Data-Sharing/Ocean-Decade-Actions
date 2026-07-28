@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/79.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Portuguese Coastal Monitoring Network",
+  "sdo:name": "Portuguese Coastal Monitoring Network",
+  "sdo:description": "The Portuguese Coastal Monitoring Network (CoastNet) is a Research Infrastructure (RI) implemented by MARE (Marine and Environmental Sciences Centre). This RI aims to improve the understanding of Portuguese coastal ecosystems functioning and variability through the implementation of a remote coastal monitoring system. Real-time acquisition of relevant chemical, physical and biological variables allow this information to be integrated in a structured database, available online to the scientific community, central administration, private companies and the general public. In this way the CoastNet, contributes to 3 aspects of the Decade action: i) A healthy and resilient ocean where marine ecosystems are understood, protected, restored and managed; ii) A predicted ocean where society understands and can respond to changing ocean conditions; and finally iii) to an accessible ocean with open and equitable access to data, information and technology and innovation.",
+  "sdo:location": "Portugal",
+  "sdo:identifier": "79.2",
+  "sdo:url": "https://oceandecade.org/actions/portuguese-coastal-monitoring-network-coastnet/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "MARE- Marine and Environmental Science Centre, University of Lisbon"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/17.jsonld"
+  }
+}

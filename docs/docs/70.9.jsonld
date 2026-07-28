@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/70.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Padjadjaran Oceanographic Data Centre",
+  "sdo:name": "Padjadjaran Oceanographic Data Centre",
+  "sdo:description": "The Padjadjaran Oceanographic Data Centre (PODC), managed by Universitas Padjadjaran’s KomitmenX Research Group, is an open-access portal providing researchers, policymakers, and the public marine and climate data. It integrates data from ships, moorings, autonomous platforms, and expedition. PODC fosters collaboration with institutions like the Marine Science Institute (Philippines), KOMITMEN, and AIS-UNDP, aiming to democratize ocean data, support marine ecosystem and climate studies, and guide sustainable policy. Publications and scientific news from PODC highlight issues such as the Indonesian Throughflow, coral restoration, and ocean deoxygenation. Future plans include government integration, ASEAN-wide collaboration, and expanded features. By combining innovation in low-cost instruments with open data sharing, PODC strengthens research capacity and promotes ocean stewardship in Indonesia and beyond.",
+  "sdo:location": "Indonesia",
+  "sdo:identifier": "70.9",
+  "sdo:url": "https://oceandecade.org/actions/padjadjaran-oceanographic-data-centre/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Universitas Padjadjaran"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

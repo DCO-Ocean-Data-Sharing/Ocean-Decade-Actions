@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/67.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "THE OCEANO VOX INITIATIVE : you sail, we care",
+  "sdo:name": "THE OCEANO VOX INITIATIVE : you sail, we care",
+  "sdo:description": "The Oceano Vox Initiative is committed to improving ocean monitoring, sustainable resource management, and climate adaptation through participatory science co-delivered with the sailing community. It develops advanced technologies such as IoT sensor networks using cost-efficient connectivity to collect real-time in-situ data from leisure boats and ports, especially in coastal areas. By collaborating with research institutions, it promotes Open Innovation and community-driven programs to monitor ocean conditions, climate change and pollution. The Oceano Vox Initiative contributes to enhancing ocean literacy through awareness campaigns, participatory science and educational resources. By investing in sustainable ocean technologies and exploring eco-friendly business models, this initiative supports the blue economy, contributing to ocean conservation while simultaneously generating economic benefits.",
+  "sdo:location": "France",
+  "sdo:identifier": "67.8",
+  "sdo:url": "https://oceandecade.org/actions/the-oceano-vox-initiative-you-sail-we-care/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "OCEANO VOX"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

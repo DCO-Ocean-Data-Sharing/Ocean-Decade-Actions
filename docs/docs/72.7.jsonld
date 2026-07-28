@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/72.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Expedition Coastline in the Ocean Decade",
+  "sdo:name": "Expedition Coastline in the Ocean Decade",
+  "sdo:description": "Expedition Coastline is a project in which several classes, spread across the Belgian Central Coast region, engage for one school year. The project comprises two parts: fieldwork (citizen science) and challenges (taking action) and will be repeated every other school year. With the help of voluntary SeaWatchers, pupils investigate their own stretch of the beach. Together, they are the SeaWatch-B Youth Network. The results are used for scientific research within a database. The knowledge gained during the fieldwork is used in a self-chosen challenge (blue energy, biodiversity, pollution ...) which pupils work on independently. These challenges are linked to the UN Ocean Decade Challenges. At the end of the school year, there is a closing event where classes present their outcomes to other participating schools and partners involved. Young people not only gain knowledge about our Ocean, but also get the chance to take action themselves and mobilise others to do the same.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "72.7",
+  "sdo:url": "https://oceandecade.org/actions/expedition-coastline-in-the-ocean-decade/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Horizon Educatief vzw"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/9.jsonld"
+  }
+}

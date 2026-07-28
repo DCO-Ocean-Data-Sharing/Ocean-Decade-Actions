@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/76.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Global Coastal Bathymetry Observation",
+  "sdo:name": "Global Coastal Bathymetry Observation",
+  "sdo:description": "The coastal bathymetry is of crucial importance for multiple reasons. It’s the zone of wave build-up, intensively used by human activities, and of high importance for life below the water. Mapping or even monitoring this zone by physical survey is complex and, in many parts of the world, simply not possible or affordable. To overcome this, we leverage the latest Earth Observation technologies. Using satellite data, together with physical models that analyze the tidal levels, the intensity and color of the shallow waters and the movement of waves, enables us to map shallow waters from the shoreline down to depths of 10 to 30 meters. Because satellites are recording continuously, this offers the opportunity to monitor these water depths as well. Finally, a scalable cloud processing architecture and web app to make this data available is the other solution we aim for.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "76.7",
+  "sdo:url": "https://oceandecade.org/actions/global-coastal-bathymetry-observation/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "EOMAP"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/107.jsonld"
+  }
+}

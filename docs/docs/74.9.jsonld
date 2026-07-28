@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/74.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Guardiões Azuis Conservation TransCaboFrio trail",
+  "sdo:name": "Guardiões Azuis Conservation TransCaboFrio trail",
+  "sdo:description": "The &quot;Guardiões Azuis: Educação, Turismo e Conservação na Trilha TransCaboFrio&quot; project in Cabo Frio, Brazil, promotes sustainable tourism, ocean culture, and the Blue Economy. Led by the Secretariats of Tourism and Environment, Sanitation and Climate, it integrates environmental education with valuing the region&#x27;s natural and cultural heritage through an interpretative trail at Praia do Peró. The project involves students from municipal schools in field activities, research, and inventorying local fauna, flora, geology, and culture. It aims to foster local belonging, develop geotourism routes, and strengthen community engagement in environmental preservation. The project aligns with the Ocean Decade by promoting sustainable ecotourism, conservation, environmental education, community engagement, job creation, and valuing natural and cultural heritage, as evidenced by Praia do Peró&#x27;s Blue Flag award.",
+  "sdo:location": "Brazil",
+  "sdo:identifier": "74.9",
+  "sdo:url": "https://oceandecade.org/actions/guardioes-azuis-conservation-transcabofrio-trail/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Cabo Frio Municipal Tourism Secretariat"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/69.jsonld"
+  }
+}

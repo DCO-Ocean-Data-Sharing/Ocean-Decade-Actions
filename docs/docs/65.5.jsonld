@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/65.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Shipwrecks as Artificial Reef Structures",
+  "sdo:name": "Shipwrecks as Artificial Reef Structures",
+  "sdo:description": "The project aims to evaluate the role of shipwrecks as artificial reef structures for marine and coastal communities in Sri Lanka. The biological value of shipwrecks is determined by its importance for species recruitment, food source, biodiversity, and sheltered habitat. Further investigation into the role of shipwrecks in the marine environment is required to identify their ecosystem services for marine and coastal areas. The shipwrecks will be evaluated from an ecological, historical, and socio-economic standpoint to understand their value for the development of marine communities, their support for local fisheries and tourism, and as a tool for sustainable marine resource management. This is an opportunity to strengthen scientific relations between Germany and Sri Lanka and cooperate on a novel field of research. Literature on the role of shipwrecks in Sri Lanka is limited and this project would be a valuable contribution to the protection of these cultural heritage sites.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "65.5",
+  "sdo:url": "https://oceandecade.org/actions/shipwrecks-as-artificial-reef-structures/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Leibniz Centre for Tropical Marine Research (ZMT)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/69.jsonld"
+  }
+}

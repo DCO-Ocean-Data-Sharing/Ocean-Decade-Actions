@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/68.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sargasso Sea Project",
+  "sdo:name": "Sargasso Sea Project",
+  "sdo:description": "The overall objective of the nearly $3 million Sargasso Sea GEF-UNDP-UNESCO-IOC project is to facilitate a collaborative, cross-sectoral, and sustainable stewardship mechanism for the Sargasso Sea through improvement of the knowledge base and strengthened frameworks for collaborative management and governance.  The project will complete a socio-ecosystem diagnostic analysis (SEDA) for the Sargasso Sea, the first of its kind for a high seas system, which will lead into the development of a strategic action programme (SAP) for the conservation of the region. This SAP will be endorsed by stakeholders. In addition, the project includes a knowledge management element that will see it capture lessons learned and best practices in order to strengthen stewardship in other areas beyond national jurisdiction.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "68.5",
+  "sdo:url": "https://oceandecade.org/actions/sargasso-sea-project/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Sargasso Sea Commission"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

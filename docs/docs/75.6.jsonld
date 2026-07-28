@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/75.6.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Guiding youth to become green change ambassadors",
+  "sdo:name": "Guiding youth to become green change ambassadors",
+  "sdo:description": "EMBRACE is a groundbreaking project designed to address the pressing issue of plastic pollution and promote environmental sustainability, aligning with the European Green Deal, 2030 Agenda &amp; EU biodiversity strategy for 2030. EMBRACE focuses on harnessing the power of youth to drive meaningful change in the fight against plastic pollution &amp; the transition to a circular, bio-based economy. Plastic pollution is a global challenge that demands immediate attention. EMBRACE aims to educate / activate young people, aged 13+, from diverse backgrounds, including those with fewer opportunities, to become change-makers &amp; ambassadors for the environment. Through a series of innovative workshops, field surveys, participants will gain essential knowledge, skills, and transversal competencies. EMBRACE will launch an innovative e-platform which will serve as a hub for data collection, dissemination &amp; communication. Users will be able to upload area information, photographs, videos &amp; waste types.",
+  "sdo:location": "Greece",
+  "sdo:identifier": "75.6",
+  "sdo:url": "https://oceandecade.org/actions/guiding-youth-to-become-green-change-ambassadors/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "RTIS Network"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN7.jsonld"
+  }
+}

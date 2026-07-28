@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/82.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Popular Observatory of the Sea - Amazon coast",
+  "sdo:name": "Popular Observatory of the Sea - Amazon coast",
+  "sdo:description": "Coastal and marine systems are very dynamic in space and time and highly vulnerable to climate change and sea level rise. Coastal monitoring is essential to manage impacts and provide information for mitigation, adaptability of populations. Remote sensing combined with volunteered geographic information, is an important tool for continuous coastal observation and can win challenges of information gaps, mainly in remote areas like Amazon river mouth. We propose the creation of an Observatory in the region of Amazon River Mouth and adjacent coast, integrating remote sensing tools and Citizen Science to analyze coastal vulnerability. The Observatory will contribute to the support decision-making and formulation of public policies for mitigation and adaptation to climate change. This initiative involves stakeholders of research, education, civil society, environment and Civil Defense. The proposal is part of the Mobilization Support Group for the Oceanic Decade (GAMs), northern Brazil.",
+  "sdo:location": "Brazil",
+  "sdo:identifier": "82.4",
+  "sdo:url": "https://oceandecade.org/actions/popular-observatory-of-the-sea-amazon-coast/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá- IEPA"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

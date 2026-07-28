@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/76.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Northeast Pacific Biodiversity Action Network",
+  "sdo:name": "Northeast Pacific Biodiversity Action Network",
+  "sdo:description": "NEPac-BAN will foster cross-boundary biodiversity science for action-oriented marine conservation and management. The Project will generate a Network of ocean practitioners, including scientists, Crown, and Indigenous decision makers, community members, educators and communicators, to co-design marine life observing for biodiversity science.. NEPac-BAN is structured around taxonomic groups (Nodes) and a Synthesis Hub that will tackle cross-cutting themes by integrating across the tree of life to address challenges facing the NE Pacific coastal ocean. The network will co-develop a) Essential Biodiversity and Ocean Variables for the NE Pacific; b) best practices and capacity for biodiversity observations and data management; and c) biodiversity analysis for conservation and restoration actions. These components form an Action Cycle to advance understanding and improve management outcomes by leveraging existing strengths and creating spaces for exchange across the Canada-US border.",
+  "sdo:location": "Canada",
+  "sdo:identifier": "76.2",
+  "sdo:url": "https://oceandecade.org/actions/NE-Pacific-Coastal-Biodiversity-Action-Network/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Tula Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/17.jsonld"
+  }
+}
