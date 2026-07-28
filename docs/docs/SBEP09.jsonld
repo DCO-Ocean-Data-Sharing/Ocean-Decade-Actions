@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP09.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "DEVELOPMENT OF BLUE FOOD&amp;FEED BIOREFINERY",
+  "sdo:name": "DEVELOPMENT OF BLUE FOOD&amp;FEED BIOREFINERY",
+  "sdo:description": "SEAREFINERY aims to establish a novel bio-based blue food/feed and blue food packaging materials production platform by embracing marine-based sources and wastes targeting five seas. The specific aims of SEAREFINERY includes extraction of high value-added compounds from invasive species, low trophic organisms and marine wastes and use of these compounds for development of blue food analogues, smart and active food packaging materials, and animal feed. A systematic evaluation of the products based on environmental impacts, market analysis, and consumer acceptance followed by a multi-criteria decision making analysis. At the end of the project, this pin-point novel approach will fulfill the needs for restoring and preservation of the marine ecosystem, the need for valorisation of marine resources for sustainable blue economy, the needs and requirements of society and end-users as well as it will allow for new business models and investment schemes.",
+  "sdo:location": "Sweden",
+  "sdo:identifier": "SBEP09",
+  "sdo:url": "https://oceandecade.org/pt/actions/development-of-blue-food-feed-biorefinery/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "KTH Royal Institute of Technology"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}

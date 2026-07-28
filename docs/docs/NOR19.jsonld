@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR19.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Welfare conscious capture and slaughter of Atlantic bluefin tuna (Thunnus thynnus L.) in the Norwegian rod and line fishery",
+  "sdo:name": "Welfare conscious capture and slaughter of Atlantic bluefin tuna (Thunnus thynnus L.) in the Norwegian rod and line fishery",
+  "sdo:description": "This project will improve animal welfare in wild-capture rod-and-line (R&amp;L) fisheries for Atlantic bluefin tuna (ABT; Thunnus thynnus). By improving welfare, the project intends to minimise the environmental impacts of fishing through improvements to sustainability and product quality. Since the re-establishment of the Norwegian ABT quota, the traditional capture method (purse seine) has not been efficient or profitable. As purse seiners target aggregations of fish, animal welfare and product quality are easily compromised. In 2022, only 48% of the 315-tonne purse seine quota was caught. A rod-and-line (R&amp;L) fishery using coastal powerboats has also developed. In 2022, ~100 ABT were caught by R&amp;L for recreational, commercial and scientific purposes. R&amp;L capture overcomes many of the issues associated with purse seine fishing. Catching fish one-by-one gives the opportunity to maintain welfare and quality at the individual level. Norwegian R&amp;L fishing for ABT is therefore well placed to transition towards an animal welfare conscious and environmentally sustainable fish capture method. However, knowledge gaps exist that hinder this transition: 1. Lack of knowledge of the animal welfare impacts of capture and slaughter; 2. Sub-optimal handling practices and limited processing infrastructure 3. Limited understanding of ABT behaviour and distribution 4. Bycatch and escape rates are unknown. The project is organised into four scientific work-packages (“Capture”, “Stunning”, “Welfare” and “Quality”) and a management WP to coordinate activities and communication. Fundamental to the project design is that every fish caught will be used by each scientific WP, with each using specific methodologies to address their respective objectives. The project will also benefit from the input of various stakeholders, including fishers, fishery managers, fish buyers, fish processors, animal welfare agencies and NGOs.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR19",
+  "sdo:url": "https://oceandecade.org/actions/welfare-conscious-capture-slaughter-of-atlantic-bluefin-tuna-in-norwegian-rod-line-fishery/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Marine Research"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

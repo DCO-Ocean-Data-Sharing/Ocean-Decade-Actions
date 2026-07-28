@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR10.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Assessing spatiotemporal dynamics in herring population structure under climate change (HERPOPS)",
+  "sdo:name": "Assessing spatiotemporal dynamics in herring population structure under climate change (HERPOPS)",
+  "sdo:description": "Understanding the spatiotemporal occurrence of marine populations is crucial for management. Traditional methods often failed to resolve population structure, but genomic tools now provide clarity. The Atlantic herring (Clupea harengus), a key species in the north-eastern Atlantic, has a complex structure influenced by climate change. HERPOPS uses innovative genomic research, including century-long data, to explore these processes. By applying diagnostic SNP markers, it identifies the population origin of individual herring across space and time. Environmental DNA (eDNA) will reveal small-scale dynamics of spring and autumn spawners and potential spawning-type switching. HERPOPS integrates genomic results into new assessment models and management strategies to ensure sustainable exploitation and maintain biodiversity, directly informing ecosystem-based fisheries advice.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR10",
+  "sdo:url": "https://oceandecade.org/actions/assessing-spatiotemporal-dynamics-in-herring-population-structure-herpops/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Marine Research"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

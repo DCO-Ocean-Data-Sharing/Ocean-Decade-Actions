@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP38.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Fungal single cell protein from macroalgal waste fermentation: improving sustainability and reducing the carbon footprint of fish aquafeeds (AlFunFeed)",
+  "sdo:name": "Fungal single cell protein from macroalgal waste fermentation: improving sustainability and reducing the carbon footprint of fish aquafeeds (AlFunFeed)",
+  "sdo:description": "AlFunFeed aims to transform aquafeed production through innovative biotechnological processes. Its primary objective is to replace plant protein (PP) sources in aquafeeds for carnivorous fish species with single-cell protein (SCP) derived from fungal fermentation of macroalgaebased substrates. AlFunFeed is driven by a multidisciplinary approach, harnessing expertise across various fields. The initial phase lead by ODS focuses on developing SCPs from three strains of filamentous fungi (Neurospora crassa, Rhizopus oryzae, and Fusarium venenatum) and considering four variables in production (temperature, pH, oxygenation, and medium composition) resulting in 3 SCPs to replace 15% PP in diets for European seabass (Dicentrarchus labrax), as a model of carnivorous fish species. The project emphasizes sustainability and circular economy principles by valorizing macroalgae discards as a valuable resource for SCP production. AlFunFeed contributes to development of more equitable and environmentally conscious ocean economy aligning with specific challenges outlined in the UN Decade of Ocean Science, such as sustainable ocean economy development and global food security, thus addressing critical global issues. The successful implementation of AlFunFeed could lead to the widespread adoption of sustainable aquafeed formulations on industrial scale.",
+  "sdo:location": "Spain",
+  "sdo:identifier": "SBEP38",
+  "sdo:url": "https://oceandecade.org/actions/fungal-single-cell-protein-from-macroalgal-waste-fermentation-improving-sustainability-and-reducing-the-carbon-footprint-of-fish-aquafeeds-alfunfeed/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Universidad de Vigo (UVIGO)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

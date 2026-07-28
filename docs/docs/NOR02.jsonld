@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR02.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Anthropogenic impacts of climate change and fisheries on reproductive and offspring performance of high-latitude marine fishes  (ANTHROCOD)",
+  "sdo:name": "Anthropogenic impacts of climate change and fisheries on reproductive and offspring performance of high-latitude marine fishes  (ANTHROCOD)",
+  "sdo:description": "Climate change together with fishing pressure is already known to be an important threat to oceans and marine resources. In the context of a changing environment, consequences of these anthropogenic stressors on fish reproductive biology and offspring require further study, warranted by the fundamental relevance of these life stages for the population to be able to adapt to these stressors. Indeed, our preliminary data highlighted fascinating and underexplored atypical reproductive patterns in Northeast Atlantic cod that the current knowledge cannot explain. These changes in reproductive cycle, potentially related to elevated temperatures, could result in shifts in spawning season from spring to autumn. Under the ongoing climate change, the occurrence of these atypical phenomena in Atlantic cod would be expected to increase. However, the consequences of these changes on reproductive and offspring performance are unknown. The proposed project is designed to explore the potential anthropogenic impacts of climate change (i.e., temperature) and fisheries on male and female Atlantic cod reproductive biology and physiology, in particular examining if these stressors are drivers of the atypical patterns observed, and the consequences on offspring. By combining experimental, laboratory and field studies, several stocks across different latitudes of the iconic Atlantic cod will be investigated and findings will be compared to species presenting different life-history traits, the Atlantic haddock, and herring. Understanding ocean warming and fisheries effects on fish biology is decisive for assessing the vulnerability of ecosystem components to such pressures. Therefore, by exploring these processes in Atlantic cod, ANTHROCOD project will address questions of the highest priority from the perspective of phenological implications, but also of high ecological relevance involving key principles that form the basis for decisions about current, and future management of cod stocks.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR02",
+  "sdo:url": "https://oceandecade.org/ru/actions/anthropogenic-impacts-of-climate-change-fisheries-on-high-latitude-marine-fishers-anthrocod/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Marine Research"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

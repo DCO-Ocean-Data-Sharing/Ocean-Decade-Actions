@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN36.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "SEAWARD Africa",
+  "sdo:name": "SEAWARD Africa",
+  "sdo:description": "The SEAWARD Africa aims to provide a coordinated framework for the implementation of the Ocean  Decade Africa Roadmap, which provides a vision and plan for diverse stakeholders to convene around a  common set of priorities for the implementation of the Ocean Decade in Africa. The Programme is  structured around four thematic components addressing sustainable management of marine resources;  climate change and marine biodiversity; ocean pollution; and extreme events and disaster risk reduction  and will be supported by a number of enabling and underpinning components including capacity  development, technology and innovation, ocean literacy, ocean observations, and data and information",
+  "sdo:location": "Kenya",
+  "sdo:identifier": "UN36",
+  "sdo:url": "https://oceandecade.org/actions/seaward-africa/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "IOCAFRICA"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

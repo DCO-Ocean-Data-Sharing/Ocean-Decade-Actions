@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP22.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Developing hybrid multifunctional foreshore infrastructure that optimises environmental and blue economy benefits (BLUESHORES)",
+  "sdo:name": "Developing hybrid multifunctional foreshore infrastructure that optimises environmental and blue economy benefits (BLUESHORES)",
+  "sdo:description": "One quarter of the world’s coastline is currently protected by static hard infrastructure that is inadequate to mitigate the impacts of sea level rise and climate change. BLUESHORES moves beyond this static concept and tests an innovative and modular hybrid, nature-based design (referred to as HBGI). Our approach combines one soft (3D biodegradable BESE-elements® for kickstarting saltmarsh restoration) and two hard (wooden breakwalls and oyster-based reefs) ecoengineering elements, designed to maximise wave dissipation and reduce foreshore erosion, and to enhance ecological and societal benefits. Pilot trials have shown that the three elements can be deployed in combination from the foreshore to the backshore of eroding shorelines (breakwalls followed by oyster reefs followed by BESE elements) in a way that exploits the biogeomorphological synergies of these elements to increase the performance of HBGI to mitigate against storm events. This improved performance will enable deployment of HBGI in moderate to high energy sites with moderate to steep slopes, where use of HBGI has previous been viewed as unsuitable and static hard infrastructure used instead. The hybrid design will be deployed and tested in the field at three sites: Venice Lagoon (Mediterranean Sea), Cork Harbour (Atlantic) and the eastern Scheldt Estuary (North Sea). These sites experience different tidal ranges (micro-, meso-, and macro-tidal, respectively, which is considered a critical structural parameter that currently challenges hybrid foreshore designs), as well as different biogeographical, societal and cultural contexts important to HBGI uptake. At all sites, set-up will be in two stages: first, deployment at sheltered, moderately sloping shorelines, which will then inform a second deployment at more energetic, steeply sloping sites. Field test data will be used to develop (i) validated models that characterise and allow optimisation of the energy flux attenuation capability of HBGI, (ii) multi-criteria indicators for analysing the technical, ecological, and societal performance of HBGI and for proving its benefits and cost/effectiveness compared to traditional grey infrastructure GI, iii) a full economic evaluation of the HBGI to facilitate future business opportunities, and (iv) guidelines to inform decisionmaking and design of HBGI at other sites. BLUESHORES comprises a multidisciplinary team of marine ecologists, coastal engineers, numerical modellers, environmental economists, environmental psychologists, and environmental managers from seven European countries. The team will work with local communities and stakeholders from the outset to overcome current inefficiencies in the design, assessment, and implementation of hybrid projects, in order to boost application of blue-green urbanism beyond academia andpave the way for marine ecoengineering practitioners and coastal managers to confidently explore and adopt HBGI for future application for foreshore protection.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "SBEP22",
+  "sdo:url": "https://oceandecade.org/actions/developing-hybrid-multifunctional-foreshore-infrastructure-that-optimises-environmental-and-blue-economy-benefits-blueshores/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Padova (UNIPD)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

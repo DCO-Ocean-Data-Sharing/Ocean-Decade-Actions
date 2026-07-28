@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP01.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Innovative applications of postharvest fish losses",
+  "sdo:name": "Innovative applications of postharvest fish losses",
+  "sdo:description": "WASTE2TASTE is a network of 8 European partners including academia, research centers, and SME’s, aiming at the development of commercially viable products by using postharvest fish losses (PHFL), including unwanted fishery by-catch species and by-products from fish processing and aquaculture industries. The main WASTE2TASTE objective is the valorization of PHFL, showing potential applications in a circular economy and an eco-friendly vision by developing protocols for sustainable exploitation of underused and/or wasted marine resources, to obtain high-value products for food applications. The base of WASTE2TASTE is to utilize PHFL, naturally rich in proteins and bioactive compounds, to develop innovative green and cost-effective bioprocesses for the production of marine ingredients (e.g., collagen, chitin/chitosan, and fish oil), reducing extraction time and use of hazardous solvents/enzymes allowing, at the same time, to minimize pollution into the ecosystem.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "SBEP01",
+  "sdo:url": "https://oceandecade.org/actions/innovative-applications-of-postharvest-fish-losses/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Stazione Zoologica Anton Dohrn"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}

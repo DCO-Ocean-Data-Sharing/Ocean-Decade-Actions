@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP18.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Digital Twin for Innovation in Oceanic Visualization and Exploration (DIVE)",
+  "sdo:name": "Digital Twin for Innovation in Oceanic Visualization and Exploration (DIVE)",
+  "sdo:description": "DIVE elaborate a novel paradigm AI4Ocean. It implements 3 complementary functions to the exiting DTO systems and beyond the state of the art: the “whatif” and “causal” exploration DTO components and the “ocean visualizer”. DIVE novelty lays in focusing on physic informed models, performing beyond the classification and prediction tasks, elaborating multi-modal generative models for the ocean dynamic states and the discovery of causal relations. An ocean visualizer, easy to use and intuitive visualization tool, will enable operation and access to the results of what-if and causal explorers. Users can generate explanations, recognize rules and associations and generate new knowledge for informed decision making processes. The project’s concept (Theory of Change) refers to a research accelerator with the ambition towards stakeholder and enduser engagement. The project adopts the collaborative learning and research approach for new knowledge creation in a Quadruple Helix (QH) innovation framework. The recurrent QH aims to increase the validity of research results, shorten the time from research and practical applications and support a sustainable impact in society. The expected impact ranges from bridging the gap between oceanographers and AI scientists, the development of a new field - AI4Ocean -, establish a sustainable Blue Economy partnership engaging Civil Society, Academia, Policy, and Industry via the activities of a Living Lab. Through collaborative actions, will be anticipated the evolution of the sectors involved, scenarios will be defined, included in the DTO and evaluated against national, EU and international policies and strategies. Thus, aiming to strengthen ecosystem management, focusing to the needs and requests of the local communities, industries, and management, generating societal and economic benefits to multiple stakeholders.",
+  "sdo:location": "Romania",
+  "sdo:identifier": "SBEP18",
+  "sdo:url": "https://oceandecade.org/actions/digital-twin-for-innovation-in-oceanic-visualization-and-exploration-dive/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National University for Science and Technology Politehnica Bucharest (UPB)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}

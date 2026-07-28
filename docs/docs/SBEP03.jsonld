@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP03.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Floating islAnds for Multi-use Offshore Spaces",
+  "sdo:name": "Floating islAnds for Multi-use Offshore Spaces",
+  "sdo:description": "Present estimates show that the world’s population is likely to achieve a peak of 11 billion within the next 100 years. Such massive growth implies an ever-increasing need for space (urban, infrastructural, industrial), resources (water, energy, food) and thus, new pattern of thinking about nexus environment-society-economy. The ocean plays a crucial role in this challenge. Pivotal questions include: is humanity ready to consider living on the ocean surface due to a lack of functional land? How do we create sustainable, reliable, and socially acceptable multi-use offshore spaces? The following points are addressed by FAMOS:      1) Technological development of innovative floating island concepts.       2) Integration of marine renewable energy devices.      3) Social acceptance and ability of co-design of the floating island solutions.      4) Climatological evaluation of the offshore regions for deployment of future floating islands.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "SBEP03",
+  "sdo:url": "https://oceandecade.org/actions/floating-islands-for-multi-use-offshore-spaces/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Florence"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}

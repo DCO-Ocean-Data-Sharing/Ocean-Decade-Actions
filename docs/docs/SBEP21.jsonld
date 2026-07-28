@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP21.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Unlocking the Potential of Seaweeds and Halophytes through Biorefinery for Enhanced Resilience in the Aquaculture Agri-Food and Chemical Industries (ReSEAlience)",
+  "sdo:name": "Unlocking the Potential of Seaweeds and Halophytes through Biorefinery for Enhanced Resilience in the Aquaculture Agri-Food and Chemical Industries (ReSEAlience)",
+  "sdo:description": "The ReSEAlience project, titled “Unlocking the Potential of Seaweeds and Halophytes through Biorefinery for Enhanced Resilience in the Aquaculture, Agri-Food, and Chemical Industries,” seeks to revolutionize marine biomass use by developing a universal biorefinery model. This model focuses on the sustainable processing of Salicornia (a halophyte) and seaweed biomass, exploiting their synergistic potentials within Integrated Multi-Trophic Aquaculture (IMTA) systems to address eutrophication effectively. By sourcing biomass from diverse marine environments like the Atlantic Ocean and Mediterranean Sea, the project ensures a broad approach to biomass utilization across different settings. At the heart of this innovative initiative is the HALOREFINE extraction technique, a legacy from the H2020 Aquacombine project. This method extracts bioactive compounds from marine biomass without toxic solvents, thus minimizing environmental impact and safeguarding ecosystem health. The remaining biomass undergoes further processing into valuable products such as cellulose for the textile industry and fermentable sugars, along with proteins and fats suitable for bioconversion into sustainable, high-value feed alternatives. This process is emblematic of a zerowaste philosophy, utilizing the entirety of the biomass to avoid waste. A notable expansion of the project involves the use of residual biomass for textile production. Through a process known as organosolv fractionation, specifically adapted for Salicornia, this method efficiently separates cellulose. In parallel, alginate is extracted from seaweed using an alkaline extraction process. These processes yield cellulose and alginate from marine biomass, which are then transformed into high-quality fibers for the textile industry, providing a renewable, sustainable alternative to traditional materials. This innovation not only diversifies the applications of marine biomass but also contributes to a more sustainable textile industry by offering an eco-friendly resource alternative. Moreover, the project explores the innovative cultivation of Black Soldier Fly Larvae (BSFL) and marine Thraustochytrids, using the partially processed residual biomass as feed to transforms the biomass into a rich source of proteins and fats, demonstrating an advanced approach to waste valorization within the biorefinery model. ReSEAlience is committed to engaging a wide range of stakeholders, including industry, academia, and policymakers, throughout its lifecycle. This ensures that the project’s outputs are closely aligned with societal needs, facilitating integration into existing value chains and maximizing the impact on the sustainable blue economy. Through interdisciplinary collaboration and pioneering biorefinery models, ReSEAlience underscores the significant potential of sustainable marine biomass utilization to support economic growth and ecosystem health across key industries such as aquaculture, agri-food, and chemicals.",
+  "sdo:location": "Sweden",
+  "sdo:identifier": "SBEP21",
+  "sdo:url": "https://oceandecade.org/actions/unlocking-the-potential-of-seaweeds-and-halophytes-through-biorefinery-for-enhanced-resilience-in-the-aquaculture-agri-food-and-chemical-industries-resealience/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Lulea Tekniska Universitet (LTU)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

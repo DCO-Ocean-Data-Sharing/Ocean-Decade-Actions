@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP06.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Rare Earth Element Reduction in Ocean Green Energy",
+  "sdo:name": "Rare Earth Element Reduction in Ocean Green Energy",
+  "sdo:description": "INSPIRE goes beyond the state of the art by integrating the on- and off-grid wind farm together with the hydrogen production to optimise the design, reducing Rare Earth Elements (REE) usage, and to optimize the electrolyser lifetime. The INSPIRE novelties include: up to 100% reduction of REEs in hydrogen production, min. 30% reduction of REEs in floating offshore wind, risk reduction of Europe’s reliance on REEs and on the non-EU supply chain, new approach to REE reduction and optimised lifetime methodology and algorithm, open access integrated design as EU research infrastructure, integrated transnational road maps for REE reduction and industrialisation of innovations in wind-hydrogen for stakeholders and EU policy makers.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "SBEP06",
+  "sdo:url": "https://oceandecade.org/actions/rare-earth-element-reduction-in-ocean-green-energy/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Norwegian University of Science and Technology"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}

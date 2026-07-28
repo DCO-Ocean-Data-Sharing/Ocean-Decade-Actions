@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN50.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Strengthening Tsunami Early Warning",
+  "sdo:name": "Strengthening Tsunami Early Warning",
+  "sdo:description": "This project strengthens tsunami early warning and preparedness in the Northwest Indian Ocean (NWIO) through regional cooperation. It builds on Phases 1 and 2 to enhance national and community capacities for the implementation of the UNESCO-IOC Tsunami Ready Recognition Programme (TRRP) in pilot communities across India, Iran, Maldives, Pakistan, and Sri Lanka. It also supports tsunami hazard assessments of non-seismic sources in the Makran Subduction Zone and the development of SOPs for multi-hazard early warning. The project contributes to the two main goals of the Ocean Decade Tsunami Programme (ODTP): (1) enhancing global tsunami warning systems to provide timely, actionable warnings to all at-risk coasts, and (2) ensuring 100% of at-risk communities are prepared and resilient to tsunamis by 2030",
+  "sdo:location": "Australia",
+  "sdo:identifier": "UN50",
+  "sdo:url": "https://oceandecade.org/actions/strengthening-tsunami-early-warning/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Intergovernmental Oceanographic Commission (IOC) of UNESCO - ICG/IOTWMS Secretariat"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN31.jsonld"
+  }
+}

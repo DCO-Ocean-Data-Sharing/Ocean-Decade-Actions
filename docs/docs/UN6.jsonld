@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN6.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The EAF-Nansen Programme - Supporting the Application of the Ecosystem Approach to Fisheries (EAF) management, considering climate and pollution impacts",
+  "sdo:name": "The EAF-Nansen Programme - Supporting the Application of the Ecosystem Approach to Fisheries (EAF) management, considering climate and pollution impacts",
+  "sdo:description": "The EAF-Nansen Programme is a longstanding partnership between the Food and Agriculture Organization of the United Nations (FAO) and Norway, executed in close collaboration with the Norwegian Institute of Marine Research (IMR).      In collaboration with 32 countries across Africa and the Bay of Bengal, the  Programme is dedicated to improving food and nutrition security by strengthening fisheries policies and management practices in line with the ecosystem approach to fisheries (EAF). Additionally, it aims to build the capacity of fisheries institutions to ensure sustainable fisheries management.      From 2024 to 2028, the Programme will intensify its focus on fisheries management, emphasizing the critical nexus between science and management and reinforcing ocean governance.       It will provide support to partner countries in achieving the Sustainable Development Goals and advancing FAO&#x27;s vision for the Blue Transformation of aquatic food systems for better production, better nutrition, a better environment, and a better life for all.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "UN6",
+  "sdo:url": "https://oceandecade.org/actions/The-EAF-Nansen-Programme--Supporting-the-Application-of-the-Ecosystem-Approach-to-Fisheries-EAF-management-considering-climate-and-pollution-impacts/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Food and Agricultural Organisation of the United Nations (FAO)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

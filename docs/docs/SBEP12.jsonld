@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP12.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "FOODIMAR",
+  "sdo:name": "FOODIMAR",
+  "sdo:description": "FOODIMAR is a three-year Sustainable Blue Economy Partnership project that aims to develop new industry-relevant solutions for valorising key side-streams from fisheries and aquaculture in climate-friendly, sustainable, high-quality, food applications. FOODIMAR pushes the boundaries of current practices through recovering nutrients, reducing environmental impact (climate-friendly extraction processes), species diversification (jellyfish, whitefish, sea bream), and adding value to fish side-streams (production, processing), thereby making existing food systems more diverse, profitable and resource efficient.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "SBEP12",
+  "sdo:url": "https://oceandecade.org/actions/foodimar/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Submariner Network For Blue Growth EEIG"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}

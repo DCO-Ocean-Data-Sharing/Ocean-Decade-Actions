@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP14.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "AQUAFEED UPGRADED",
+  "sdo:name": "AQUAFEED UPGRADED",
+  "sdo:description": "Pursuit of a sustainable aquaculture industry must identify regional and sustainable feed sources that enhance the nutritional value of aquafeed, increase the growth and health of fish while reducing the ecological impact of aquaculture. Seaweed-derived functional compounds have long been utilised in aquafeeds, mainly focusing on their binding properties. Feed producers are now looking to substitute conventional feed ingredients, such as fishmeal and soybean meal, associated with environmental concerns. These challenges necessitate alternatives from marine resources to support the low-trophic organisms. Therefore, seaweed cultivation and harvesting can have a significant positive impact by mitigating damage to local ecosystems and marine wildlife: a prerequisite for further growth is the introduction of ecosystem services in European aquaculture.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "SBEP14",
+  "sdo:url": "https://oceandecade.org/actions/aquafeed-upgraded/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "NIBIO"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}

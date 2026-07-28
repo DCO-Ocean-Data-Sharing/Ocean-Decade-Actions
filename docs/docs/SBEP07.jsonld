@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP07.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sustainability in the European aquaculture",
+  "sdo:name": "Sustainability in the European aquaculture",
+  "sdo:description": "AQUABALANCE explores strategies and best practices for balancing economic, environmental, and social sustainability in the aquaculture industry. The project follows a pan-European perspective by focusing on different geographical locations and sea-basins (North Sea, Mediterranean Sea, Atlantic Ocean), where existing and promising solutions boosting the sustainability and viability of the aquaculture industry will be mapped. Based on a mix of qualitative and quantitative methods, it will create new knowledge about how the European aquaculture industry can develop onwards in ways that are not environmentally harmful, and contribute to value creation locally, nationally, and internationally. As a result, AQUABALANCE will provide pan-European and regional industry and policy advice and a policy roadmap. These recommendations will serve as a background for a more sustainable growth of the aquaculture industry, contributing to achieving the goals of the EU Farm to Fork strategy.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "SBEP07",
+  "sdo:url": "https://oceandecade.org/fr/actions/sustainability-in-the-european-aquaculture/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Western Norway University of Applied Sciences"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}

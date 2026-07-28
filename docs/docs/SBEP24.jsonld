@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP24.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Harmonised ocean data sets for blue sustainable eutrophication management of the North-East Atlantic Ocean and Baltic Sea (CodeBlue)",
+  "sdo:name": "Harmonised ocean data sets for blue sustainable eutrophication management of the North-East Atlantic Ocean and Baltic Sea (CodeBlue)",
+  "sdo:description": "Eutrophication is a critical issue in areas of the Northwest European Shelf and the Baltic Sea, diminishing water quality and inhibiting sustainable blue economy sectors. The challenging yet urgent need for international collaboration across the area regarding marine eutrophication is a true code blue for our seas. Information is still lacking to produce an efficient and long-lasting eutrophication policy in a changing climate based on conventions’ recommended nutrient input levels. CodeBlue will compile observational river data to build a unique and harmonised set of model forcing data to be used in front-line physicalbiogeochemical models. CodeBlue is by essence a true test use case of the Digital Twin of the Ocean for the North-East Atlantic Ocean and the Baltic Sea, with results aimed at impacting policies at a regional and European Union scale, not only on eutrophication, but also to improve the overall quality of our marine waters and support sustainable blue food production.",
+  "sdo:location": "Sweden",
+  "sdo:identifier": "SBEP24",
+  "sdo:url": "https://oceandecade.org/actions/harmonised-ocean-data-sets-for-blue-sustainable-eutrophication-management-of-the-north-east-atlantic-ocean-and-baltic-sea-codeblue/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Swedish Meteorological and Hydrological Institute (SMHI)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

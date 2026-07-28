@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN43.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sustaining Our Oceans",
+  "sdo:name": "Sustaining Our Oceans",
+  "sdo:description": "Today, our oceans face unprecedented challenges: pollution, habitat destruction, and climate change threaten marine life and entire ecosystems. In South-East Asia, rapid development and dense coastal populations intensify these impacts, with severe consequences for biodiversity, local livelihoods, and global climate stability. Over 8 million tons of plastic enter oceans each year, with six of the ten highest polluting countries located in South-East Asia. These conditions call for urgent, wide-reaching action—and educating the next generation is critical to driving solutions.   The project empowers young people in coastal and inland areas to understand these issues and inspires them to take active roles in protecting marine ecosystems. By raising awareness of the impacts of marine litter and equipping students and teachers with essential conservation skills, the project encourages young people to become advocates for reducing ocean pollution and preserving biodiversity.",
+  "sdo:location": "Thailand",
+  "sdo:identifier": "UN43",
+  "sdo:url": "https://oceandecade.org/actions/sustaining-our-oceans/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "UNESCO Regional Office in Bangkok"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

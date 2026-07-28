@@ -1,0 +1,39 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/NOR12.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Migratory Crossroads: predicting the dynamics of a great vertical migration in a changing habitat",
+  "sdo:name": "Migratory Crossroads: predicting the dynamics of a great vertical migration in a changing habitat",
+  "sdo:description": "Vertical migration of zooplankton is known as the greatest synchronized animal movement of our planet. In the coastal and offshore waters of northern Norway, a tiny herbivorous copepod named Calanus finmarchicus performs two different vertical migrations. These include daily vertical movements of tens-to-hundreds of meters (diel vertical migration) and seasonal movements of hundreds-to-thousands of meters (seasonal vertical migration) in response to corresponding variations of irradiance, temperature, food availability and visual predation risk. These migrations play a paramount ecological and economic role because vertical behaviour, abundance and phenology of many commercially harvested fish species are linked to these and vertical migrations contribute to the export of atmospheric carbon into the ocean&#x27;s deep interior – a key process in the buffering of climate change. However, due to rapid rate of climate change, routine diel &amp; seasonal environmental variability under which these migrations occur keep shifting unprecedentedly, and little is known about how vertical migrations of C. finmarchicus would respond to these environmental shifts. While the current understanding of the subject matter is rooted in studying the impacts of single environmental variables on vertical migrations, in the proposed project, Migratory Crossroads, we aim to study the cumulative impacts of irradiance, temperature, food and predation environmental shifts expected in future high-latitude marine habitats on C. finmarchicus diel and seasonal vertical migrations. This will be done using a hybrid meahanistic-empirical approach, where predictions of a simulation model with an unconstrained representation of vertical migrations will be validated with cutting-edge high-resolution field data. Through
+Migratory Crossroads, we aim to accurately predict future dynamics of C. finmarchicus verical migrations and their impacts on the ecological and economic benefits we reap from these migrations.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "NOR12",
+  "sdo:url": "https://oceandecade.org/actions/migratory-crossroads-predicting-dynamics-of-great-vertical-migration-in-changing-habitat/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Akvaplan-niva"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

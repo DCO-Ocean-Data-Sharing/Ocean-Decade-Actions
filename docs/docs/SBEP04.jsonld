@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/SBEP04.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "EU shellfish genetic boost for climate resilience",
+  "sdo:name": "EU shellfish genetic boost for climate resilience",
+  "sdo:description": "ShellFishBoost aims to mitigate climate change effects on European bivalve production, protecting and developing this vital blue bioeconomic sector. Co-designed with key stakeholders, the project focuses on major issues for main farmed bivalve species in EU. Its objectives include developing advanced genetic selection tools, estimating genetic parameters for crucial traits, and co-creating selective breeding best practices. The project has five workpackages WP aiming at developing advanced genetic selection tools, estimating genetic parameters and identifying QTLs for disease resistance and climate-related resilience in oysters and clams, as well as for reduced toxin accumulation in mussels. Adopting the &quot;Theory of Change&quot; approach, ShellFishBoost strives to translate project outputs into positive outcomes for the European shellfish farming sector, ultimately improving its resilience against climate change effects.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "SBEP04",
+  "sdo:url": "https://oceandecade.org/actions/eu-shellfish-genetic-boost-for-climate-resilience/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Padova"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}
