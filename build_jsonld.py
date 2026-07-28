@@ -59,7 +59,7 @@ print(f"Loaded {len(df)} rows from Excel.")
 id_to_purl = {}
 for index, row in df.iterrows():
     record_id = str(row["ID"]).strip()
-    id_to_purl[record_id] = PURL_BASE + record_id + ".jsonld"
+    id_to_purl[record_id] = PURL_BASE + record_id
 
 
 # Load Mustache template
@@ -84,12 +84,13 @@ for index, row in df.iterrows():
     action_type      = str(row["Type of Action"]).strip()
     lead_institution = str(row["Lead Institution"]).strip()
     country          = str(row["Country"]).strip()
-    summary          = str(row["Summary"]).strip()
+    ('summary          = " ".join(str(row["Summary"])'
+       '.strip().splitlines())')
     host_programme_text = str(row["Host Programme"]).strip()
     human_url        = str(row["Link"]).strip()  # real webpage for humans
 
     # Build this record's permanent PURL identifier
-    purl_id = PURL_BASE + record_id + ".jsonld"
+    purl_id = PURL_BASE + record_id
 
     # Check the Type of Action
     if action_type not in ACTION_TYPE_INFO:
@@ -146,7 +147,7 @@ for index, row in df.iterrows():
     filled_template = pystache.render(template_text, template_data)
 
     # Save as docs/UN1.jsonld for github
-    output_path = os.path.join(OUTPUT_DIR, f"{record_id}.jsonld")
+    output_path = os.path.join(OUTPUT_DIR, f"{record_id}")
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(filled_template)
 
