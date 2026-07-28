@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/109",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Hydrous presents: The Decade of Ocean Empathy",
+  "sdo:name": "The Hydrous presents: The Decade of Ocean Empathy",
+  "sdo:description": "The Decade of Ocean Empathy is inspired by the Decade of Ocean Science for Sustainable Development and brings human elements like empathy, communication, and creative problem-solving into marine science and conservation to generate ocean connection and stewardship. Led by 501c3 non-profit The Hydrous, the Decade of Ocean Empathy leverages human-centered design, learning science, and emerging technologies to contribute to Decade Outcomes 6: an accessible ocean and  7: an inspiring and engaging ocean. Objectives of this programme are to 1) create - and build capacity for - immersive virtual ocean media, 2) lead world-class research on ocean learning and literacy, and 3) build and foster an international community of multidisciplinary ocean solutionist fellows.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "109",
+  "sdo:url": "https://oceandecade.org/actions/The-Hydrous-presents-The-Decade-of-Ocean-Empathy/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Hydrous"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/115",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Blue Parks",
+  "sdo:name": "Blue Parks",
+  "sdo:description": "Blue Parks accelerates the establishment of marine protected areas (MPAs) that effectively revitalize ecosystems and safeguard biodiversity. The initiative sets a science-backed standard for effective marine conservation, the Blue Park Standard. MPAs that meet the Blue Park Standard are eligible for Blue Park Awards, which recognize ecologically important, effective MPAs and incentivize others to reach a similar high standard of marine protection. In the accompanying Blue Sparks program, the Blue Park Standard is used as guidance for collaborations between Marine Conservation Institute and local leaders to plan and implement effective MPAs that meaningfully contribute to global biodiversity conservation. The result is a growing global network of effective MPAs to sustain the vitality of the ocean and our blue planet.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "115",
+  "sdo:url": "https://oceandecade.org/actions/blue-parks/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Marine Conservation Institute"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

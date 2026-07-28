@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/122",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The World Ocean Database Programme (WODP): Openly discoverable, accessible, adaptable, and comprehensive digital global profile oceanographic data of known quality.",
+  "sdo:name": "The World Ocean Database Programme (WODP): Openly discoverable, accessible, adaptable, and comprehensive digital global profile oceanographic data of known quality.",
+  "sdo:description": "Countries need access to oceanographic profile data of known quality to address current and emergent scientific and socio-economic issues at all spatial and temporal scales. The challenge is that data users cannot access the immense and growing globally distributed data that exists in diverse digital formats. The World Ocean Database (WOD) mitigates this challenge. WOD is the world largest unrestricted, uniformly formatted, quality controlled, digital ocean profile database available with data from 1778 to present. WOD acquires and receives ocean data worldwide for ocean Climate Essential Variables (EOV), plankton, and other variables including data from the World Data Service for Oceanography; part of the World Data System.  WOD is hosted at NOAA and it is a project of the International Oceanographic Data Exchange (IODE) of the Intergovernmental Oceanographic Committee (IOC). WOD is a Center for Marine Meteorology and Oceanographic Climate Data (CMOC) in the Marine Climate Data System; a joint system of IOC and the World Meteorological Organization (WMO). In partnership with IODE, NOAA proposes to develop and deploy a data ingestion tool at the IODE project office in Belgium together with Cloud services as a starting point. This effort builds on IODE&#x27;s Ocean Data and Information System (ODIS) and will enable National Oceanographic Data Centers worldwide and other digital repositories to (i) upload their oceanographic data into WOD and (ii) retrieve data in an uniform interoperable format; a value-added proposition. The vision is to achieve openly discoverable, accessible, and adaptable digital profile oceanographic data of known quality.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "122",
+  "sdo:url": "https://oceandecade.org/actions/The-World-Ocean-Database-Programme-WODP--Openly-discoverable-accessible-adaptable-and-comprehensive-digital-global-profile-oceanographic-data-of-known-quality--/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National Oceanic and Atmospheric Administration (NOAA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

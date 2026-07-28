@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/127",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Fish for Africa Innovation Hub",
+  "sdo:name": "Fish for Africa Innovation Hub",
+  "sdo:description": "The Fish for Africa Innovation Hub mobilizes regional and global businesses, research institutions and government into an innovative public-private partnership that supports research and development for sustainable aquaculture and fisheries in Africa, and ensures the hub&#x27;s sustainability in the long run. The hub aims to foster cutting edge science, technology, policy and market innovations to transform aquaculture and fisheries in Africa in order to meet growing consumer demand for affordable, safe and nutritious fish produced sustainably and improve the livelihoods of Africa&#x27;s citizens.",
+  "sdo:location": "Malaysia",
+  "sdo:identifier": "127",
+  "sdo:url": "https://oceandecade.org/actions/Fish-for-Africa-Innovation-Hub-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "World Fish Center (Registered Name: International Center for Living Aquatic Resources Management)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
