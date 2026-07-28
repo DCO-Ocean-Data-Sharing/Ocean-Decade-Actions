@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/UN2021-030.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Advancing Indigenous Partnerships in Ocean Science for Sustainability: A contribution to the United Nations Decade of Ocean Science for Sustainable Development",
+  "sdo:name": "Advancing Indigenous Partnerships in Ocean Science for Sustainability: A contribution to the United Nations Decade of Ocean Science for Sustainable Development",
+  "sdo:description": "This project will develop and coordinate a team to help prioritize and facilitate Indigenous ocean science priorities within Canada for the Decade.  Initiative would also work to promote and publicize the Decade within coastal Indigenous communities.",
+  "sdo:location": "Canada",
+  "sdo:identifier": "UN2021-030",
+  "sdo:url": "https://oceandecade.org/actions/Advancing-Indigenous-Partnerships-in-Ocean-Science-for-Sustainability-A-contribution-to-the-United-Nations-Decade-of-Ocean-Science-for-Sustainable-Development/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Ocean Networks Canada Society"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
