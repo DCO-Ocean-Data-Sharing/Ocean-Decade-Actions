@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/56",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "UNDER THE POLE • DEEPLIFE • 2021-2030",
+  "sdo:name": "UNDER THE POLE • DEEPLIFE • 2021-2030",
+  "sdo:description": "The mesophotic zone (30-200 m deep) is one of Earth&#x27;s last unknown habitat. The cooperative 10-year program UNDER THE POLE • DEEPLIFE • 2021-2030 will explore mesophotic ecosystems across all ocean basins, from polar regions to the tropics and temperate regions, to discover their biodiversity and species connectivity, identify their vulnerability to global changes and ultimately to propose appropriate management and conservation measures for these particular and largely unexplored marine area. Generated knowledge and recommendations will be disseminated through educational, awareness-raising and protective actions, with the aim of making the greatest possible contribution to the preservation of the oceans.",
+  "sdo:location": "France",
+  "sdo:identifier": "56",
+  "sdo:url": "https://oceandecade.org/actions/UNDER-THE-POLE-DEEPLIFE-2021-2030/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "UNDER THE POLE    Driven by a pioneering spirit and internationally recognized for its expertise, UNDER THE POLE (UTP) organizes underwater explorations in extreme environments, including deep and polar environments, which combine scientific research, innovation and awareness, at the service of better knowledge and conservation of the ocean.    UTP is characterized by a global management of the programs (definition, organization, means, expedition progress and development), long missions and ambitious scientific collaboration with internationally renowned research institutes, in order to carry out studies that are both innovative and hold the promise of discoveries for mankind, and hope for the conservation of the planet and in particular, the ocean.    Since its creation in 2008, UTP has carried out three major projects:  2010 - UTP I - 45 days of diving under the North Pole ice pack  2014 / 2015 - UTP II - 21 months in Greenland and a wintering in the ice pack  2017 / 2021 - UTP III - 2 scientific exploration expeditions from the mesophotic zone down to -174 m, including:  - North-West Passage 2017: Quest for fluorescence and biological diversity in the Arctic  - DEEPHOPE 2018-2019: 12 months of deep dives to better understand mesophotic coral reefs (Figure 1) and deployment of an innovative underwater observatory, allowing continuous diving observations over several days.    www.underthepole.com"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
