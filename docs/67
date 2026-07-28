@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/67",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Scientific-educational program &quot;OCEAN&amp;Me: school under sail&quot;",
+  "sdo:name": "Scientific-educational program &quot;OCEAN&amp;Me: school under sail&quot;",
+  "sdo:description": "The goal of the programme is development of children&#x27;s up-to-date competence by implementing high-demand supplementary educational programmes and networking with scientific, industrial and business partners of the region / country / world. The programme gives participants an opportunity to get knowledge, skills and abilities for their future occupation thus it favors career guidance among young people and forestalls the issues of incompatibility between professionalism and demands of a labour market as well as broadening of outlook of audience members and development of potential in the field of sustainable development.",
+  "sdo:location": "Russian Federation",
+  "sdo:identifier": "67",
+  "sdo:url": "https://oceandecade.org/actions/ocean-me-school-under-sail/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Museum of the World Ocean"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN7"
+  }
+}

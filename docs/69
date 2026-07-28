@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/69",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Cultural Heritage Framework Programme",
+  "sdo:name": "Cultural Heritage Framework Programme",
+  "sdo:description": "The Cultural Heritage Framework Programme (CHFP) provides a framework within which Decade Actions relating to cultural heritage can be encouraged, shared and supported, so that the impacts of such actions in delivering sustainable development are greater together than they would be individually. The CHFP offers an efficient interface between heritage and the Ocean Decade, providing advice and assistance to other programmes, projects and activities in key areas such as: showcasing integration of heritage and ocean science; facilitating co-design; managing data and knowledge; developing capacity; enabling greater diversity and representation; encouraging ocean literacy and public engagement and outreach; and evaluating impact.",
+  "sdo:location": "Denmark",
+  "sdo:identifier": "69",
+  "sdo:url": "https://oceandecade.org/actions/Cultural-Heritage-Framework-Programme/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Ocean Decade Heritage Network (ODHN)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
