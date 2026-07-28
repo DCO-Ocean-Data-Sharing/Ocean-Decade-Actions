@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/158",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Scientists for Ocean Literacy (Oceanographers and Meteorologists for Ocean Literacy)",
+  "sdo:name": "Scientists for Ocean Literacy (Oceanographers and Meteorologists for Ocean Literacy)",
+  "sdo:description": "Ocean can inspire, fascinate, frighten, and intrigue. For us, the ocean is daily work. Our â€˜Scientists for Ocean Literacy&#x27; programme will help European oceanographic, hydrographic, and met agencies engage more impactfully with the public on the topics of sustainability.     â€˜Scientists for Ocean Literacy&#x27; will inspire joint events and resources for public and educators, embrace multi and trans-disciplinarity and inclusiveness in ocean knowledge and innovation, help exchange best practice, and promote blue careers.    â€˜Scientists for Ocean Literacy&#x27; will empower scientists as ocean advocates to their communities, countries, and regions, and help transform ocean knowledge into actions for sustainability.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "158",
+  "sdo:url": "https://oceandecade.org/actions/Scientists-for-Ocean-Literacy-Oceanographers-and-Meteorologists-for-Ocean-Literacy-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "European Global Ocean Observing System, EuroGOOS"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/UN7"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/226",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "AGU&#x27;s Mentoring365: UN Decade of Ocean Sciences",
+  "sdo:name": "AGU&#x27;s Mentoring365: UN Decade of Ocean Sciences",
+  "sdo:description": "The American Geophysical Union (AGU) is the pre-eminent scientific society in the Earth and space sciences, representing more than 130,000 scientists in more than 138 countries, and it is the worldâ€™s largest home for research dedicated to geoscience, its related impacts, and solutions. Our members work in academia, industry, the non-profit sector, and government â€“ with many representing the ocean sciences sector. AGU programs include serving as a scholarly publisher, convening virtual and in-person events, and providing career support at all levels. AGU has been involved in the planning process for the Decade over the last few years and remains committed to supporting and partnering in implementing its vision.    AGU understands the essential role mentoring plays in developing the professional skill set of student and early career scientists and to guide their careers. However, mentoring opportunities through professional societies have traditionally only been available to in-person attendees of annual conferences. Even before the limitations due to the COVID-19 pandemic, a large percentage of students did not attend scientific conferences and did not have exposure to these professional development and networking opportunities.    AGUâ€™s Mentoring365: UN Decade of Ocean Sciences increases equitable access to mentoring through a virtual global peer-to-peer mentorship program that will support and cultivate the career pipeline of those engaging in the Decade, particularly through the Early Career Ocean Professionals Programme. M365 matches and provides mentors and mentees with structured, relationship-building tools to develop and accomplish focused career goals. These connections range from one-on-one to small group discussions and often transcend national borders to bring a global perspective to the mentoring experience.    The mentoring platform can be integrated into the online experience for specific Decade events or related activities including Ocean Sciences Meeting, Ocean Visions Summit, and AGUâ€™s Annual Fall Meeting with more than 25,000 scientists in attendance. In addition, the platform can also leverage other training capacities of AGU to further enhance the mentoring experience, such as professional trainings on communicating effectively with policy makers, the media, and public as well as fellowship opportunities through the Thriving Earth Exchange to learn how to work directly with local communities to co-create solutions. In discussions with representatives of the Early Career Ocean Professionals Programme, there was strong interest in leveraging M365 to support their programming needs and they have provided a letter of support for this proposal (attached).",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "226",
+  "sdo:url": "https://oceandecade.org/actions/agu-mentoring365-un-decade-of-ocean-science/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "American Geophysical Union"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

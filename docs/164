@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/164",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "GEOSYSTEMS AND MINERAL RESOURCES IN THE TRANSITION &quot;CONTINENT-OCEANâ&quot; ZONES AND OPEN OCEAN",
+  "sdo:name": "GEOSYSTEMS AND MINERAL RESOURCES IN THE TRANSITION &quot;CONTINENT-OCEANâ&quot; ZONES AND OPEN OCEAN",
+  "sdo:description": "GEOMIR is the Arctic-Asian-Indo-Pacific interregional geoscientific Program aiming to improve oceanfloor&#x27;s and its relations to the continental margins knowledge and to consolidate international efforts for research ocean mineral resources within the Geosystems (coastal-ocean bed-sea water) and enable their sustainable exploitation. The overall objective of the GEOMIR is the transformative considering geomapping and mineral resources data sharing by the science-based strategy based on marine expeditions, experiments and theoretical work to provide open asses of the mineral resources (ferromanganese crusts, sulphides, phosphorites, REE, noble metals, non-conventional and others) data bases. Bioresources and minerals collection Â«Marine GeoBioBankÂ» for the worldwide sharing considered.",
+  "sdo:location": "Russian Federation",
+  "sdo:identifier": "164",
+  "sdo:url": "https://oceandecade.org/actions/geosystems-and-mineral-resources-in-the-transition-continent-ocean-zones-and-open-ocean-geomir/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "V. I. Il&#x27;ichev Pacific Oceanological Institute, Far Eastern Branch of Russian Academy of Sciences"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/144",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "CoastPredict - Observing and Predicting the Global Coastal Ocean",
+  "sdo:name": "CoastPredict - Observing and Predicting the Global Coastal Ocean",
+  "sdo:description": "CoastPredict will transform the science of observing and predicting the Global Coastal Ocean, from river catchments, including urban scales, to the oceanic slope waters. It will integrate observations with numerical models to produce predictions with uncertainties from extreme events to climate, for the coastal marine ecosystems (their services), biodiversity, co-designing transformative response to science and societal needs.  CoastPredict will re-define the concept of the Global Coastal Ocean, focusing on the many common worldwide features, to produce obervations and predictions of natural variability and human-induced changes in the coastal areas and upgrade the infrastructure for exchange of data with standard protocols.  ‘GlobalCoast’ is the implementation framework for the Programme. More information can be found on the website coastpredict.org and in the brochure linked below.  CoastPredict secretariat is sponsored by CMCC Foundation - Euro-Mediterranean Center on Climate Change, Italy.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "144",
+  "sdo:url": "https://oceandecade.org/actions/CoastPredict--Observing-and-Predicting-the-Global-Coastal-Ocean/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Alma Mater Studiorum University of Bologna"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

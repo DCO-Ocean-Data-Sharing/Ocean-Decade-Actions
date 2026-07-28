@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/176",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Global Estuaries Monitoring (GEM) Programme",
+  "sdo:name": "Global Estuaries Monitoring (GEM) Programme",
+  "sdo:description": "The Global Estuaries Monitoring Programme is co-designed by partners and stakeholders with a view to developing a global monitoring network to monitor environmental contaminants (e.g. pharmaceutical residues, emerging pollutants of concern, microplastics, pathogens etc.) in major urbanised estuaries worldwide.  We will develop standard sampling and analysis methods with provision of training opportunities.  This will facilitate capacity building for global estuaries monitoring.  Results of the Programme will reveal the pollution situation around the globe, identify the estuaries that require attention and improvement, recommend priority contaminants for control, and promote best practices to combat the pollution problems and thereby achieve cleaner estuaries.",
+  "sdo:location": "China",
+  "sdo:identifier": "176",
+  "sdo:url": "https://oceandecade.org/actions/Global-Estuaries-Monitoring-GEM-Programme/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "State Key Laboratory of Marine Pollution, City University of Hong Kong"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

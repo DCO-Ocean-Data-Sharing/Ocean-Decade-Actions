@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/184",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Literacy Programme for coastal communities in Ecuador",
+  "sdo:name": "Ocean Literacy Programme for coastal communities in Ecuador",
+  "sdo:description": "Our Ocean Literacy Program for Coastal communities is a pilot model of a sustainable community to achieve community development based on ocean education, management and sustainable use of resources. It has several projects that, in a holistic way, seek to co-construct oceanic knowledge and relationships through educational, experiential, and experimental processes with the different groups and blue economy sectors with whom we work through our ESRA methodology.  In 8 years, we have benefited more than 19k participants in 38 communities, collecting more than 12 tons of garbage. In every project we seek to: 1) Encourage reflection and critical thinking about the environment; 2) Increase participants&#x27; interest and commitment to environmental issues; 3) Understand the importance of the ocean and its interrelationship with their lives and work.",
+  "sdo:location": "Ecuador",
+  "sdo:identifier": "184",
+  "sdo:url": "https://oceandecade.org/actions/Ocean-Literacy-Programme-for-coastal-communities-in-Ecuador-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Fundación Amiguitos del Océano"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/UN7"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/131",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The West Asia Blue Waters",
+  "sdo:name": "The West Asia Blue Waters",
+  "sdo:description": "&quot;The West Asia Blue Waters&quot; is a ten year programme which is proposed to link the science and life and to elevate the ocean literacy amongst people in the region of the West Asia. It is approved by the 4th Governing Board meeting of UNESCO Category 2 Regional Education and Research Centre on Oceanography for West Asia (RCOWA).  The program covers a wide range of different oceanographic disciplines that are organized in 5 projects with the aim of environmental preservation, education, data and information sharing and associating coastal dwellers in ocean and coastal observations.",
+  "sdo:location": "IR of Iran",
+  "sdo:identifier": "131",
+  "sdo:url": "https://oceandecade.org/actions/The-West-Asia-Blue-Waters/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "UNESCO Category II Regional Education and Research Centre on Oceanography for West Asia (RCOWA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

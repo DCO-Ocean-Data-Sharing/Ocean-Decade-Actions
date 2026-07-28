@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/134",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "West African Science Service Centre on Climate Change and Adapted Land Use: Cabo Verde Graduate School on Climate Change and Marine Sciences",
+  "sdo:name": "West African Science Service Centre on Climate Change and Adapted Land Use: Cabo Verde Graduate School on Climate Change and Marine Sciences",
+  "sdo:description": "The Cabo Verde Graduate School on Climate Change and Marine Sciences is dedicated to train up to 20 west African students, per batch, at the level of master´s degree in Marine Sciences and Ocean Management. Students are exposed to interdisciplinary and trans-disciplinary courses on oceanographic areas, marine ecology, fisheries, coastal management and planning. With the theoretical understanding and applied skills, students will be able to develop solution-orientated projects in marine sciences and management in a climate change context. The WASCAL-CV is being implemented under the WASCAL (West African Science Service Centre on Climate Change and Adapted Land Use) framework.",
+  "sdo:location": "Cabo Verde",
+  "sdo:identifier": "134",
+  "sdo:url": "https://oceandecade.org/actions/West-African-Science-Service-Centre-on-Climate-Change-and-Adapted-Land-Use-Cabo-Verde-Graduate-School-on-Climate-Change-and-Marine-Sciences-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Engineering and Marine Sciences at the Atlantic Technical University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/15"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/171",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "EarthScope-Oceans: 300 MERMAIDS",
+  "sdo:name": "EarthScope-Oceans: 300 MERMAIDS",
+  "sdo:description": "EarthScope-Oceans is a multidisciplinary group of geoscientists who coordinate efforts to create a global network of seismic sensors that monitor the Earth from within the oceanic environment. EarthScope-Oceans shepherds national projects into the international arena where globally relevant, applicable, and mutually agreed-upon decisions can be made on instrument development, science objectives, data management, and outreach. With MERMAID technology developing, EarthScope Oceans is becoming more multidisciplinary to include seismologists, acousticians, biologists, geochemists, meteorologists, oceanographers, and environmental scientists. Collaboration with existing ocean-observing programs will enable complementary observation of ocean temperature, bathymetry, salinity, and biogeochemical tracers, and cost-effective instrument deployment and recovery by ships of opportunity.",
+  "sdo:location": "France",
+  "sdo:identifier": "171",
+  "sdo:url": "https://oceandecade.org/actions/EarthScope-Oceans-300-MERMAIDS-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Geoazur, Sophia Antipolis, France"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "https://purl.org/oceandecade/decadeactions/UN1"
+  }
+}
