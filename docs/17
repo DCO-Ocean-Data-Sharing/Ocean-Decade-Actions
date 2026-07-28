@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/17",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Marine Life 2030",
+  "sdo:name": "Marine Life 2030",
+  "sdo:description": "Marine Life 2030 will establish the globally coordinated system to deliver actionable, transdisciplinary knowledge of ocean life to those who need it, promoting human well-being, sustainable development, and ocean conservation. Within a decade, Marine Life 2030 will unite existing and frontier technologies and partners into a global, interoperable network and community of practice advancing observation and forecasting of marine life. This network of networks will link technical, management and policy stakeholders to build and exchange capacity for advancing society&#x27;s grand challenges of managing activities for a healthy and resilient ocean and the vibrant and healthy society that depends on it.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "17",
+  "sdo:url": "https://oceandecade.org/actions/Marine-Life-2030/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Marine Biodiversity Observation Network (MBON) &amp; National Oceanographic and Atmospheric Administration (NOAA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
