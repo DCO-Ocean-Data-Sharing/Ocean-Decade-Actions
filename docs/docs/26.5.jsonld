@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/26.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Blue Economy Coalition for Ocean Climate Solutions",
+  "sdo:name": "Blue Economy Coalition for Ocean Climate Solutions",
+  "sdo:description": "Introducing the Blue Economy Coalition for Ocean Climate Solutions, our transformative response to the UN Ocean Decade&#x27;s call for collaboration. In Central America and the Caribbean, our mission unites public, private, and academic sectors to drive sustainable development. Through innovative research, investments, and collaborations, we address urgent ocean challenges with effective carbon removal strategies. Partnerships, knowledge sharing, and mobilization aim to position the region as an ocean resilience and carbon neutrality leader. Fostering collaboration accelerates tech development, marine industries, and coastal communities. Our focus on carbon removal aligns with climate action, protecting marine ecosystems. Join us in shaping a sustainable future, striding towards UN Decade goals for a positive, lasting ocean impact.",
+  "sdo:location": "Costa Rica",
+  "sdo:identifier": "26.5",
+  "sdo:url": "https://oceandecade.org/actions/blue-economy-coalition-for-ocean-climate-solutions/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Mar y Comercio"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

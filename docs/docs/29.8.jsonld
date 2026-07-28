@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/29.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Think Ocean Challenge",
+  "sdo:name": "Think Ocean Challenge",
+  "sdo:description": "National Ocean Literacy surveys reveal that people want to protect the Ocean but feel unsure about their impact and how to contribute effectively. With this in mind the Ocean Conservation Trust created the Think Ocean Challenge (TOC).The TOC is an adaptive Pro-Ocean Behaviour Change Model. Its purpose is to enable society’s reconnection with the Ocean, by supporting social science behavioural research, focusing on actions that help change behaviour at the individual level, which in turn may drive influence within communities and decision-making structures. Participants receive a suite of personal pro Ocean “Challenge actions”, with clear guidance on how the action impacts the Ocean. Building on participation from 26 countries, this project aims to develop this Model for behaviour change, rolling out further with actions that are respective of regional context, alongside the integration of pro-ocean actions based on scientific outcomes from Ocean Decade Challenges.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "29.8",
+  "sdo:url": "https://oceandecade.org/actions/think-ocean-challenge/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Ocean Conservation Trust"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN7.jsonld"
+  }
+}

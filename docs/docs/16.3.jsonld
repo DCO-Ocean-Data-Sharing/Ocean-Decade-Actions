@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/16.3.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Protection and sustainable use of marine areas (sustainMare)",
+  "sdo:name": "Protection and sustainable use of marine areas (sustainMare)",
+  "sdo:description": "The DAM research mission “sustainMare” analyses and classifies the use of and the pressures on marine spaces in such a way, that a scientifically sound basis is created for decisions by politics, authorities and the economy.  A broad-based transdisciplinary research approach is chosen. More than 250 researchers in two pilot projects and five research networks are investigating the ecological, economic and social impacts of human use and pollution in North and Baltic Sea with a specific focus on the German Exclusive Economic Zone and German coastal waters. The provision of concrete options for action and consistent implementation of measures for knowledge transfer and data provision are intended to ensure the subsequent use of the results in politics and society.  The aim of the research mission is to develop options for sustainable use of marine resources and ecosystem services that will support the achievement of the EUs target of a Good Environmental Status (GES).",
+  "sdo:location": "Germany",
+  "sdo:identifier": "16.3",
+  "sdo:url": "https://oceandecade.org/actions/protection-and-sustainable-use-of-marine-areas-sustainmare/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Helmholtz-Zentrum Hereon / Institute of Coastal Systems - Analysis and Modeling"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/90.jsonld"
+  }
+}

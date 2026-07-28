@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/29.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Fish biodiversity facing global change (FishGLOB)",
+  "sdo:name": "Fish biodiversity facing global change (FishGLOB)",
+  "sdo:description": "Biodiversity research and management in the context of unprecedented global change rely on ecological monitoring programs. Scientific bottom-trawl surveys sample marine communities associated with the seafloor along continental shelves and slopes of seas and oceans. FISHGLOB integrates surveys across every continent thanks to an international network of experts. The database currently includes metadata from 95 surveys, and data for more than 3.000 fish taxa from 65 surveys conducted between 1963 and 2020. FISHGLOB aims to create a sustainable scientific platform that brings together marine data and experts from countries worldwide to form a network of scientists, governmental agencies, and stakeholders. Building from this platform. FISHGLOB will enable research and management in the rapidly changing ocean. By facilitating open and multinational science, this project will identify baselines to understand and predict fish diversity change and help to guide management actions.",
+  "sdo:location": "Norway, Canada",
+  "sdo:identifier": "29.4",
+  "sdo:url": "https://oceandecade.org/actions/fish-biodiversity-facing-global-change-fishglob/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Norwegian College of Fishery Science, UiT, the Arctic University of Norway; University of British Columbia, Institute for the Oceans and Fisheries"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/118.jsonld"
+  }
+}

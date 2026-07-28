@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/23.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "COCAS: Coastal Observatory for Climate, CO2 and Acidification for the global South society    The idea of the Global South herewith may be embraced as a process or practice through which new modes of knowledge production are created and learned and more balanced relationships in the global system of knowledge production are achieved (Klob, 2017, Challenges and potentials of a heuristic concept, https://doi.org/10.2979/globalsouth.11.2.01)",
+  "sdo:name": "COCAS: Coastal Observatory for Climate, CO2 and Acidification for the global South society    The idea of the Global South herewith may be embraced as a process or practice through which new modes of knowledge production are created and learned and more balanced relationships in the global system of knowledge production are achieved (Klob, 2017, Challenges and potentials of a heuristic concept, https://doi.org/10.2979/globalsouth.11.2.01)",
+  "sdo:description": "The COCAS community builds up and use a science-based decision support system, for sustainable development of the marine Exclusive Economic Zones of the Global South countries. Its mission is three-fold: first, to implement and sustains coastal ocean long-term observatories assessing the ongoing marine environmental changes and their impacts on a rich marine biodiversity and multicultural populations; second, to create a common language and common practices for stakeholders, based on data, intelligent information, and technologies; third, to give birth to of a new generation of scientists, end-users and decision-makers, working together for the integrated coastal management of tomorrow in the Global South.",
+  "sdo:location": "France",
+  "sdo:identifier": "23",
+  "sdo:url": "https://oceandecade.org/actions/coastal-observatory-for-climate-co2-and-acidification-for-the-global-south-society-cocas/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Sorbonne Université, LOCEAN-IPSL"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN1.jsonld"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/27.6.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "My Blue Future – propelling women ECOPs",
+  "sdo:name": "My Blue Future – propelling women ECOPs",
+  "sdo:description": "Gender imbalances are a contemporary challenge in most working areas. In the field of ocean jobs and marine sciences, advances are observed in the engagement and participation of women in ocean-related fields, but historical and systemic inequalities persist, hampering women from reaching full equity in occupying and remaining in leadership and senior positions. Experiencing gender inequalities can impact women in their very early career stages, which is a critical moment when career pathways start to be built, and the development of relationships with peers, supervisors, bosses, and senior colleagues plays a key role in pushing professionals toward their aspirations. In addition, most ocean-related institutions and organizations currently lack data and policy mechanisms that support the maintenance of healthy and safe working environments for women. My Blue Future aims to propel women&#x27;s ECOPs by removing gender-based barriers to career progression and addressing systemic issues.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "27.6",
+  "sdo:url": "https://oceandecade.org/actions/my-blue-future-propelling-women-ecops/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Nippon Foundation-University of Edinburgh Ocean Voices Programme"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/16.jsonld"
+  }
+}

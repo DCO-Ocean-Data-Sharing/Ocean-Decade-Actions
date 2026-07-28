@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/20.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Protecting Marine Life from Toxins",
+  "sdo:name": "Protecting Marine Life from Toxins",
+  "sdo:description": "Project Name: Expanding the Marine Biodiversity Observation Network by Monitoring and Utilizing Marine Microalgae in Korea  Objective: Enhance marine biodiversity data by monitoring the ecological role and distribution of marine microalgae. Contribute to the global marine biodiversity observation network by expanding MBON&#x27;s network in Korea.  Key activities Establishment of a marine microalgae monitoring system: Conducting regular field surveys at various points in Korean waters to sample marine microalgae. Analyzing the collected data to assess the status and changes in marine ecosystems Expanding the MBON network: Collaborating with research institutions and marine-related NGOs in Korea to build local research teams and communities of practice Collaborate with the global MBON network to facilitate data sharing and technology exchange Build capacity by providing training programs on marine biodiversity monitoring and microalgae utilization technologies",
+  "sdo:location": "Republic of Korea",
+  "sdo:identifier": "20.7",
+  "sdo:url": "https://oceandecade.org/actions/protecting-marine-life-from-toxins/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Advanced Institute of Convergence Technology"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/17.jsonld"
+  }
+}

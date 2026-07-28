@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/25.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Crustal Ocean Biosphere Research Accelerator",
+  "sdo:name": "Crustal Ocean Biosphere Research Accelerator",
+  "sdo:description": "Remote crustal ocean environments are currently targeted for emergent human uses such as deep-sea mining and carbon sequestration, but there are fundamental knowledge gaps surrounding our understanding of the magnitude of ecosystem services provided by life in crustal ocean habitats as well as their resilience to perturbations. The Crustal Ocean Biosphere Research Accelerator (COBRA) will bring together an international team of interdisciplinary academic and government scientists, private institutions, policy makers, and other stakeholders to coordinate efforts to achieve objectives of mutual benefit that will catalyze new knowledge and inform decision making related to the crustal ocean biosphere. In parallel, this endeavor will train the next generation of leaders in ocean exploration, science, and policy through innovative virtual expedition leadership training programs that promote team science collaboration, diversity, equity, and inclusivity.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "25.2",
+  "sdo:url": "https://oceandecade.org/actions/Crustal-Ocean-Biosphere-Research-Accelerator/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Bigelow Laboratory for Ocean Sciences"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/30.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "ProtectedSeas Navigator",
+  "sdo:name": "ProtectedSeas Navigator",
+  "sdo:description": "ProtectedSeas Navigator is a global tool supporting the UN Decade of Ocean Science for Sustainable Development. As a free, interactive map, Navigator consolidates regulatory information for over 22,000 managed marine and coastal areas worldwide, including the high seas. By providing standardized ratings on the Level of Fishing Protection (LFP) for each area, Navigator enhances the transparency and accessibility of marine conservation regulations. This platform empowers policymakers, researchers, and the public to make informed decisions, fostering collaboration to achieve the UN Ocean Decade mission. Addressing Challenge 8, Navigator improves the accessibility and visibility of marine protection regulations, supporting sustainable resource management and biodiversity conservation. It also complements the Digital Twin of the Ocean initiative by providing a robust dataset for integration into digital models, enhancing simulation accuracy and comprehensiveness.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "30.7",
+  "sdo:url": "https://oceandecade.org/actions/protectedseas-navigator/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Anthropocene Institute - ProtectedSeas"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

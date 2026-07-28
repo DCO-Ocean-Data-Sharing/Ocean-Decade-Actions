@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/18.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Posidonia Soundscapes: Conservation &amp; Music, Ibiza",
+  "sdo:name": "Posidonia Soundscapes: Conservation &amp; Music, Ibiza",
+  "sdo:description": "Posidonia Soundscapes is a transdisciplinary project utilizing soundscape analysis to support the conservation of Posidonia oceanica, a vital and threatened seagrass species essential for biodiversity and carbon sequestration, playing a significant role in climate change mitigation in the Mediterranean. Based in Ibiza, a renowned music epicenter and home to UNESCO-recognized Posidonia ecosystems, the project aligns with the Ocean Decade Challenges and SDGs by integrating biodiversity restoration, underwater acoustic research, and enhancing ocean literacy through the universal language of music and its global outreach. By mobilizing the music community and fostering collaborations with scientific institutions and key stakeholders, the project promotes cultural and environmental sustainability. Activities include artist residencies, A/V performances, public art, and citizen science, aiming to support healthier Posidonia, increase awareness by 2030, and deepen the human-ocean connection.",
+  "sdo:location": "Spain",
+  "sdo:identifier": "18.7",
+  "sdo:url": "https://oceandecade.org/actions/posidonia-soundscapes-conservation-music-ibiza/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Music For The Sea Association"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/12.jsonld"
+  }
+}

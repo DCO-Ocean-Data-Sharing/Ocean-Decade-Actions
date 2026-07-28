@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/20.3.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "PROTEUS™, Space Station of the Ocean",
+  "sdo:name": "PROTEUS™, Space Station of the Ocean",
+  "sdo:description": "Fabien Cousteau, a team of ocean scientists, educators, social entrepreneurs is building PROTEUS™, a modular underwater saturation diving facility that includes multiple cutting-edge scientific laboratories and a broadcast studio. With an anticipated delivery date of 2025, PROTEUS™ will be situated adjacent to a coral reef within a marine protected area in Curaçao. The new habitat will foster a broad array of research and public engagement approaches, with a focus on using cutting edge science and engineering techniques to address critical challenges facing society such as coral reef health and maintenance of biodiversity; environmental monitoring; human health and well-being; and robotics and technological innovation. PROTEUS™ will promote collaborations among academic researchers and educators with industry, government and non-profit organizations across the planet, and is committed to the co-development of solutions to diverse ocean challenges with local communities of Curaçao.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "20.3",
+  "sdo:url": "https://oceandecade.org/actions/proteus-space-station-of-the-ocean/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "PROTEUS OCEAN GROUP Ltd"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

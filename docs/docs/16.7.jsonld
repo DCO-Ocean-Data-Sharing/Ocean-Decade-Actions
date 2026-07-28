@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/16.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "North Atlantic Carbon Observatory",
+  "sdo:name": "North Atlantic Carbon Observatory",
+  "sdo:description": "A multinational platform to deliver comprehensive, sustained and integrated ocean carbon measurements to improve climate forecasts and support accountable marine carbon dioxide removal. To achieve these outcomes, the North Atlantic Carbon Observatory (NACO) will link intergovernmental agencies, industry, and research to deliver ocean carbon measurements at basin and climate-relevant scales. The platform will work across existing ocean observing networks, ocean technology and data providers, and with end-users to fund and operationalize required sensing needs.",
+  "sdo:location": "Canada",
+  "sdo:identifier": "16.7",
+  "sdo:url": "https://oceandecade.org/pt/actions/north-atlantic-carbon-observatory/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Ocean Frontier Institute"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

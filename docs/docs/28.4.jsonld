@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/28.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "SIDS Ocean Science Policy Network - Pilot Project",
+  "sdo:name": "SIDS Ocean Science Policy Network - Pilot Project",
+  "sdo:description": "The SIDS Ocean Science Policy Network Pilot Project is a collaborative initiative between the University of the West Indies, the Pacific Community Centre for Ocean Science, the Alliance of Small Island States, the University of Wollongong, and the Nippon Foundation Ocean Voices Programme at the University of Edinburgh. The initiative which was announced at the UN Ocean Conference in Lisbon in June 2022 seeks to support Ocean stewardship in Small Island Developing States (SIDS) by cultivating enabling environments for capacity development. The pilot project provides a platform for SIDS to be active leaders in the Ocean Decade. It addresses the key challenges of capacity building through customized capacity development for early and mid-career emerging SIDS leaders. facilitates cross regional knowledge exchange and intergenerational SIDS to SIDS mentoring, and provides targeted support to empower leaders, organizations, and institutions to develop SIDS led sustainable ocean programs.",
+  "sdo:location": "Trinidad and Tobago",
+  "sdo:identifier": "28.4",
+  "sdo:url": "https://oceandecade.org/actions/sids-ocean-science-policy-network-pilot-project/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of the West Indies - St. Augustine Campus"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/16.jsonld"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/17.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Team CASPI Climate Innovation Hub",
+  "sdo:name": "Team CASPI Climate Innovation Hub",
+  "sdo:description": "Team CASPI [Climate Action and Sustainable Partnership for Impact] Climate Innovation Hub fosters a collaborative environment aimed at uncovering and realising the full potential of the Caspian region to take urgent action to address the triple planetary crisis of climate change, nature, land, biodiversity loss and pollution.  Based on values of Integrity, Inclusivity and Creativity, we are committed to achieving ambitions of building youth capacity, raise awareness, and promote the scientific and technological innovation; fostering large-scale technologies for marine carbon removal and marine ecosystem restoration; remediation of coastal ecosystems, multiplying their carbon sequestration capacity; supporting regional monitoring and response measures for industrial pollution; developing sustainable water supply and food security, promoting local communities entrepreneurship to foster coastal resilience.",
+  "sdo:location": "Kazakhstan",
+  "sdo:identifier": "17.8",
+  "sdo:url": "https://oceandecade.org/actions/team-caspi-climate-innovation-hub/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Caspian Environmental Consortium Ltd."
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

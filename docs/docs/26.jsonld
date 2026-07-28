@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/26.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Biomolecular Observing Network",
+  "sdo:name": "Ocean Biomolecular Observing Network",
+  "sdo:description": "Ocean life - from viruses to whales - is built from &quot;biomolecules&quot;. Biomolecules such as DNA infuse each drop of ocean water, grain of sediment, and breath of ocean air. The Biomolecular Ocean Observing Network (BOON) will develop a global system that will allow science and society to understand ocean life like never before. The programme will transform how we sense, harvest, protect, and manage ocean life, which faces multiple stresses including pollution, habitat loss, and climate change. It will also help communities detect biological hazards like harmful algal blooms and pathogens, and be a key component of next-generation ocean observing systems.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "26",
+  "sdo:url": "https://oceandecade.org/actions/Ocean-Biomolecular-Observing-Network/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Partnership for Observation of the Global Ocean (POGO)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

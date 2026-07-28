@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/24.3.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Devising Early-Career Capacity Development-IndOcn (DECCaD-IO)",
+  "sdo:name": "Devising Early-Career Capacity Development-IndOcn (DECCaD-IO)",
+  "sdo:description": "This is a project application for endorsement under Ocean Decade (OD) programme no. 15 Early Career Ocean Professionals (ECOPs), of the capacity development initiative “Devising Early-Career Capacity Development in the Indian Ocean region” (DECCaD-IO). It is submitted of the ECSN (Early Career Scientists’ Network) established during the IIOE-2 (second International. Indian Ocean Expedition). We propose to conduct two trainings every year for the coming five years (2023-27), thus ten major capacity building events to represent the ocean decade. The trainings that cover various marine science topics, will be designed in a strategic manner to cater EC requirements in the IO-region. The most significant feature of this initiative is that the ECs are not only students but also serve as the faculties (along with senior tutors), and more so in the later years. This is deliberated to nurture their metamorphosis from a learner to a teacher.",
+  "sdo:location": "India",
+  "sdo:identifier": "24.3",
+  "sdo:url": "https://oceandecade.org/actions/devising-early-career-capacity-development-indocn-deccad-io/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Early Career Scientists’ Network at IIOE-2 JPO, INCOIS"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/15.jsonld"
+  }
+}
