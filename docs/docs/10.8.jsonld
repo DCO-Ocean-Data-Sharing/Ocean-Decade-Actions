@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/10.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "BRIDGES Research Program",
+  "sdo:name": "BRIDGES Research Program",
+  "sdo:description": "BRIDGES (https://www.bridges-wio.com) is a transdisciplinary scientific cooperation program aiming to identify solutions for biodiversity conservation and fair, sustainable fishing in the South-Western Indian Ocean. Over 10 years, BRIDGES will study how marine spatial planning and networks of area-based conservation tools can enable healthy ocean and better conservation of biodiversity, and favor sustainable production of blue food in the context of global change. It will set up an open-access observatory, modeling and predictive tools, innovative collaborative platforms to make researchers, decision-makers and stakeholders work together to set up transformative pathways to greater social and environmental justice, and restore society’s relationship with the ocean. It will provide opportunities for new collaborations in the region, and support the emergence of a generation of experts, through capacity sharing activities (thematic schools, international training networks of PhDs).",
+  "sdo:location": "France",
+  "sdo:identifier": "10.8",
+  "sdo:url": "https://oceandecade.org/actions/bridges-research-program/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "CNRS"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN37.jsonld"
+  }
+}

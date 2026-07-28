@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/14.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Nippon Foundation-Nekton Ocean Census",
+  "sdo:name": "The Nippon Foundation-Nekton Ocean Census",
+  "sdo:description": "Ocean Census is a global alliance of partners uniting to accelerate the discovery of marine biodiversity to galvanise sustainable management and protection. Launched in April ‘23, Ocean Census is founded and coordinated by The Nippon Foundation &amp; Nekton. Ocean Census has 5 missions: To Explore: expeditions to collect and document species in biodiversity hotspots, prioritising taxa that are new to science and / or endangered. To Discover: Accelerating the speed of species discovery and description, with a target of 100,000 new species over the next decade and describing up to 10,000. To Inspire: Raising public and policy interest and galvanising sustained action to protect ocean life. To Conserve: Increasing accessibility and interoperability of ocean life data to accelerate decision making and ensure open access and equitable use for the common good. To Sustain: Building an inclusive, international network of taxonomists and biodiversity experts in high, low and middle income nations.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "14.5",
+  "sdo:url": "https://oceandecade.org/actions/ocean-census/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Nippon Foundation &amp; Nekton Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

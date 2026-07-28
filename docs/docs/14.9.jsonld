@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/14.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Southern Ocean Carbon-Climate Observatory",
+  "sdo:name": "Southern Ocean Carbon-Climate Observatory",
+  "sdo:description": "SOCCO is a South African research initiative advancing understanding of how the ocean regulates Earth’s climate. Positioned at the confluence of three major oceans, SOCCO provides unique access to critical observations in a region central to global carbon and climate processes. Through ship-based and autonomous platforms, high-resolution modelling, machine learning, and sensor innovations, SOCCO delivers cutting-edge insights into ocean–climate interactions. Our work strengthens national and international decision-making on carbon uptake, removal, and climate resilience, supporting frameworks such as the IPCC and the Sustainable Development Goals. At the same time, SOCCO builds human and technological capacity by training the next generation of scientists and fostering global partnerships. Together, these actions ensure that South Africa plays a leading role in advancing ocean science for climate adaptation and mitigation under the UN Ocean Decade.",
+  "sdo:location": "South Africa",
+  "sdo:identifier": "14.9",
+  "sdo:url": "https://oceandecade.org/actions/southern-ocean-carbon-climate-observatory/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Council for Scientific and Industrial Research (CSIR)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/118.jsonld"
+  }
+}

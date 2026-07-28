@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/11.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Whale Safe",
+  "sdo:name": "Whale Safe",
+  "sdo:description": "Whale Safe is an Indigenous-led ocean protection initiative that unites the ancestral knowledge of the Passamaquoddy people with advanced marine technologies to safeguard whales and transform coastal conservation. Anchored in Passamaquoddy Bay, the project addresses the urgent threat of entanglements and ship strikes by co-developing acoustic detection systems, autonomous vehicles, and digital modeling tools that work in harmony with Tribal lifeways and fisheries. Guided by Elders and knowledge keepers, Whale Safe creates a “living classroom” where youth learn marine stewardship, cultural indicators are integrated into digital ocean twins, and Tribal language is spoken across land and water. Beyond the U.S., Whale Safe fosters transatlantic exchange with Norway and reciprocal partnerships in the Global South, offering a replicable model for ocean justice, biodiversity protection, and intergenerational leadership.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "11.9",
+  "sdo:url": "https://oceandecade.org/actions/whale-safe/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Passamaquoddy Tribe at Pleasant Point (Sipayik)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/4.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Coastal Surface Seawater Temperatures in Fiji",
+  "sdo:name": "Coastal Surface Seawater Temperatures in Fiji",
+  "sdo:description": "The ReefTEMPS Fiji project is carried out in collaboration with the French Research Institute for Sustainable Development (IRD). This pioneering work is dedicated to producing precise time series of coastal surface seawater temperature (SST) at 12 sites across the Fiji Islands using a network of precise climate-quality temperature data loggers at a depth of 10-12m. This research first started in November 2012 and SST monitoring is ongoing with annual data retrieval and logger rotation at all active sites. Seawater temperature data is quality-checked and freely accessible online with a DOI on the ReefTEMPS website (https://www.reeftemps.science/en/data/).",
+  "sdo:location": "Fiji",
+  "sdo:identifier": "4.9",
+  "sdo:url": "https://oceandecade.org/actions/coastal-surface-seawater-temperatures-in-fiji/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The University of the South Pacific"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

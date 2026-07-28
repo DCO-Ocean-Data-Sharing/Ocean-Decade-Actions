@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/3.6.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Deep Ocean Microbiomes and Ecosystems (DOME)",
+  "sdo:name": "Deep Ocean Microbiomes and Ecosystems (DOME)",
+  "sdo:description": "DOME will build an integrated international network of research platforms, using observational, experimental, modeling, and technological approaches to determine deep ocean microbial diversity, ecosystem processes, and ocean’s carrying capacity to sustain climate change. DOME will (1) co-design and co-develop transdisciplinary research, using molecular technologies to determine the emergent ecosystem properties of the water column and seafloor sediment; (2) use artificial intelligence and genome-enabled, process-based models for assessment and prediction of current and future ecosystem state in facing global climate change; (3) co-develop research capacity and design programs to improve diversity, equity, and inclusion in research communities; (4) build a planet-scale sample-data platform, OceanMicrobe, to provide equal access to samples, knowledge and data to everyone, supporting the sustainable use of ocean genetic resources, and the implementation of the BBNJ Agreement.",
+  "sdo:location": "China",
+  "sdo:identifier": "3.6",
+  "sdo:url": "https://oceandecade.org/actions/deep-ocean-microbiomes-and-ecosystems-dome/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Shanghai Ocean University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

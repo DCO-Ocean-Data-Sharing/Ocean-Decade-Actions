@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/1.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Dark oxygen production in the deep sea",
+  "sdo:name": "Dark oxygen production in the deep sea",
+  "sdo:description": "The recent discovery of Dark Oxygen Production (DOP) at the abyssal seafloor has drawn attention to the potential importance of this process in deep-sea ecosystems, and the possibility for it to generate oxygenated habitats on other ocean worlds, such as Enceladus and Europa. The research has, as well, highlighted that deep-sea mining may have far greater impacts on deep-ocean ecosystems than previously recognized. While seawater electrolysis had been hypothesized to be partly responsible for the DOP discovered at the polymetallic nodule covered seafloor, further studies are needed to determine if the process occurs in other areas and what mechanism(s) drive DOP. The impact of mining metal-oxide deposits on deep-sea DOP and nearby ecosystems also remains uncertain. We therefore propose to determine if DOP occurs around polymetallic nodules in the central Clarion-Clipperton Zone, and start to understand the impacts of deep-sea mining on DOP.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "1.8",
+  "sdo:url": "https://oceandecade.org/actions/dark-oxygen-production-in-the-deep-sea/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Scottish Association for Marine Science_x000D_"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

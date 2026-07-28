@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/10.3.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Energy Decade for a Blue Economy in SIDS (Ocean Energy Decade)",
+  "sdo:name": "Ocean Energy Decade for a Blue Economy in SIDS (Ocean Energy Decade)",
+  "sdo:description": "The sustainable use of Ocean Energy and attainment of a circular economy are crucial when achieving SDGs in SIDS when transitioning from a fossil fuel-based economy to a Blue Economy. The potential amount of Ocean Energy is around 76,350TWh, twice the global electric power demand. Ocean Energy allows securing resources and establishing a circular economy through sector coupling based on electricity, heat, water, and hydrogen in coastal areas.  The sustainable development and usage of Ocean Energy can strengthen SDG14-related resilience in SIDS. In order to accelerate and raise efficiency of global research developments and demonstration projects on putting ocean-based renewable energy into practical use, we need an international platform dealing with data exchange, technology transfer, test application, and knowledge sharing. Thus, we would like to start a living lab demonstration program on knowledge sharing with SIDS through international cooperation and spread its contents.",
+  "sdo:location": "Republic of Korea",
+  "sdo:identifier": "10.3",
+  "sdo:url": "https://oceandecade.org/actions/ocean-energy-decade-for-a-blue-economy-in-sids-ocean-energy-decade/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Korea Institute of Ocean Science and Technology (KIOST)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

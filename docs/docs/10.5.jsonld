@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/10.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Reefs Of Hope: Coral-Focused Climate Adaptation",
+  "sdo:name": "Reefs Of Hope: Coral-Focused Climate Adaptation",
+  "sdo:description": "Reefs of Hope involves reef-dependent stakeholders: communities, the tourism industry, and island governments in actions to secure corals from worsening marine heat waves. Based on propagating bleaching resistant “super” corals, this first coral-focused adaptation paradigm for coral reefs was launched in December 2022, through publication in a peer-reviewed journal https://www.mdpi.com/2673- 1924/4/1/2/pdf. ROH focuses on nature-based and livelihoods based solutions. It builds on MPAs and best practice management, while focusing on preventing extinction of coral species on reefs subject to severe marine heat waves. Pilot sites in seven countries have been established and refinements to the strategies are ongoing, based on monitoring results from diverse ecological and cultural settings. With the recent alarming ocean thermal spike, a climate emergency has emerged, and the window of opportunity for saving corals is rapidly closing. Major upscaling is needed",
+  "sdo:location": "Fiji",
+  "sdo:identifier": "10.5",
+  "sdo:url": "https://oceandecade.org/actions/reefs-of-hope/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Corals for Conservation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/84.jsonld"
+  }
+}

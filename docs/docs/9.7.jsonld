@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/9.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "EDITO contributing to the DITTO",
+  "sdo:name": "EDITO contributing to the DITTO",
+  "sdo:description": "The European digital twin of the ocean and the European infrastructure for the digital twin of the ocean (EDITO) developed by the EU and its partners is instrumental in the process towards digitalization of ocean data, ocean data management, and ultimately an efficient flow of data and information for ocean management (science-policy-private sector-society at large). This can only be achieved in an effective way through defining and adopting acceptable and accepted standards that allow for interoperability and agreements for exchange of data.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "9.7",
+  "sdo:url": "https://oceandecade.org/actions/edito-contributing-to-the-ditto/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "European Commission"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/137.jsonld"
+  }
+}

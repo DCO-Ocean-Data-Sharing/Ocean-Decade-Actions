@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/8.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Global Ocean Negative Carbon Emissions",
+  "sdo:name": "Global Ocean Negative Carbon Emissions",
+  "sdo:description": "Securing mitigation and adaptation solutions to climate change is an urgent requirement. The ocean has the potential to store globally significant amounts of CO2, but approaches to enhance carbon sequestration require development and evaluation. Global-ONCE will undertake and facilitate the science required to evaluate and implement eco-technological interventions, including learning from paleo-oceanic carbon processes to predict the future, restoring impacted marine ecosystems, fostering nature-based systems of land-sea integrated management, upwelling manipulation, microbial-driven comprehensive carbon sequestration, adjustment of nutrients, DO and pH. Global ONCE will 1) develop an international network of field stations and research facilities, 2) co-design interdisciplinary collaborative research, 3) develop an evaluation framework for mitigation and adaptation approaches, 4) co-ordinate capacity building and 5) facilitate equitable policy, governance and societal understanding.",
+  "sdo:location": "China",
+  "sdo:identifier": "8.2",
+  "sdo:url": "https://oceandecade.org/actions/Global-Ocean-Negative-Carbon-Emission/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Xiamen University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

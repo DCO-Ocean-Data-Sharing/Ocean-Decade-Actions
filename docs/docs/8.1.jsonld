@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/8.1.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "LatinAmerican &amp; Caribbean OBON",
+  "sdo:name": "LatinAmerican &amp; Caribbean OBON",
+  "sdo:description": "LatinAmerica and the Caribbean lack coordinated efforts to use DNA‑based data to address marine biodiversity loss. To bridge this gap, regional institutions created LACOBON, the Latin American and Caribbean Ocean Biomolecular Observation Network, first presented at the 2024 Ocean Decade Conference and COP16, where it received broad support. Its initial phase focuses on capacity‑building, shared training, and identifying regional gaps in biomolecular monitoring. Twenty institutions have already joined, supporting eDNA sampling, laboratory work, and the adoption of low‑cost, FAIR technologies. Members formalized a commitment to strengthen collaboration, ocean literacy, and informed decision‑making. LACOBON is now developing governance, sustainability plans and research priorities, contributing directly to OBON and advancing UN Ocean Decade and CBD goals through standardized, interoperable eDNA monitoring",
+  "sdo:location": "Colombia",
+  "sdo:identifier": "8.1",
+  "sdo:url": "https://oceandecade.org/actions/latinamerican-caribbean-obon/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Marine and Coastal Research Institute &quot;Jose Benito Vives de Andreis&quot;"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/26.jsonld"
+  }
+}

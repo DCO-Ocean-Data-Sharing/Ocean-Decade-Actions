@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/12.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "A US Ocean and Great Lakes Literacy Strategy",
+  "sdo:name": "A US Ocean and Great Lakes Literacy Strategy",
+  "sdo:description": "The project goal is to create a national strategy to foster Ocean Literacy (OL) in the United States (US). This will be accomplished through five project components: 1) assessing OL through a survey to inform a US national strategy; 2) expanding USA Blue Schools Network and connecting the US to the larger global Blue Schools community; 3) cultivating strategic partnerships and initiating a professional network to help others learn about effective practices in OL and incorporate OL into their organizations’ work, thus helping their professionals and stakeholders achieve a broader understanding of the value of the ocean to energize and create a wider audience for the national strategy; 4) convening a diverse group of stakeholders at an Ocean Literacy Forum to develop, solidify, and institutionalize a professional network around a national strategy for fostering OL in the US; and 5) communicating project findings and employing agreed-upon strategies to work toward fostering OL in the US.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "12.7",
+  "sdo:url": "https://oceandecade.org/actions/a-us-ocean-and-great-lakes-literacy-strategy/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National Marine Educators Association"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN7.jsonld"
+  }
+}

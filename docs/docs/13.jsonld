@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/13.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sailing4Science - expanding the capacity for ocean observations and ocean citizen science awareness and stewardship",
+  "sdo:name": "Sailing4Science - expanding the capacity for ocean observations and ocean citizen science awareness and stewardship",
+  "sdo:description": "Sailing4Science methodology will create better ocean stewardship, enable and empower sailing professional and citizen scientists across the world with a toolbox of both frugal innovation, and cost-effective, low power observation tools that exploit recent transformative technologies for sensors and image acquisition and processing. Focus is the remote, understudied coastal ocean often coinciding with SIDS or low income coastal communities, where capacity building need to be carefully co-designed in relation to traditional knowledge and cultural norms of each region. The co-created, crowd-sourced data is valuable in itself but the collection process will be important ocean literacy and awareness activities additionally.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "13",
+  "sdo:url": "https://oceandecade.org/actions/Sailing4Science--expanding-the-capacity-for-ocean-observations-and-ocean-citizen-science-awareness-and-stewardship/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "NTNU: Norwegian University of Science and Technology"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN2.jsonld"
+  }
+}

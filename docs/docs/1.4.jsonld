@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/1.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Acoustic Detection &amp; Protection Tech for End. Right Whales",
+  "sdo:name": "Acoustic Detection &amp; Protection Tech for End. Right Whales",
+  "sdo:description": "In 2017, an unprecedented number of North Atlantic right whale (NARW) mortalities were observed in the Gulf of St Lawrence. To help protect the NARW, the Government of Canada adopted a suite of protection measures aimed at reducing the risk of vessel strikes and entanglement in fishing gear. These protection measures are informed by a science-based program that provides up-to-date detections of NARW using aerial surveillance and sophisticated acoustic detection technologies. Our Decade Action aims to expand near-real time acoustic surveillance in eastern Canada by testing new technologies that will enhance our ability to detect and locate NARW. These detections are currently disseminated through a publicly accessible online platform called Whale Insight. This visualization tool displays near-real time detections of NARW and will help to inform the management, conservation, and research initiatives implemented to protect this critically endangered species.",
+  "sdo:location": "Canada",
+  "sdo:identifier": "1.4",
+  "sdo:url": "https://oceandecade.org/actions/acousticdetectionprotectiontechforend-rightwhales/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Fisheries and Oceans Canada (DFO)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/12.jsonld"
+  }
+}

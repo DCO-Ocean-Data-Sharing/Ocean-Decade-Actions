@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/1.6.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Future of Fisheries &amp; Marine Ecosystems (FishMIP)",
+  "sdo:name": "The Future of Fisheries &amp; Marine Ecosystems (FishMIP)",
+  "sdo:description": "To ensure healthy ecosystems and seafood for future generations, we urgently need to understand how best to mitigate and adapt to the multifaceted effects of climate change and other human pressures. FishMIP aims to detect, attribute, and project future marine ecosystem and fisheries changes, with an understanding of their associated uncertainties. This is done by co-creating simulation experiments designed for all regions of the world. Building on its existing international network of diverse actors (e.g. scientists, fisheries managers, industry stakeholders), FishMIP will provide new ways to test marine ecosystem model ensembles, construct future scenarios of changing climate and sea-use, and provide ensemble projections of how future ecosystems and fisheries will respond over time. We envision our global data resource, on past and future marine ocean ecosystems and fisheries under a range of scenarios, will provide new knowledge on how to help achieve the future ocean we want.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "1.6",
+  "sdo:url": "https://oceandecade.org/actions/the-future-of-fisheries-and-marine-ecosystems-fishmip/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute for Marine &amp; Antarctic Studies, University of Tasmania"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

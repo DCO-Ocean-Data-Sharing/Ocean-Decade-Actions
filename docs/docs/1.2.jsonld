@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/1.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Plastic Mop Up",
+  "sdo:name": "Plastic Mop Up",
+  "sdo:description": "In Nigeria, singly used plastics especially PET bottles are found almost everywhere; from landfills to drainage channels and aquatic environment posing threat to the immediate environment and most especially aquatic/ocean lives. The Plastic Mop-up project was created by the AQUAWORLD Timeout Team to retrieve and collect discarded plastics by from the environment. This project over time has empowered the participants (most especially females) in the following categories; Plastic dumpsite surveyors, plastic collectors and data collators. The plastics retrieved during the mop ups are supplied to recycling companies to breakdown into smaller plastic particles which can be used by textile industries, transportation industries, building firms and lots more, on a long run reducing the pressure on virgin plastic materials to produce new products and reduce their plastic footprints.",
+  "sdo:location": "Nigeria",
+  "sdo:identifier": "1.2",
+  "sdo:url": "https://oceandecade.org/actions/Plastic-Mop-Up/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Aquaworld"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN36.jsonld"
+  }
+}

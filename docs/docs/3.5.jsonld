@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/3.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Comparable microplastics monitoring of oceans",
+  "sdo:name": "Comparable microplastics monitoring of oceans",
+  "sdo:description": "The main purpose of this project is to harmonize techniques, prepare guidelines for the sampling, separation, and identification of microplastics in beach sands and marine surface water, and ensure consistent reporting of the Sustainable Development Goals (SDG) indicator 14.1.1b. Part of the strategy of the project was a homogenization of activities in the field and laboratories. The purpose is to support data generation to establish a baseline for reporting, and as a means for estimating the abundance and change over time of microplastics in the coastal zone, as well as establishing a regional, possibly global, network.",
+  "sdo:location": "South Africa",
+  "sdo:identifier": "3.5",
+  "sdo:url": "https://oceandecade.org/actions/comparable-microplastics-monitoring-of-oceans/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Department of Forestry, Fisheries and the Environment"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN26.jsonld"
+  }
+}

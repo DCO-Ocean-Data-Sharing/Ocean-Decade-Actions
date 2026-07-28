@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/13.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "KOR-IND Ocean Tech Capacity Enhancement Actions",
+  "sdo:name": "KOR-IND Ocean Tech Capacity Enhancement Actions",
+  "sdo:description": "The Korea-Indonesia Ocean Technology Capacity Enhancement Action is designed to enhance the capabilities of early-career ocean professionals (ECOPs) in Indonesia by providing advanced training and fostering collaboration with their Korean counterparts. The project includes graduate-level education, short-term technical training in marine equipment operation, and opportunities for collaborative research between Indonesian and Korean ECOPs. The initiative will utilize the bilateral cooperation centers established by the governments of Korea and Indonesia to support and manage the project, ensuring that it contributes effectively to the objectives of the UN Ocean Decade. By strengthening the professional skills of ECOPs and promoting international cooperation, the project aims to build a network of highly skilled marine professionals dedicated to sustainable ocean management.",
+  "sdo:location": "Republic of Korea",
+  "sdo:identifier": "13.7",
+  "sdo:url": "https://oceandecade.org/actions/kor-ind-ocean-tech-capacity-enhancement-actions/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Korea-Indonesia Marine Technology Cooperation Research Center (MTCRC)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/15.jsonld"
+  }
+}

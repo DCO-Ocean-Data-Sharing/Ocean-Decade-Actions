@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/15.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Demonstrating Ocean CDR with Hydrogen Production",
+  "sdo:name": "Demonstrating Ocean CDR with Hydrogen Production",
+  "sdo:description": "This Decade Action will demonstrate the Equatic Process—a modular, onshore seawater electrolysis technology that removes atmospheric CO₂ and co-produces carbon-negative hydrogen. Building on successful pilots in Los Angeles and Singapore, the next step is a larger demonstration facility in Singapore. The project will validate carbon removal performance, environmental safety, and monitoring systems in tropical coastal waters, generating open-access data to inform permitting, crediting, and future deployments of marine carbon dioxide removal (mCDR) under real-world operating conditions. Delivered through partnerships with local agencies, researchers, and engineering firms, the project will strengthen regulatory readiness and technical capacity in Southeast Asia while creating a replicable model for integrating ocean-based carbon removal into broader climate mitigation and sustainable development strategies.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "15.9",
+  "sdo:url": "https://oceandecade.org/actions/demonstrating-ocean-cdr-with-hydrogen-production/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Equatic"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

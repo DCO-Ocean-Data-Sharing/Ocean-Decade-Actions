@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/8.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Health of Ocean under Multiple Ecosystem Stressors",
+  "sdo:name": "Health of Ocean under Multiple Ecosystem Stressors",
+  "sdo:description": "In recent decades, the Maritime Continent undergoes complicated threats under the stress of climate change and anthropogenic impacts. The formation and evolution of marine biodiversity in this area are strongly associated with tectonic processes, paleo-ocean environment, climate changes, and life processes. To address the pressing concerns of declined marine biodiversity, our programme leverages a multi-disciplinary paradigm for unraveling the interaction among anthropogenic, ecological and environmental factors. This initiative is pivotal in revealing both the contemporary conditions and evolving tendencies of marine biodiversity. Utilizing state-of-the-art oceanographic tools, collaborative cruises, and cross-disciplinary inquiries, we aim to unearth both large-scale patterns and intricate micro-interactions that dictate the health and functionality of marine ecosystems in Maritime Continent. We endeavor to craft feasible solutions for marine biodiversity conservation.",
+  "sdo:location": "China",
+  "sdo:identifier": "8.5",
+  "sdo:url": "https://oceandecade.org/actions/health-of-ocean-under-stressors/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Oceanology, Chinese Academy of Sciences"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

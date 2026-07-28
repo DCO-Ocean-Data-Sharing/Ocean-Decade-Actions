@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/15.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Remote sensing of Underwater Cultural Heritage",
+  "sdo:name": "Remote sensing of Underwater Cultural Heritage",
+  "sdo:description": "RUSH utilizes advanced underwater remote sensing technologies to enhance the comprehension of the interrelationships between submerged cultural sites and their surrounding marine environments. The project aims to integrate different informational levels to develop an interdisciplinary approach that combines archaeology, geosciences, and biology. The project acknowledges UCH as an integral component of the seabed that introduces new ecosystem functions with a significant impact on biodiversity and structure of marine landscapes. RUSH also focusses on the digital reconstruction of UCH as a tool to increase the protection and communication of underwater sites. Ultra-high resolution water depth measurements can be effectively utilized through advanced Web3D modeling techniques, enabling interactive visualization on digital platforms for the dissemination and management of natural and cultural heritage.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "15.7",
+  "sdo:url": "https://oceandecade.org/actions/remote-sensing-of-underwater-cultural-heritage/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute of Heritage Science (ISPC) CNR"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/69.jsonld"
+  }
+}

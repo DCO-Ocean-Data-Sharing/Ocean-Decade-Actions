@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Global Ocean Corps and Conveyor",
+  "sdo:name": "Global Ocean Corps and Conveyor",
+  "sdo:description": "Motivated by the example of the US Peace Corps, we propose &quot;An Ocean Corps for Ocean Science&quot; as a unifying concept for sustaining long-term education and research collaborations between scientists from under-resourced nations and higher-resourced nations.  Based upon our experience in Peace Corps and with the Coastal Ocean Environment Summer School in Ghana (https://coessing.org), we are confident that an Ocean Corps would inspire large numbers of scientists, especially early-career scientists, into its ranks, thus &quot;internationalizing&quot; their outlook, molding many of them into champions for international capacity development for the remainder of their careers, and fostering true ocean science collaborations worldwide.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "9",
+  "sdo:url": "https://oceandecade.org/actions/Global-Ocean-Corps-and-Conveyor/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Michigan"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

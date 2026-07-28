@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/14.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "A bridge of oceanic dreams from Asia",
+  "sdo:name": "A bridge of oceanic dreams from Asia",
+  "sdo:description": "This project aims to develop human resources who can work in the marine field as a profession, rather than as volunteers, by providing basic education to young professionals, fishermen and engineering students in the Asia-Pacific region, both online and in person. In particular, we have been developing human resources through the fusion of traditional knowledge and scientific insight through the acquisition of skills such as GIS and water quality surveys, as well as through capacity development through community building and social collaboration. Through this activity, we believe that we can achieve a balance between preserving the living space of local communities and sustainable development through the development of local industries by training youth who have no interest in the marine field as experienced leaders who are engaged in marine conservation activities in various places with coastlines and territorial waters, together with other projects.",
+  "sdo:location": "Japan",
+  "sdo:identifier": "14.8",
+  "sdo:url": "https://oceandecade.org/actions/a-bridge-of-oceanic-dreams-from-asia/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "UNISC International"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/15.jsonld"
+  }
+}

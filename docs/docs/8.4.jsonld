@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/8.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Blue carbon for sustainable development",
+  "sdo:name": "Blue carbon for sustainable development",
+  "sdo:description": "This project focuses on mainstreaming blue carbon into national development and climate change agenda. Blue carbon (BC) describes the carbon storage potential of vegetated coastal ecosystems, including tidal marshes, mangrove forests, and seagrass meadows. Limited resources, inadequate capacity, and poor coordination among government agencies are underlying factors leading to poor management of BC in Kenya. The proposed project seeks to scale up and accelerate conservation of BC ecosystems for the climate, community, and biodiversity benefits.  The project will lead to: reduction in degradation; and promote sustainable utilization and protection of sensitive BC habitats and enhance awareness among stakeholders of their significance. At the local levels, the project will improve fisheries, create employment, preserve biodiversity, protect shorelines, and stabilize sediments. The project will thus contribute to poverty alleviation and promote sustainable coastal development.",
+  "sdo:location": "Kenya",
+  "sdo:identifier": "8.4",
+  "sdo:url": "https://oceandecade.org/actions/blue-carbon-for-sustainable-development/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Kenya Marine and Fisheries Research Institute"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/11.2.jsonld"
+  }
+}
