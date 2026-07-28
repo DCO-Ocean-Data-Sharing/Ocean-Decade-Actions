@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/71",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Comprehensive multidisciplinary research and monitoring of ecosystems of the Arctic Ocean and its seas",
+  "sdo:name": "Comprehensive multidisciplinary research and monitoring of ecosystems of the Arctic Ocean and its seas",
+  "sdo:description": "The planned Decade Programme focus on obtaining comprehensive information on the state of the natural system of the Eurasian Arctic seas and the deeper part of the Arctic Ocean. The main goal is to better understand the interaction of its main components and the impact on the formation of climatic changes in the northern Polar Regions.  The program includes a series of international comprehensive expedition projects in which it is planned to carry out meteorological, oceanological, hydrochemical, hydrobiological, paleooceanological observations, observations of environmental pollution in the Arctic Ocean.  We plan to get students and young scientist involved in marine expeditions.",
+  "sdo:location": "Russian Federation",
+  "sdo:identifier": "71",
+  "sdo:url": "https://oceandecade.org/actions/Comprehensive-multidisciplinary-research-and-monitoring-of-ecosystems-of-the-Arctic-Ocean-and-its-seas/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Arctic and Antarctic Research Institute (AARI)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

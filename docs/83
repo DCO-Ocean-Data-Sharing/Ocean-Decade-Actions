@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/83",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "WOC SMART Ocean-SMART Industries (SO-SI): Science/Industry Partnerships for Data Collection and Sharing",
+  "sdo:name": "WOC SMART Ocean-SMART Industries (SO-SI): Science/Industry Partnerships for Data Collection and Sharing",
+  "sdo:description": "The WOC SMART Ocean-SMART Industries (SO-SI) Program is the global, multi-industry initiative creating partnerships between science and the ocean private sector on data collecting and sharing.   The SO-SI Program for the UN Ocean Decade will improve and scale this by developing the   1) Community of Practice - Engaging tens of thousands of ocean companies around data collecting and sharing  2) Clearinghouse and Knowledge Base - Assembling information from science on data collection programs, priorities, technologies and from industry on opportunities for using vessels and platforms   3) Matchmaking/Brokering Capacity - Expanding the efforts to connect science priorities with industry potential",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "83",
+  "sdo:url": "https://oceandecade.org/actions/smart-ocean-smart-industries-so-si-science-industry-partnerships-for-data-collection-and-sharing/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "World Ocean Council (WOC)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
