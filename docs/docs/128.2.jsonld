@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/128.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Coastal Ocean Resource Environment",
+  "sdo:name": "Coastal Ocean Resource Environment",
+  "sdo:description": "Discoverable, accessible and FAIR information is a foundation to understanding and predicting the global coastal oceans. CORE will provide sustainable delivery of high-quality environmental data and information, products to research, industry, and government for purposes such as ecosystem health, hazards response and resource management. CORE builds upon JERICO projects and offers a range of services including fully open access to data, tools for managing and using data, best practices for observation, data management and user applications, as well as access to relevant documentation. There is also a virtual workspace for analyses and translating data to information. However, CORE does not store data, but collaborates with global and regional repositories such as EMODnet, NCEI, SAEON and AODN. This &quot;one stop shop&quot; will support countries with mature ocean capabilities and developing regions that have limited infrastructure. It will support all Focus Areas in the CoastPredict Programme.",
+  "sdo:location": "Spain",
+  "sdo:identifier": "128.2",
+  "sdo:url": "https://oceandecade.org/actions/Coastal-Ocean-Resource-Environment/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Balearic Islands Coastal Ocean Observing and Forecasting System (SOCIB)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

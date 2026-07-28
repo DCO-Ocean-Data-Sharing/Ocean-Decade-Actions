@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/142.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Global Ocean Biogeochemistry Array (GO-BGC Array)",
+  "sdo:name": "Global Ocean Biogeochemistry Array (GO-BGC Array)",
+  "sdo:description": "The Global Ocean Biogeochemistry Array (GO-BGC Array) creates a global fleet of robotic floats, transforming how we observe the ocean. The program will release a network of 500 robotic floats into the global ocean to collect chemistry and biology data from the surface to more than 1 mile deep. This program drives a shift in our ability to observe and predict, at the global scale, the effects of climate change on ocean metabolism, carbon uptake, and living marine resource management. Collected data will be freely accessible in near real-time. The program includes an outreach program to diversify the blue workforce.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "142",
+  "sdo:url": "https://oceandecade.org/actions/Global-Ocean-Biogeochemistry-Array-GO-BGC-Array-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "U.S. National Science Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

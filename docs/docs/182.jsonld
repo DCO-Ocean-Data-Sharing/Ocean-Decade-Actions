@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/182.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Southeast Asian Ocean Professionals Program",
+  "sdo:name": "Southeast Asian Ocean Professionals Program",
+  "sdo:description": "The East-West Center&#x27;s Southeast Asian Ocean Professionals Program (SEAOPP), is a ten-year, regional program notably co-founded and run in collaboration with Southeast Asian based partners. SEAOPP&#x27;s inaugural Decade Project, the Ocean Research Corps (#EWCoceancorps), will respond to UNESCO&#x27;s call to &quot;change how we finance and conduct ocean research&quot; by training 100 young researchers in 100 different communities across Southeast Asia for the Ocean Decade. Corps researchers will be Early Career Ocean Professionals (less than 10 years experience) on one-year, non-residential EWC research intern posts and embedded in their local communities and affiliated with a local University, NGO, or business.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "182",
+  "sdo:url": "https://oceandecade.org/actions/Southeast-Asian-Ocean-Professionals-Program-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "East-West Center    The East-West Center promotes better relations and understanding among the people and nations of the United States, Asia, and the Pacific through cooperative study, research, and dialogue. Established by the U.S. Congress in 1960, the Center serves as a resource for information and analysis on critical issues of common concern, bringing people together to exchange views, build expertise, and develop policy options. The Center is an independent, public, nonprofit organization with funding from the U.S. government, and additional support provided by private agencies, individuals, foundations, corporations, and governments in the region"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/15.jsonld"
+  }
+}

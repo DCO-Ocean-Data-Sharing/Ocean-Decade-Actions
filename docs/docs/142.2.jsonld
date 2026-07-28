@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/142.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "NOAA Harmful Algal Bloom Forecasting",
+  "sdo:name": "NOAA Harmful Algal Bloom Forecasting",
+  "sdo:description": "NOAA’s Harmful Algal Bloom (HAB) forecasts alert coastal managers to blooms before they cause serious damage. Short-term (up to twice weekly) and longer-term seasonal forecasts identify potentially harmful levels of developing algal biomass, including projected bloom location, size, direction, and severity in a particular region. NOAA continues to issue HAB forecasts by region, which are based on understanding the causes of HABs and how they respond to changing weather, physical ocean conditions, and in-situ environmental factors. NOAA additionally funds research in support of operationalizing several pilot regional HAB forecasts for continued prevention and mitigation.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "142.2",
+  "sdo:url": "https://oceandecade.org/actions/NOAA-Harmful-Algal-Bloom-Forecasting/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "NOAA National Centers for Coastal Ocean Science"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

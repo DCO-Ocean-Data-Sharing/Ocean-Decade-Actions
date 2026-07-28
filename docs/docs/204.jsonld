@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/204.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Multinational Image Classification Assessing Coastal Habitats",
+  "sdo:name": "Multinational Image Classification Assessing Coastal Habitats",
+  "sdo:description": "Harnessing artificial intelligence to provide a rapid, reproducible habitat classification toolbox to assess impacts of change on coastal habitats from available imagery.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "204",
+  "sdo:url": "https://oceandecade.org/actions/Multinational-Image-Classification-Assessing-Coastal-Habitats-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National Oceanographic and Atmospheric Administration, Southeast Fisheries Science Center"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/185.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Creation of an ecological complex for the study, development and nature management of the Azov Sea.  Developing hydrophysical basis for monitoring and forecast of marine pollution on the Russian Black sea shelf.  The regular high resolution ecological monitoring of the Black Sea coastal zone    Operational determination and short-term forecasting of hydrophysical and ecological parameters at the selected sites of coastal marine areas of the Black Sea coastal zone with high special-temporal resolution",
+  "sdo:name": "Creation of an ecological complex for the study, development and nature management of the Azov Sea.  Developing hydrophysical basis for monitoring and forecast of marine pollution on the Russian Black sea shelf.  The regular high resolution ecological monitoring of the Black Sea coastal zone    Operational determination and short-term forecasting of hydrophysical and ecological parameters at the selected sites of coastal marine areas of the Black Sea coastal zone with high special-temporal resolution",
+  "sdo:description": "The program includs the natural science component: hydrophysical, hydrobiological, hydrochemical and geological research, as well as sociological research: archaeological and ethnolinguistic research. A course of lectures will contribute to the graduation of a generation of broad-based specialists who are aware of the inseparability of natural and anthropogenic processes in the region, and continuous coverage of research in the media. The most important factor in popularizing activities will be the desire to instill an understanding of interdependence of nature and society, and therefore the need for the social interests of a healthy natural environment to prevail over the personal interests",
+  "sdo:location": "Russian Federation",
+  "sdo:identifier": "185",
+  "sdo:url": "https://oceandecade.org/actions/study-development-and-nature-management-of-the-azov-sea/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Federal Research Centre The Southern Scientific Centre of the Russian Academy of Sciences,"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/9.jsonld"
+  }
+}

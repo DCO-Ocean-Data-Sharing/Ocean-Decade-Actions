@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/149.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Modernizing marine climate data infrastructure",
+  "sdo:name": "Modernizing marine climate data infrastructure",
+  "sdo:description": "This project will modernize the world&#x27;s primary source of global marine climate data, the International Comprehensive Ocean Atmosphere Data Set (ICOADS). It will address longstanding impacts of large uncertainties in marine weather records arising from non-climatic artifacts as described in the 5th and 6th IPCC WG1 Assessment Reports. It builds historical ocean knowledge in support of climate and ocean prediction, supports the development of new interoperable and open-access data infrastructure, and engages with public initiatives for contributions of recovered historical marine data and for ocean education and outreach.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "149.2",
+  "sdo:url": "https://oceandecade.org/actions/modernizing-marine-climate-data-infrastructure/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "NOAA"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/18.2.jsonld"
+  }
+}

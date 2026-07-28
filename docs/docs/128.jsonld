@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/128.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Advancing the European Seas&#x27; Marine Research and Innovation to Support Their Biodiversity and Resilience Under Multistressors: ReSealience",
+  "sdo:name": "Advancing the European Seas&#x27; Marine Research and Innovation to Support Their Biodiversity and Resilience Under Multistressors: ReSealience",
+  "sdo:description": "ReSealience proposes a holistic Decade Programme that aims to advance the European Seas (North Atlantic, Mediterranean, Black Sea, Baltic Sea, North Sea) marine research and innovation to support the biodiversity and resilience under multistressors while promoting the sustainable utilization of the ecosystem services.  The programme will build on three pillars: generate knowledge, support innovation, develop solutions in support of Ocean Decade objectives. ReSealience brings together key institutions that will bring together main actors of the different regions on these 3 pillars.",
+  "sdo:location": "Türkiye",
+  "sdo:identifier": "128",
+  "sdo:url": "https://oceandecade.org/actions/advancing-the-european-seas-marine-research-and-innovation-to-support-their-biodiversity-and-resilience-under-multi-stressors-resealience/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Middle East Technical University Institute of Marine Sciences"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

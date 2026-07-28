@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/141.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Data Tapestry International Forum",
+  "sdo:name": "Ocean Data Tapestry International Forum",
+  "sdo:description": "The Ocean Data Tapestry International Forum (ODTIF) is a multidisciplinary initiative that integrates technology, science, and art to address marine pollution. Co-founded by ELSETECH Environment Inc. and Korea Institute of Geoscience and Mineral Resources (KIGAM), the project focuses on collecting and analyzing pollution information from rivers to coastal areas. This data is used to build GIS-based pollution maps and trace pollution sources. ODTIF extends its impact through collaboration with international partners and uses artistic expression from Art Farm LK to engage civil society and drive behavioral change. The project also promotes a circular economy by developing a system to recycle collected filters. As a proposed Decade Action, ODTIF aims to contribute to Challenges 1, 8, and 10 of the UN Ocean Decade, offering a model for how scientific knowledge can be effectively translated into policy and public engagement.",
+  "sdo:location": "Republic of Korea",
+  "sdo:identifier": "141.9",
+  "sdo:url": "https://oceandecade.org/actions/ocean-data-tapestry-international-forum/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Elsetech Environment Inc."
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/176.jsonld"
+  }
+}

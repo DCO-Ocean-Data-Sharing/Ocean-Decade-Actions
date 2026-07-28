@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/162.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Norway-Pacific Ocean-Climate Scholarship Programme",
+  "sdo:name": "Norway-Pacific Ocean-Climate Scholarship Programme",
+  "sdo:description": "The Norway-Pacific Ocean-Climate Scholarship Programme (N-POC) is an ambitious partnership in research and PhD training between two geographically remote but thematically convergent institutions of research and higher education: the University of Bergen (UiB) in Norway, and the regional University of the South Pacific (USP), whose main campus is located in Fiji. N-POC is funded for 2021-2027 by the Norwegian Agency for Development Cooperation (Norad). The programme is under full implementation, with 19 PhD candidates (10 female, 9 male) from 7 Pacific Islands countries (Fiji, Nauru, Papua New Guinea, Samoa, Solomon Islands, Tonga, and Tuvalu) engaged in original research on the ocean-climate nexus in linguistics, social sciences, law, marine biology, oceanography, and more, all receiving joint supervision from both partner universities towards a bi-institutional degree PhD. N-POC maintains active cooperation with the United Nations Missions of the Pacific Island states and Norway’s UN Mission and Embassy in Australia, and has gained high international visibility as a recognized model for university-based SIDS partnerships and a prominent example of the 2030 Agenda’s SDG 17 (Partnerships for the Goals).",
+  "sdo:location": "Norway",
+  "sdo:identifier": "162",
+  "sdo:url": "https://oceandecade.org/actions/Norway-Pacific-Ocean-Climate-Scholarship-Programme/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Bergen, Norway"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

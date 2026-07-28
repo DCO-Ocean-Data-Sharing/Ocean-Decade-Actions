@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/161.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Frontlines Of Rapidly Transforming Ecosystems",
+  "sdo:name": "Frontlines Of Rapidly Transforming Ecosystems",
+  "sdo:description": "FORTE is a recently selected NASA Earth Venture Suborbital (EVS-4) Mission that will apply cutting-edge ocean observing technologies and state-of-the-art models to explore the remote and rapidly transforming ecosystem of the coastal Alaskan Arctic and how environmental change is impacting this region and beyond.  Over a period of four years, and combining observations from airplanes, satellites, helicopters, research vessels and drones, FORTE will increase understanding of the interconnected hydrological, biogeochemical and ecological processes along the Arctic land-river-ocean aquatic continuum, one of the most critical areas on Earth for energy resources, transportation, subsistence, security, biodiversity and cultural heritage. FORTE is founded on strong collaborations with local, national, and international partners, and has been developed through collaborative work with Alaskan Native communities to support their needs and codevelop innovative solutions.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "161.9",
+  "sdo:url": "https://oceandecade.org/actions/frontlines-of-rapidly-transforming-ecosystems/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "City University of New York, The City College of New York"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

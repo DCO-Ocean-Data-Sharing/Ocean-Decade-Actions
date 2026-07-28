@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/129.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Deep Ocean Observing Strategy (DOOS)",
+  "sdo:name": "Deep Ocean Observing Strategy (DOOS)",
+  "sdo:description": "DOOS represents an interconnected network of deep-ocean observing, mapping,  exploration, and modelling programs working together for the coming decade to 1) characterize the physics, biogeochemistry and biology of the deep ocean in space and time, 2) establish a baseline required to understand changes to its habitats and services, and 3) provide the information needed to have a healthy, predicted, resilient and sustainably-managed (deep) ocean. DOOS will promote the human capital and observing infrastructure needed to address critical scientific and management questions related to the climate, biodiversity and sustainability, while growing a diverse and inclusive next generation of deep-ocean leaders.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "129",
+  "sdo:url": "https://oceandecade.org/actions/Deep-Ocean-Observing-Strategy/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Deep Ocean Observing Strategy"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

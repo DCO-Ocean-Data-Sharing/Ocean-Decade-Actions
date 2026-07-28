@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/140.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Food Conveyor Belts in the Ocean",
+  "sdo:name": "Food Conveyor Belts in the Ocean",
+  "sdo:description": "The biomass of small fish, crustaceans, squids, and gelatinous zooplankton hiding in the twilight of the mesopelagic zone is estimated to be about 20 times greater than all other fish in the ocean combined. These organisms, small and dispersed across vast ocean volumes, often drift passively with ocean currents. Yet we still do not know how this vast biomass moves horizontally or enters the food chains of shallower ecosystems. In this Decade Action, we aim to uncover the mechanisms that determine when and where prey from the open ocean become available to predators. We will map these foraging hotspots across the North Atlantic and predict how advected biomass shapes productivity, life-history strategies, and species distributions in the receiving ecosystems. Understanding these dynamics is crucial for predicting ecosystem change, guiding management, advancing sustainable unfed aquaculture, and improving carbon flux estimates by identifying areas critical for long-term carbon storage.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "140.9",
+  "sdo:url": "https://oceandecade.org/actions/food-conveyor-belts-in-the-ocean/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Bergen, Department of Biological Sciences"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/189.jsonld"
+  }
+}

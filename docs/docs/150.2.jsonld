@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/150.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "National Sea Grant College Program",
+  "sdo:name": "National Sea Grant College Program",
+  "sdo:description": "For over 50 years the National Sea Grant College Program (Sea Grant) has generated and delivered actionable science to tackle the most pressing challenges facing our marine and coastal communities and environments and will continue to do so in support of the Ocean Decade priorities. Sea Grant’s key to success lies in the synergistic interplay of research, extension, and education initiatives, representing a rich knowledge-to-action network that empowers coastal stakeholders with science-based information, products, and services to inform decision-making and help solve pressing societal problems.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "150.2",
+  "sdo:url": "https://oceandecade.org/actions/National-Sea-Grant-College-Program/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "NOAA Sea Grant"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

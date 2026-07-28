@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Global Ecosystem for Ocean Solutions (GEOS)",
+  "sdo:name": "Global Ecosystem for Ocean Solutions (GEOS)",
+  "sdo:description": "The Global Ecosystem for Ocean Solutions (GEOS) is an Ocean Visions program that seeks to accelerate collaboration across multiple sectors and geographies to help build a globally distributed community of scientists, entrepreneurs, public officials, and other interests working to deliver more effective and equitable global ocean-based solutions. The GEOS program supports the development of Ocean-Climate Innovation Hubs in diverse geographies that advance inclusive, multidisciplinary collaborations to develop and test viable solutions to the interlocking ocean-climate crisis. Through its network of Ocean Decade-endorsed GEOS projects focused on developing innovative ocean-climate solutions, GEOS facilitates knowledge exchange and leverages project synergies to build a stronger global coalition and advance science and decision-making for effective and equitable ocean-climate solutions.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "172",
+  "sdo:url": "https://oceandecade.org/actions/Global-Ecosystem-for-Ocean-Solutions-GEOS-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Ocean Visions and Future Seas"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

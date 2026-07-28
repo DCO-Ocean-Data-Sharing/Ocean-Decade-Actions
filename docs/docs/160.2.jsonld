@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/160.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "National Coastal Condition Assessment",
+  "sdo:name": "National Coastal Condition Assessment",
+  "sdo:description": "NCCA tracks water quality and ecological conditions in coastal waters of estuaries and the Great Lakes; it builds monitoring capacity using statistical survey designs and consistent field and laboratory protocols to estimate proportions of coastal waters in good condition for water quality, sediment quality, fish tissue contaminants and biological integrity, as well as proportions of waters with concentrations of Enterococci, microcystin and cylindrospermopsin in water, and mercury in fish fillet plug samples that exceed human-health benchmarks. During the Decade, the NCCA will provide data collected in 2020/21, 2025, and 2030.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "160.2",
+  "sdo:url": "https://oceandecade.org/actions/National-Coastal-Condition-Assessment/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Environmental Protection Agency"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
