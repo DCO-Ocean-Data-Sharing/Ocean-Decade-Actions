@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/106.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Migravías: Connecting marine protected areas (MPAs) with ocean swimways to protect migratory routes of endangered species between critical habitats.",
+  "sdo:name": "Migravías: Connecting marine protected areas (MPAs) with ocean swimways to protect migratory routes of endangered species between critical habitats.",
+  "sdo:description": "The status of many endangered migratory marine species has continued to deteriorate over the last twenty years despite regulatory measures and the creation of large marine protected areas. The Swimways Initiative, Migravías, aims to reverse these trends by providing tangible protection for species that move along predictable routes and building resilience to climate change. MigraMar will work with national governments to create at least 6 protected swimways (MigraVías), connectivity conservation projects linking marine protected areas in the Eastern Pacific.  This initiative involves transboundary collaboration in data collection, analysis, management, enforcement, and sustainable and equitable use of the benefits generated.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "106",
+  "sdo:url": "https://oceandecade.org/actions/MIGRAVIAS-Connecting-Marine-Protected-Areas-MPAs-through-ocean-swimways-to-protect-migratory-routes-and-critical-habitats-of-endangered-species-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "MigraMar"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/17.jsonld"
+  }
+}

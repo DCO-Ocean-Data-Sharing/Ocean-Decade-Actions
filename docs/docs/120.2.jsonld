@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/120.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Seaworthy Collective",
+  "sdo:name": "Seaworthy Collective",
+  "sdo:description": "Seaworthy Collective is a BlueTech startup community and venture studio driving regenerative ocean and climate impact through social and economic impact. Our non-profit social impact arm builds and educates our community, making ocean innovation accessible, inclusive, and interdisciplinary, starting with our Sea Change Makers Series and expanding with our fellowship program launching 2022. Our for-profit economic impact arm co-creates and grows existing startups through the first BlueTech venture studio in the United States, catalyzing traction and collaboration by providing access to network connections, talent, and capital. Altogether, we empower current and aspiring entrepreneurs in ocean innovation while developing regenerative systems of solutions and blue economy startup pipelines at scale.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "120.2",
+  "sdo:url": "https://oceandecade.org/actions/seaworthy-collective/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Seaworthy Collective"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/15.jsonld"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/108.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Globalising Marine Biodiversity Observations",
+  "sdo:name": "Globalising Marine Biodiversity Observations",
+  "sdo:description": "Measuring ocean life and turning that information into effective management actions is difficult. CSIRO and Minderoo Foundation have partnered to deliver autonomous eDNA sampling technology which can be installed on any vessel, establishing a network of “ships of opportunity” that can contribute to a collective, global eDNA observation effort, allowing us to better understand, protect, and conserve our precious marine ecosystems for future generations. eDNA is a powerful tool to enhance marine ecosystem monitoring, empowering communities through education, culture, and conservation. The GloMBO partnership seeks to: foster capacity building, integrate Indigenous knowledge, and promoting sustainable stewardship for future generations. This partnership provides a new lens into ecosystem intelligence and will transform our efforts to protect Australia’s rich marine biodiversity.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "108.9",
+  "sdo:url": "https://oceandecade.org/actions/globalising-marine-biodiversity-observations/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Commonwealth Scientific and Industrial Research Organisation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/26.jsonld"
+  }
+}

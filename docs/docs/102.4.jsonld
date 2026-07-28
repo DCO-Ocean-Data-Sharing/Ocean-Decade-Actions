@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/102.4.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Reef-shaped coastlines: effects of climate change",
+  "sdo:name": "Reef-shaped coastlines: effects of climate change",
+  "sdo:description": "Tropical coastal regions are commonly influenced by the presence of reef structures that define coastal processes and consequently the shape of their coastline. Wave attenuation by coastal reefs results in depositional regions on the adjacent coast. In scenarios of rising sea levels, changes in wave climate and loss of structural complexity of reefs, these regions will become increasingly vulnerable to the action of waves and coastal flooding. Thus, we aim to understand the hydro- and morphodynamic processes in reef-shaped coastlines of the Brazilian tropical coast. The combined approach of field experiments, satellite images and numerical experiments will allow the understanding of processes at different time scales. Thereby, we seek to understand the current coastal processes, controlled by the presence of reef structures, and based on this knowledge, carry out future projections of the behavior of the coastline and coastal flooding that affect the use of the adjacent coastal region.",
+  "sdo:location": "Brazil",
+  "sdo:identifier": "102.4",
+  "sdo:url": "https://oceandecade.org/actions/reef-shaped-coastlines-effects-of-climate-change/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of São Paulo/Oceanographic Institute"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/116.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Trilha Translagunar",
+  "sdo:name": "Trilha Translagunar",
+  "sdo:description": "The Translagunar Trail is an initiative aligned with the United Nations Decade of Ocean Science for Sustainable Development (2021–2030), which aims to protect the oceans and promote their sustainable use. Located in the Araruama Lagoon region (Rio de Janeiro, Brazil), the trail connects beaches awarded with the Blue Flag certification and highlights the ecological connection between the hypersaline lagoon and the Atlantic Ocean. The project promotes ecotourism, environmental education, and the strengthening of the Blue Economy, benefiting local communities through income generation and cultural appreciation. With interpretive signage, community participation, and conservation actions, the trail serves as a practical tool for raising awareness about the importance of the oceans. In line with the goals of the Decade of Ocean Science, it transforms the natural landscape into a space for learning, well-being, and sustainability, promoting ocean health and local development",
+  "sdo:location": "Brazil",
+  "sdo:identifier": "116.9",
+  "sdo:url": "https://oceandecade.org/actions/trilha-translagunar/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Instituto Escola do Mar"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/9.jsonld"
+  }
+}

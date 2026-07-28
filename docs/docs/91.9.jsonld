@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/91.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Global ocean low and mid trophic levels biomass",
+  "sdo:name": "Global ocean low and mid trophic levels biomass",
+  "sdo:description": "Zooplankton and micronekton (2–20 cm) are key components of pelagic ecosystems, transferring energy from primary producers to top predators. Through diel vertical migration, they also drive carbon transport from the surface to the deep ocean. In the context of climate change and sustainable fisheries management, stakeholders need information on their distribution, essential for studying ecosystem and fisheries dynamics. Such knowledge supports understanding large species migrations, representing elusive prey, and predicting predator foraging success under changing habitats. This project ensures continuity and improvement of the CMEMS MICRORYS product, which provides global biomass of zooplankton and micronekton (1998–2023, 1/12° resolution).",
+  "sdo:location": "France",
+  "sdo:identifier": "91.9",
+  "sdo:url": "https://oceandecade.org/actions/global-ocean-low-and-mid-trophic-levels-biomass/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Collecte Localisation Satellites"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/189.jsonld"
+  }
+}

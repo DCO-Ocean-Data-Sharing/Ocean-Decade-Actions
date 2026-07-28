@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/117.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "TWILIGHTED",
+  "sdo:name": "TWILIGHTED",
+  "sdo:description": "TWILIGHTED is a Horizon Europe Twinning project that seeks to revolutionize deep-sea research, development and innovation (RD&amp;I) in Portugal, ultimately benefiting all of Europe. Collaborating closely with GEOMAR (Germany) and NTNU (Norway), TWILIGHTED aims to transform MARE-Madeira / ARDITI (Madeira, Portugal) into a global hub for deep-sea RD&amp;I. Using innovative, lower-cost and more accessible tools; capitalizing on Madeira&#x27;s proximity to deep waters; and welcoming collaborations from across countries, institutes and sectors, TWILIGHTED will help accelerate our global understanding of the ocean and its essential role in sustaining life on earth.",
+  "sdo:location": "Portugal",
+  "sdo:identifier": "117.9",
+  "sdo:url": "https://oceandecade.org/actions/twilighted/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "MARE-Madeira (ARDITI/UMa)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/129.jsonld"
+  }
+}

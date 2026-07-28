@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/121.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Committee on Earth Observation Satellites - Coastal Observations, Applications, Services, and Tools (CEOS COAST)",
+  "sdo:name": "Committee on Earth Observation Satellites - Coastal Observations, Applications, Services, and Tools (CEOS COAST)",
+  "sdo:description": "COAST is a team within the Committee on Earth Observation Satellites focused on the coastal zone, especially the land-sea (~aquatic) interface.  Working collaboratively with stakeholders to co-design and co-develop high priority products which resonate with major agencies and by leveraging CEOS-wide agency capabilities and capacities, CEOS COAST pilot projects are uniquely capable of using Earth Observation to provide a multidisciplinary approach to addressing the SDGs, disaster risk reduction and coastal resilience in response to climate change.  Diverse societal issues are tackled by COAST under the pilot project themes across geographical regions ranging from continental shorelines to small-island nations.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "121",
+  "sdo:url": "https://oceandecade.org/actions/Committee-on-Earth-Observation-Satellites--Coastal-Observations-Applications-Services-and-Tools-CEOS-COAST-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite Data and Information Service (NESDIS), Center for Satellite Applications and Research (STAR)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

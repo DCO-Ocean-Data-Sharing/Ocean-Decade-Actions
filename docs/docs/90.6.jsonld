@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/90.6.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Environmental Vulnerability Mapping, West Africa",
+  "sdo:name": "Environmental Vulnerability Mapping, West Africa",
+  "sdo:description": "Environmental Vulnerability Mapping of the West African Coastal Zone to Pollutions and Climate Change Project (ENVIMAP) is an initiative aimed at developing a regional coastal pollution and climate change model for sustainable development of the coastal zone in West Africa. Initial activities of the project are focussed on Nigerian coastal zone. It entails survey and ranking of pollutant sensitivity of lagoons, estuaries and wetlands; its coastal erosion vulnerability, its coastal groundwater ocean salinization susceptibility; as well as self-cleansing potentials of their tidal water bodies aftermath pollution. It also involves regional air quality assessment and monitoring of weather parameters. ENVIMAP is a multi-disciplinary and science-based project initially designed to last for four years and provide opportunities for capacity development and collaboration within Nigeria and the wider West Africa region.",
+  "sdo:location": "Nigeria",
+  "sdo:identifier": "90.6",
+  "sdo:url": "https://oceandecade.org/actions/environmental-vulnerability-mapping-west-africa/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Calabar"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

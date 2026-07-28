@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/98.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "National Tsunami Warning System (SNAM)",
+  "sdo:name": "National Tsunami Warning System (SNAM)",
+  "sdo:description": "The Hydrographic and Oceanographic Service of the Chilean Navy (SHOA) is the permanent, official technical agency of Chile that, through the National Tsunami Warning System (SNAM), is responsible for monitoring tsunami-generating events that occur both on the national coastline and in the Pacific basin. The tsunami-generating events that we have experienced in our country, caused by earthquakes, landslides, and volcanic eruptions, have highlighted the need for clear and effective procedures to manage these emergencies, which must be continuously trained by all involved parties.",
+  "sdo:location": "Chile",
+  "sdo:identifier": "98.9",
+  "sdo:url": "https://oceandecade.org/actions/national-tsunami-warning-system-snam/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Hidrographic and Oceanographic Service of Chilean Navy"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN31.jsonld"
+  }
+}

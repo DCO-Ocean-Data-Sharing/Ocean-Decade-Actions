@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/110.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Synergistic Observing Network for Ocean Prediction",
+  "sdo:name": "Synergistic Observing Network for Ocean Prediction",
+  "sdo:description": "SynObs is being proposed as a common comprehensive Decade Project to the three Decade Programmes, ForeSea, CoastPredict, and Observing System Co-Design. SynObs will seek to extract maximum benefit from combining various observation platform measurements, typically satellite and in situ observation data, or combinations of coastal and open ocean platforms for ocean/coastal predictions. SynObs aims to identify the optimal combination of the different ocean observation platforms through observing system design and evaluation, and to develop assimilation methods which can enable drawing synergistic effects from these combinations. Targets of SynObs include open-ocean, such as global, tropical, mid-latitude, arctic and subarctic oceans, as well as coastal-sea, and biogeochemical observing systems.",
+  "sdo:location": "Japan",
+  "sdo:identifier": "110.2",
+  "sdo:url": "https://oceandecade.org/actions/Synergistic-Observing-Network-for-Ocean-Prediction/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "OceanPredict Observing System Evaluation Task Team (Meteorological Research Institute/Japan Meteorological Agency)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/28.jsonld"
+  }
+}

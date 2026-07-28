@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/97.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "An Observing Air-Sea Interactions Strategy (OASIS)",
+  "sdo:name": "An Observing Air-Sea Interactions Strategy (OASIS)",
+  "sdo:description": "Air-sea exchanges of energy, moisture, and gases drive and modulate the Earth&#x27;s weather and climate, influencing life, including our own. These air-sea interactions fuel the hydrological cycle and affect precipitation across the globe. Air-sea interactions affect the distribution of carbon dioxide between the atmosphere and ocean, how seawater flows and winds blow, and how pollutants floating on the ocean surface move - information critical to policymakers, industry, and civil society. The Observing Air-Sea Interactions Strategy (OASIS) PROGRAMME will provide observational-based knowledge to fundamentally improve weather, climate and ocean prediction, promote healthy oceans, the blue economy, and sustainable food and energy.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "97",
+  "sdo:url": "https://oceandecade.org/actions/observing-air-sea-interactions-strategy-oasis/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "SCOR Working Group #162 -- Developing an Observing Air-Sea Interactions Strategy (OASIS)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

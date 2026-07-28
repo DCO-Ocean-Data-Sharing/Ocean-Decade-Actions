@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/110.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Island Governance Toolkit",
+  "sdo:name": "Island Governance Toolkit",
+  "sdo:description": "Islands are critical in global marine ecosystems, yet they face significant management challenges driven by resource scarcity, climate change, and ecological degradation. Under the framework of OSF, this project aims to address these challenges by integrating global best practices in ocean governance into a user-friendly, comprehensive, island-focused management toolkit. It encompasses six key components: Marine ecological early warning and monitoring, Ecological conservation and restoration, Disaster prevention and mitigation, Regulatory technologies, Policy development, and Science communication. The project will produce public outreach materials and organize capacity-building activities that fully incorporate the indigenous and local knowledge of islands through transnational cooperation, joint research and knowledge-sharing. Ultimately, it aims to strengthen resilience and advance the sustainable development of global ocean governance.",
+  "sdo:location": "China",
+  "sdo:identifier": "110.9",
+  "sdo:url": "https://oceandecade.org/actions/island-governance-toolkit/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "South China Sea Ecological Center, Ministry of Natural Resources of China"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/18.2.jsonld"
+  }
+}

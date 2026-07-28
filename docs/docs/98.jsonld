@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/98.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Protecting Our Oceans, Protecting Our Health: Reducing Plastic Pollution",
+  "sdo:name": "Protecting Our Oceans, Protecting Our Health: Reducing Plastic Pollution",
+  "sdo:description": "Minderoo is committed to reducing the harmful impacts of plastics through generating evidence that establishes the causal link between plastics and human health; and supporting innovative pathways to safe and sustainable alternatives. Alongside this, we are advocating for a global plastics treaty framework.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "98",
+  "sdo:url": "https://oceandecade.org/actions/Flourishing-Oceans--Plastics-and-Human-Health/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Minderoo Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

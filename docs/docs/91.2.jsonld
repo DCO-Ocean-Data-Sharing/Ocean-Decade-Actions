@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/91.2.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Forecasting the Argentine Sea",
+  "sdo:name": "Forecasting the Argentine Sea",
+  "sdo:description": "An institutional network of science, technology, and innovation organizations will be built to develop, implement and provide support and continuity to an oceanic forecasting system for sea level and ocean waves for the Southwestern Atlantic (Argentinean) Continental Shelf, that will run operationally at the SMN. A web portal will be developed to provide free access to the information produced to the public. The project will also focus on training of human resources and will work with the multiplicity of potential users to motivate the use of the new tools and induce/co-produce with them an analysis and survey of the needs of Argentina in relation to operational products for the coastal ocean. This project is implemented under the framework of Pampa Azul Initiative, an inter-ministerial initiative of the government of Argentina. Pampa Azul articulates actions promoted by different institutions in scientific research, technological development and innovation areas related to the sea.",
+  "sdo:location": "Argentina",
+  "sdo:identifier": "91.2",
+  "sdo:url": "https://oceandecade.org/actions/Forecasting-the-Argentine-Sea/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Centro de Investigaciones del Mar y la Atmósfera (CIMA/CONICET-UBA) - Center for Oceanic and Atmospheric Research (CIMA/CONICET-UBA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

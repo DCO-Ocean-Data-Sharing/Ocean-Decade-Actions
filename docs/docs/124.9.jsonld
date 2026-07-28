@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/124.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Delivering Climate Services for European Seas",
+  "sdo:name": "Delivering Climate Services for European Seas",
+  "sdo:description": "RIVIERADE improves modelling methods to deliver validated climate services for resilient European seas and coasts over decadal to multi-decadal horizons. It brings together CORDEX and Copernicus Marine Service expertise to implement a pre-operational multi-model framework for producing, downscaling and assessing high-resolution climate predictions and projections. The project will generate harmonized multi-model datasets and demonstrate climate services in the Baltic, Black and Mediterranean Seas at basin, regional and local scales. Stakeholder co-design ensures usability, addressing ocean health, sustainable blue economy and coastal risk. RIVIERADE directly contributes to CoastPredict priorities and the Ocean Decade vision.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "124.9",
+  "sdo:url": "https://oceandecade.org/actions/delivering-climate-services-for-european-seas/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National Institute of Oceanography and Applied Geophysics"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

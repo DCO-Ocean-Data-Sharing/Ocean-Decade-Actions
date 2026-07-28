@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/118.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "SUstainability, Predictability and REsilience of Marine Ecosystems (SUPREME)",
+  "sdo:name": "SUstainability, Predictability and REsilience of Marine Ecosystems (SUPREME)",
+  "sdo:description": "Changing oceans are significantly impacting valuable marine species and the many people, communities, and economies that depend upon them.  Warming oceans, rising seas, decreasing ocean ice, increasing ocean acidification, and extreme events (e.g., marine heat waves) are affecting the distribution and abundance of marine species in many regions. These changes are expected to increase with continued climate change and there is much at risk. The SUPREME programme seeks to globally implement an infrastructure to support robust climate- and ocean-related forecasts, predictions, and projections to guide marine ecosystem management and adaptation strategies that reduce risks and increase resilience of marine/coastal resources and the people who depend on them.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "118",
+  "sdo:url": "https://oceandecade.org/actions/SUstainability-Predictability-and-REsilience-of-Marine-Ecosystems-SUPREME-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National Oceanic and Atmospheric Administration"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
