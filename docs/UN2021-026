@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN2021-026",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Mapping and Improving High-Value Habitat influenced by Derelict Fishing Gear in the Salish Sea",
+  "sdo:name": "Mapping and Improving High-Value Habitat influenced by Derelict Fishing Gear in the Salish Sea",
+  "sdo:description": "This project will map areas of derelict fishing gear and damaged habitats, followed by efforts to remove gear.  Methods incorporate both natural and Indigenous knowledge, as well as community engagement components.",
+  "sdo:location": "Canada",
+  "sdo:identifier": "UN2021-026",
+  "sdo:url": "https://oceandecade.org/actions/Mapping-and-Improving-High-Value-Habitat-influenced-by-Derelict-Fishing-Gear-in-the-Salish-Sea/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Malahat Nation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

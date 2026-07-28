@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/UN2021-003",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean School Global Community Project: Building Ocean Literacy through Community Engagement",
+  "sdo:name": "Ocean School Global Community Project: Building Ocean Literacy through Community Engagement",
+  "sdo:description": "Project seeks to develop content that illustrates how global communities are innovating to solve ocean challenges.  Project seeks to define and prototype a new approach to build capacity in knowledge creation, sharing, and education and to empower communities (in the Canadian Arctic and Peru) via the Ocean School platform using a variety of tools and methods, which will be available in 4 languages.  The project has the potential to expand to other countries/regions in the future once framework is established.",
+  "sdo:location": "Canada",
+  "sdo:identifier": "UN2021-003",
+  "sdo:url": "https://oceandecade.org/actions/Ocean-School-Global-Community-Project-Building-Ocean-Literacy-through-Community-Engagement/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Dalhousie University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
