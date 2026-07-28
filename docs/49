@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/49",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Literacy Educational Program (Ocean health and protection)",
+  "sdo:name": "Ocean Literacy Educational Program (Ocean health and protection)",
+  "sdo:description": "Creation of an educational sistem for ocean literacy in a public-private partnership, involving academia, civil society, religious institutions.   Training for all layers of society.   Dedicated to legislation that makes education for health and protection of the ocean mandatory",
+  "sdo:location": "Cabo Verde",
+  "sdo:identifier": "49",
+  "sdo:url": "https://oceandecade.org/actions/Ocean-Literacy-Educational-Program-Ocean-health-and-protection-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Private and public partnership working group   under the lead of   Ministry of Maritime Economy- Cabo Verde"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN7"
+  }
+}

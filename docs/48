@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/48",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "A framework for effective trans-national consolidation within marine research, education and management in the Northwestern Pacific and Asian Marginal Seas",
+  "sdo:name": "A framework for effective trans-national consolidation within marine research, education and management in the Northwestern Pacific and Asian Marginal Seas",
+  "sdo:description": "FREM-PAMS is the Asian Pacific regional environmental program aiming to improve knowledge and to consolidate national efforts to restore and maintain the resilience of marine environment and enable sustainable exploitation of natural resources. The overall objective of the FREM-PAMS is to support the Blue Growth and achievement of the UN SDGs in the region considering global challenges facing the planet by developing the science-based joint strategy to provide environmental decision-making and to meet the ocean issues on a peacekeeping basis. Main goal of the program is effective trans-national consolidation within marine research, education and management.",
+  "sdo:location": "Russian Federation",
+  "sdo:identifier": "48",
+  "sdo:url": "https://oceandecade.org/actions/A-framework-for-effective-trans-national-consolidation-within-marine-research-education-and-management-in-the-Northwestern-Pacific-and-Asian-Marginal-Seas/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "V. I. Il&#x27;ichev Pacific Oceanological Institute, Far Eastern Branch of Russian Academy of Sciences"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
