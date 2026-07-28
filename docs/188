@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/188",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Esprit de Velox",
+  "sdo:name": "Esprit de Velox",
+  "sdo:description": "Esprit de Velox has been developing a bio-inspired, Zero--Impact vessel, dedicated to Responsible Research and Preservation Operations, open to Collaborative Intelligence and embedded R&amp;D, available to the Research and Innovation communities, pioneering at sea non-invasive and interdisciplinary Research, understanding and preserving the Earth system, from tropical to polar navigation zones.  The environmental neutrality and energy autonomy of the ship are key assets, which allow clean data and complex works. The vessel is expected to achieve a world&#x27;s first, without disturbing the ecological balance and embodying the decarbonation of maritime transport.  The programme is a triple world&#x27;s firsts for a &gt;500 UMS vessel:   . Wind main propulsion  . Carbon-free Renewable Energy Island grid  . Recyclable composites structure",
+  "sdo:location": "France",
+  "sdo:identifier": "188",
+  "sdo:url": "https://oceandecade.org/actions/Esprit-de-Velox/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Association Esprit de Velox"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

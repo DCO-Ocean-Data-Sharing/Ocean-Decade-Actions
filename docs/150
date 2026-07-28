@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/150",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sustainable Ocean Management Education Programme Strengthening the Blue Economy",
+  "sdo:name": "Sustainable Ocean Management Education Programme Strengthening the Blue Economy",
+  "sdo:description": "Seychelles aims to champion the development of the Sustainable Ocean Management (SOM) Education Programme to engage learners to become ocean literate and develop the Blue Economy. The adverse effects of climate change and exploitation within the Indian Ocean and African continent in general are issues that cannot be overlooked and needs engagement of the upcoming generations to elicit the mindset change required to mitigate harmful actions to the oceans.",
+  "sdo:location": "Seychelles",
+  "sdo:identifier": "150",
+  "sdo:url": "https://oceandecade.org/actions/Sustainable-Ocean-Management-Education-Programme-Strengthening-the-Blue-Economy/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Department of Blue Economy  Ministry of Fisheries and Blue Economy  Seychelles"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

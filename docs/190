@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/190",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Universeum Ocean Science Lab",
+  "sdo:name": "Universeum Ocean Science Lab",
+  "sdo:description": "Universeum, with the Ocean Science Lab, is a national science centre and an arena for education in science, technology and sustainable development.The Ocean Science Lab focuses on marine life, addressing ocean literacy to the broader public, where science can be communicated, translated, and put into context, and further disseminated; facilitated by state-of the art technologies. The Lab will function as a service provider, bringing relevant stakeholders together forming a unique platform that aims to connect and educate people. Key areas where projects and activities will evolve around are innovation, data modelling, and ecosystem-based ocean management",
+  "sdo:location": "Sweden",
+  "sdo:identifier": "190",
+  "sdo:url": "https://oceandecade.org/actions/Universeum-Ocean-Science-Lab/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Universeum, the National Science Centre of Sweden"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

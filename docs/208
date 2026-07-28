@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/208",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Tara International Polar Station",
+  "sdo:name": "Tara International Polar Station",
+  "sdo:description": "With the ongoing melting of the Arctic ice pack, there&#x27;s an urgent need for action. The Tara Ocean Foundation - first foundation in France dedicated to the Ocean to be recognized of public utility - will return to the North Pole with a new concept of a floating polar station, in order to pursue long-term scientific research and monitoring in the Central Arctic Ocean.     Alike the International Space Station (ISS), the Tara International Polar Station (TIPS) will become an inhabited station with the aim of conducting drift expeditions starting from 2023 to study and highlight the effects and consequences of climate change on this specific Arctic region and on the global ocean.",
+  "sdo:location": "France",
+  "sdo:identifier": "208",
+  "sdo:url": "https://oceandecade.org/actions/Tara-International-Polar-Station-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Tara Ocean Foundation (FTO)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

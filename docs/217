@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/217",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Establishment of Circulatory Aquaculture, Improvement of Shallow Waters and Evaluation System Aiming for Blue Economy",
+  "sdo:name": "Establishment of Circulatory Aquaculture, Improvement of Shallow Waters and Evaluation System Aiming for Blue Economy",
+  "sdo:description": "As the world population grows, the importance of the aquaculture industry is increasing, but the expansion of the aquaculture industry causes marine pollution due to organic pollution, and there are concerns from the perspective of sustainability. Therefore, we focused on organic pollution reduction technology that converts food residues and cultured excrement into feed by BUIK bacteria (a bacterial flora consisting of 50 species), and Fe2+　Supply system. This project promotes 1) development and worldwide dissemination of BUIK circulation aquaculture system and iron ion purification system, and 2) sustainability evaluation method. 3) On top of that, we will develop and implement an interactive Ocean Literacy Education Program that utilizes ICT, where industry and consumers learn from each other and foster relationship value. 4) Finally, we we will established and widely spread all over the world the evaluation methodology in terms of sustainability production, consumption relationship and in closed shallow waters.",
+  "sdo:location": "Japan",
+  "sdo:identifier": "217",
+  "sdo:url": "https://oceandecade.org/actions/circulatory-aquaculture-and-water-improvement-education-for-blue-economy/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Aquatic Marine Environmental Education Program, Tokyo University of Marine Science and Technology"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

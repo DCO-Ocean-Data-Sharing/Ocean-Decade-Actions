@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/168",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Reef Recovery 2030",
+  "sdo:name": "Reef Recovery 2030",
+  "sdo:description": "A quarter of ocean life and a billion of the world&#x27;s people depend on coral reefs. Yet our reefs are under imminent threat from climate change and local impacts. Current approaches are insufficient to protect the world&#x27;s coral reefs.  The window to act is rapidly closing.     Reef Recovery 2030 is dedicated to saving the Great Barrier Reef and supporting global coral reef conservation.  Led by the Great Barrier Reef Foundation, in partnership with the world&#x27;s leading coral reef scientists, Australian Government, reef managers, businesses, First Nations people and local communities, Reef Recovery 2030 will boost the resilience of these unique reef ecosystems and the people that rely on them.    This is a decade long, one billion-dollar collective effort to turn the tide on coral reef decline globally.",
+  "sdo:location": "Australia",
+  "sdo:identifier": "168",
+  "sdo:url": "https://oceandecade.org/actions/Reef-Recovery-2030/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Great Barrier Reef Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

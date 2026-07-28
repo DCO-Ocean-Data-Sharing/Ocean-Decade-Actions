@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/209",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Mission Ocean Microbiomes",
+  "sdo:name": "Mission Ocean Microbiomes",
+  "sdo:description": "The Mission Ocean Microbiomes is a five year research and outreach program led by the Tara Ocean Foundation (FTO) on the microbiome, its services, and the impacts of climate change and the plastisphere based on the legacy of the Tara Oceans expedition (2009-2013).     It will be carried out through:     -The Mission Microbiomes expedition (2020-2022) in the South Atlantic with the H2020 european project AtlantECO and its 35 scientific partners, and in Chili, with the Mission CO2 Chile project co-led by the FTO and the chilean government. (stage 1)     -The scientific research conducted after the Mission (2022-2025) with the partner laboratories (stage 2)     -Transversal advocacy and capacity building activities (all along the programme)",
+  "sdo:location": "France",
+  "sdo:identifier": "209",
+  "sdo:url": "https://oceandecade.org/actions/Mission-Ocean-Microbiomes-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Tara Ocean Foundation (FTO)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/26"
+  }
+}

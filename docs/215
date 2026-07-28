@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/215",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "African Youths Sustainable Ocean Campaign",
+  "sdo:name": "African Youths Sustainable Ocean Campaign",
+  "sdo:description": "The African Youths Sustainable Ocean Campaign (AYSOC) is a multi-country programme with the core mandate to mentor and raise the consciousness of African youths especially those in the Gulf of Guinea region on ocean literacy and the need for sustainable ocean economy development in relation to the Sustainable development goals through a participatory and inclusive process. This programme will also highlight the impact of climate change on the ocean and livelihood of those living in the coastal regions such as the oil-rich Niger Delta and Cabinda in Angola. It will also establish ocean literacy and marine litter clean up clubs in secondary schools across the region.",
+  "sdo:location": "Nigeria",
+  "sdo:identifier": "215",
+  "sdo:url": "https://oceandecade.org/actions/African-Youths-Sustainable-Ocean-Campaign-/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Atlantic Maritime Academy Nigeria (Institute of Nautical Studies and Ocean Research)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN7"
+  }
+}

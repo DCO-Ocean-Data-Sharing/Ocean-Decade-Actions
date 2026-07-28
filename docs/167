@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/167",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Impact of Black Carbon in South East Asia",
+  "sdo:name": "Impact of Black Carbon in South East Asia",
+  "sdo:description": "Black Carbon (BC), or soot, which is the product of incomplete combustion of fossil fuels, biofuels, biomass and waste, largely contributes to fine particle air pollution (leading environmental cause of poor health and premature death), and is estimated to be the second contributor to climate change after CO2. An underrated impact of BC is related to its introduction in the ocean, which is its main repository. The program aims at improving BC emission inventories in South East Asia (SEA), at determining atmospheric and fluvial fluxes to the ocean, and at understanding how BC impacts marine systems.",
+  "sdo:location": "Vietnam",
+  "sdo:identifier": "167",
+  "sdo:url": "https://oceandecade.org/actions/Impact-of-Black-Carbon-in-South-East-Asia/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "French National Research Institute for Sustainable Development (IRD)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/97"
+  }
+}

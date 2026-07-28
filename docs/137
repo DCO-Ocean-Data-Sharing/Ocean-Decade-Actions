@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/137",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Digital Twins of the Ocean (DITTO)",
+  "sdo:name": "Digital Twins of the Ocean (DITTO)",
+  "sdo:description": "DITTO will establish and advance a digital framework on which all marine data, modelling and simulation along with AI algorithms and specialized tools including best practice will enable shared capacity to access, manipulate, analyse and visualise marine information. It will enable users and partners to create ocean related development scenarios addressing issues such as energy, mining, fisheries, tourism and nature based solutions. Digital-Twins can quantify benefits and environmental change and provide powerful visualizations. DITTO will empower ocean professionals including scientific users to create their own local or topical digital twins of â€˜their ocean issue&#x27; by using standard workflows.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "137",
+  "sdo:url": "https://oceandecade.org/actions/Digital-Twins-of-the-Ocean--DITTO/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "GEOMAR Helmholtz Center for Ocean Research Kiel and Kiel University"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Programme",
+      "sdo:description": "A Programme is typically global or regional in scale and contributes to the achievement of one or more of the Decade Challenges. It is long-term (multi-year), interdisciplinary, and consists of component Decade Projects and potentially enabling Decade Activities.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

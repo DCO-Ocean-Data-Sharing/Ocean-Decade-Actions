@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/239",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Sciences Meeting 2022-2030",
+  "sdo:name": "Ocean Sciences Meeting 2022-2030",
+  "sdo:description": "Ocean Sciences Meetings, with global outreach and online and onsite programming, will serve as a catalyst for convening thousands of the worldâ€™s leading oceanographers and will continue to extend its reach through a growing global group of affiliated communities and partners.    The Ocean Sciences Meeting, which has been held since 1984, proposes an in-kind contribution by providing a venue to promote connections between the Ocean Decade with oceanography community-scientists, NGOs, non-profit organizations, and the private sector.  Additionally, the coalition of partners will bring more attention to the UN Decade outside of this biennial meeting.    The conference scientific program committee for each meeting, which includes representatives from all three societies, would discuss how to prioritize the Decade at each conference between 2022-2030 and consider what partners or what focus would enhance collaboration and knowledge-sharing on sustainable oceans with a focus on the ocean we want for the future. Ocean Sciences Meetings will provide the opportunity to convene sessions on specific applications and priority areas of sustainable development throughout the decade. Participants also include representatives from NGOs, government agencies worldwide, other non-profit agencies, and private-sector organizations in the ocean sciences. Solution projects and outcomes, white papers, scientific journal articles, or other collateral are likely outcomes from each meeting and will expand the reach and timeline of the in-kind contribution. In addition, the coalition of sponsoring societies (AGU, ASLO, TOS) brings the ability to have a continuum of UN Decade work and focus beyond OSM through ASLOâ€™s annual Aquatic Science Meeting, TOSâ€™s meetings and communications channels, and AGUâ€™s 25,000-person annual meeting and other conferences. In addition, there are other potential synergies in areas of each association.    The UN Decade would become a supporter of Ocean Sciences Meetings throughout the decade and given the opportunity to host town halls, workshops, and provide speakers or information about the UN Decade. The UN Decade logo could be used in all major OSM marketing.    Additional goals of these events are to highlight the oceanâ€™s importance to society and to support the Decade of Ocean science vision to â€œdevelop scientific knowledge, build infrastructure and foster relationships for a sustainable and healthy ocean.â€    The OSM team is asking for an endorsement for the 2022, 2024, 2026, 2028, and 2030 meetings.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "239",
+  "sdo:url": "https://oceandecade.org/actions/agu-ocean-sciences-meeting-2022-2030/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "American Geophysical Union"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
