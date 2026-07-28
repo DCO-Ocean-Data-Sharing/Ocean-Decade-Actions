@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/597",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Yachts for Science (YSF)",
+  "sdo:name": "Yachts for Science (YSF)",
+  "sdo:description": "Yachts for Science (YFS) is a global, not-for-profit matchmaking platform dedicated to solving a critical bottleneck in marine conservation: the lack of access to vessels for scientists. Traditional vessel time is scarce and expensive (applications in the UK have a success rate of just 4% and far fewer in the majority of other ocean nations). Yacht for Science is the global, not-for-profit platform that bridges this gap by efficiently matching reputable marine scientists and research projects with ocean-conscious private vessel owners. We transform underutilized private assets (yachts) into agile, cost-effective platforms for scientific discovery and conservation.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "597",
+  "sdo:url": "https://oceandecade.org/actions/yachts-for-science-ysf/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Nekton Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

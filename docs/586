@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/586",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The VLE Blueprint Accelerator",
+  "sdo:name": "The VLE Blueprint Accelerator",
+  "sdo:description": "The VLE Blueprint Accelerator is a strategic in-kind contribution to the Ocean Decade. We address a critical bottleneck: Many brilliant innovators lack the strategic capacity to turn their vision into fundable, high-impact Decade Actions. Through our prestigious annual &#x27;VLE Founder&#x27;s Award&#x27;, we identify one visionary &#x27;hidden champion&#x27; and forge them through our proven &#x27;VLE Impact Blueprint&#x27; process – a 4-week strategic sprint that builds an irresistible, investment-ready project architecture. We are not a project. We are a pipeline, delivering one perfectly crafted, ready-to-launch Decade Action, year after year.",
+  "sdo:location": "Portugal",
+  "sdo:identifier": "586",
+  "sdo:url": "https://oceandecade.org/actions/the-vle-blueprint-accelerator/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Vita Loom Labs"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

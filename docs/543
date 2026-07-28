@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/543",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Developing Expertise Via Education and Learning (DEVELOP)",
+  "sdo:name": "Developing Expertise Via Education and Learning (DEVELOP)",
+  "sdo:description": "The Developing Expertise Via Education and Learning for Oceanic Professionals (DEVELOP) Contribution is a premier international initiative designed to enhance the skills and knowledge of professionals in the marine fields by holding international training courses. This Decade Action aims to foster a deep understanding of oceanography, marine biology, and environmental sustainability, equipping participants with the expertise needed to address contemporary maritime challenges. The training courses are led by renowned scientists and industry experts, providing participants with cutting-edge insights and hands-on experience. Participants will join a diverse, international community of oceanic professionals, fostering collaboration and networking opportunities across the globe.",
+  "sdo:location": "China",
+  "sdo:identifier": "543",
+  "sdo:url": "https://oceandecade.org/actions/developing-expertise-via-education-and-learning-develop/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Second Institute Of Oceanography, MNR"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

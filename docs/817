@@ -1,0 +1,40 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/817",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Decade Collaborative Centre for the Pacific Islands Region of the Pacific Ocean (DCC-PIR-PO)",
+  "sdo:name": "Decade Collaborative Centre for the Pacific Islands Region of the Pacific Ocean (DCC-PIR-PO)",
+  "sdo:description": "The Pacific Community supports sustainable development by applying a people-centred approach to science, research and technology across all of the Sustainable Development Goals (SDGs). We serve our members by interweaving and harnessing the nexus of climate, ocean, land, culture, rights and good governance; through trusted partnerships; investing in Pacific people; and understanding Pacific contexts.Our unique organisation covers more than 20 sectors. We are renowned for knowledge and innovation in such areas as fisheries science, public health surveillance, geoscience and conservation of plant genetic resources for food security.",
+  "sdo:location": "New Caledonia",
+  "sdo:identifier": "817",
+  "sdo:url": "https://oceandecade.org/actions/decade-collaborative-centre-for-the-pacific-islands-region-of-the-pacific-ocean-dcc-pir-po/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Pacific
+Community
+(SPC)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/800",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Joint Programming Initiative Healthy and Productive Seas and Oceans (JPI Oceans)",
+  "sdo:name": "Joint Programming Initiative Healthy and Productive Seas and Oceans (JPI Oceans)",
+  "sdo:description": "In its role as Decade Implementing Partner, JPI Oceans will facilitate and coordinate national, regional and programmatic contributions to Ocean Decade Actions. This will include mobilisation of JPI Oceans’s network of members towards scoping for new activities and partnerships, resource mobilisation, and communication and outreach. JPI Oceans plans to focus its contribution to the Decade and make a difference particularly through its Joint Actions and strategic engagements. A first Decade implementing activity was launched through a co-branded Call for projects on Underwater Noise in the Marine Environment. Supported by Belgium, Germany, Italy, Ireland, Norway, Poland, Romania, Spain, and together with BANOS, BlueMed and NOAA, the call is endorsed as JPI Oceans’ first focused contribution to the implementation of the UN Ocean Decade. It offers a concrete opportunity to systematically approach ocean challenges, support policy and governance, and carry out experimental research activities on the emerging issue of the acoustic pollution of ocean and seas. As a result of the call, five projects were selected for funding and endorsed as UN Ocean Decade projects.In early 2022, the Knowledge Hub on Sea Level Rise was also endorsed as a UN Ocean Decade project, and will support the UN Ocean Decade Programme CoastPredict.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "800",
+  "sdo:url": "https://oceandecade.org/actions/joint-programming-initiative-healthy-and-productive-seas-and-oceans/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Joint Programming Initiative Healthy and Productive Seas and Oceans (JPI Oceans)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

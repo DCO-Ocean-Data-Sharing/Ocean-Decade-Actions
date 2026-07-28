@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/516",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Royal Society Ocean Science Policy Programme",
+  "sdo:name": "Royal Society Ocean Science Policy Programme",
+  "sdo:description": "The Royal Society’s Science in Public Life programme is launching a new workstream in November 2022: the Ocean Science Policy programme. The programme aims to facilitate the transfer of knowledge between academia and policy. The programme will provide a platform for early career researchers (ECRs) and early career ocean professionals (ECOPs) in marine science to understand the broader utility of their work, notably in policy making, and enhance their networks both with other academics and with policy makers. Through the programme we will offer ECRs insight into how their work can influence science policy, and create opportunities for the identification, generation, and use of critical knowledge to meet the goals of the Ocean Decade. The programme also aims to provide policy makers with access to expertise to inform ocean policy in the context of the Ocean Decade.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "516",
+  "sdo:url": "https://oceandecade.org/actions/Royal-Society-Ocean-Science-Policy-Programme/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The Royal Society"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

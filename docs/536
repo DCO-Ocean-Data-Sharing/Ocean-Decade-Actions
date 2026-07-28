@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/536",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Ocean Community Empowerment and Nature Grants",
+  "sdo:name": "Ocean Community Empowerment and Nature Grants",
+  "sdo:description": "The Ocean Community Empowerment and Nature (OCEAN) Grant Programme supports projects that aim to deliver lasting change to the marine environment and for coastal communities. By supporting organisations working towards ocean-based solutions to climate change, OCEAN aims to build resilience for coastal people and the communities most acutely affected.  OCEAN is part of the Blue Planet Fund – the UK&#x27;s £500 million initiative supporting developing countries in protecting the ocean and reducing poverty. OCEAN is funded by the UK’s Department for Environment, Food and Rural Affairs (Defra) and the Grant Administrator is NIRAS. OCEAN has two funding pathways:  • Community Grants of up to £250,000 for small, in-country organisations addressing marine and poverty challenges, by delivering local solutions to local problems.   • Partnership Grants of £250,000 to £3 million will be available for medium to large organisations partnering with local organisations to deliver scalable solutions.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "536",
+  "sdo:url": "https://oceandecade.org/actions/ocean-community-empowerment-and-nature-grants/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Department for Environment, Food, and Rural Affairs"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

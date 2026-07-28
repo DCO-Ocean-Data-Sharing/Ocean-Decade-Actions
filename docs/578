@@ -1,0 +1,39 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/578",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "International Platform for Ocean Sustainability (IPOS)",
+  "sdo:name": "International Platform for Ocean Sustainability (IPOS)",
+  "sdo:description": "The International Platform for Ocean Sustainability (IPOS) is a global initiative created by the Ocean Sustainability Foundation (OSF) to connect ocean knowledge with decision-making and accelerate action toward ocean sustainability. Acting as a bridge between science, policy and society, IPOS provides contextualized, accessible and inclusive knowledge to support governments and stakeholders in implementing their international ocean commitments. Its decentralized structure combines a global Secretariat, scientific committees and regional nodes that engage experts, local communities, the private sector and international organizations, promoting cross-sectoral cooperation and the equitable use of knowledge to deliver practical solutions for ocean conservation, a sustainable blue economy and climate resilience.",
+  "sdo:location": "France",
+  "sdo:identifier": "578",
+  "sdo:url": "https://oceandecade.org/actions/international-platform-for-ocean-sustainability-ipos/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Ocean
+Sustainability Foundation (OSF)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/811",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Decade Collaborative Centre for Coastal Resilience",
+  "sdo:name": "Decade Collaborative Centre for Coastal Resilience",
+  "sdo:description": "Coastal regions encompass the land bordering the ocean, intertidal areas, and much of the continental shelf. They are dynamic, densely populated and highly productive in both human economic  and  natural  systems’  terms,  yet  are  vulnerable  to  many  factors  including geohazards,  pollution,  climate  change  and  sea  level  rise.  Resilience  can  have  many  definitions,  but  broadly  refers to  capacity  of the systems  in question to  recover  following a disturbance, such as a tsunami. The international community of ocean resilience practitioners has worked for some years to raise awareness of, share lessons learned, and address the science challenges of the coastal resilience community. As  part  of  the  Ocean  Decade,  the  Decade CollaborativeCentrefor  Coastal  Resilience (hereafter DCC CR) will contribute primarily to Challenge 6: Increase community resilience to ocean hazards. The DCC will work in close collaboration with other Decade coordination structures focusing on related aspects of coastal resilience, including but not limited to the DCCs for ocean-climate nexus (led by the First Institute of Oceanography, Ministry of Natural Resources,  China),  ocean  prediction  (led  by  Mercator  Ocean  International)  and  ocean-climate solutions (led by Ocean Visions, Georgia Tech and the Georgia Aquarium)",
+  "sdo:location": "Italy",
+  "sdo:identifier": "811",
+  "sdo:url": "https://oceandecade.org/actions/Decade-Collaborative-Centre-for-Coastal-Resilience/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "University of Bologna"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/832",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sustainable Blue Economy Partnership",
+  "sdo:name": "Sustainable Blue Economy Partnership",
+  "sdo:description": "SBEP (Sustainable Blue Economy Partnership) is applying to become a Decade Implementing Partner (DIP) of the UN Ocean Decade to strengthen the science-policy-business interface and amplify collective action towards a sustainable ocean. As a major European and international R&amp;I partnership bringing together 81 partners from 32 countries, SBEP already contributes extensively to the Ocean Decade through co-branded transnational calls, endorsed Decade Actions, thematic programmes, and active collaboration with Decade Coordination Structures and programmes such as Sustainable Ocean Planning. SBEP’s activities contribute across nearly all Ocean Decade Challenges, including sustainable blue economy development, ocean observation, digital twins, ocean literacy, coastal resilience, marine spatial planning, and source-to-sea research. Through its funding portfolio, community of practice, and policy engagement, SBEP supports transformative, science-based solutions aligned with SDG 14 and the Vision 2030 process. As a DIP, SBEP proposes to further scale the Ocean Decade’s impact by expanding co-branded calls, supporting endorsement of additional projects, building thematic and regional portfolios, strengthening outreach and capacity development, and fostering stronger engagement between projects, National Decade Committees, and global stakeholders. SBEP also aims to enhance cooperation with LDCs and SIDS, promote knowledge sharing, and contribute to major Decade events and communications.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "832",
+  "sdo:url": "https://oceandecade.org/actions/sustainable-blue-economy-partnership/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Sustainable Blue Economy Partnership (SBEP)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

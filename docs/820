@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/820",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "European Global Ocean Observing System (EuroGOOS)",
+  "sdo:name": "European Global Ocean Observing System (EuroGOOS)",
+  "sdo:description": "EuroGOOS is the European component of the Global Ocean Observing System of the IOC/UNESCO. EuroGOOS identifies priorities, enhances cooperation and promotes the benefits of operational oceanography to ensure sustained observations are made in Europe’s seas underpinning a suite of fit-for-purpose products and services for marine and maritime end-users.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "820",
+  "sdo:url": "https://oceandecade.org/actions/european-global-ocean-observing-system-eurogoos/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "European Global Ocean Observing System (EuroGOOS)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

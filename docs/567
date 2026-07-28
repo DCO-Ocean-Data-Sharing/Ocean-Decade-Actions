@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/567",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Miniaturwunderland-Ralley",
+  "sdo:name": "Miniaturwunderland-Ralley",
+  "sdo:description": "The German Ocean Foundation and Miniatur Wunderland have partnered to create an engaging exhibit highlighting the UN Ocean Decade’s goals. The newly opened Monaco section, inaugurated by Prince Albert II, features a detailed model of the research vessel ALDEBARAN in front of the Oceanographic Museum of Monaco, symbolizing a commitment to ocean conservation.  An interactive rally leads visitors through miniature scenes illustrating ocean sustainability themes. Participants solve puzzles, answer trivia, and complete tasks to explore marine science. A special challenge invites visitors to take a selfie with Frank Schweikert, Director of the German Ocean Foundation, for a prize.  This project merges science and entertainment, making ocean knowledge accessible and inspiring visitors of all ages to engage with marine research and sustainability.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "567",
+  "sdo:url": "https://oceandecade.org/actions/miniaturwunderland-ralley/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "German Ocean Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/831",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "German Ocean Foundation",
+  "sdo:name": "German Ocean Foundation",
+  "sdo:description": "The German Ocean Foundation is deeply aligned with the vision and goals of the UN Ocean Decade, shaping its mission, programs, and partnerships entirely around strengthening ocean literacy and societal engagement. As a communication‑driven NGO, it translates ocean science into accessible, action‑oriented formats for policymakers, educators, civil society, and the public. Flagship initiatives such as Love Your Ocean at boot Düsseldorf, the Parliamentary Ocean Evenings, and the Sea Experience Days, supported by the research and broadcast vessel ALDEBARAN, create direct, hands‑on encounters with marine science. A special focus lies on empowering younger generations through formats like the Research at Sea Competition, school outreach programs, youth research activities, and family‑oriented field learning.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "831",
+  "sdo:url": "https://oceandecade.org/actions/german-ocean-foundation/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "German Ocean Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

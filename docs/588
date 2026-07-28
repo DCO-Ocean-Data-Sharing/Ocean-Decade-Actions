@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/588",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "JPI Oceans Joint Call Blue Carbon",
+  "sdo:name": "JPI Oceans Joint Call Blue Carbon",
+  "sdo:description": "With contributions from Ireland, Canada, Germany, Malta, Norway, Poland and Greece (in-kind), JPI Oceans is launching a Joint Call on Blue Carbon Ecosystems, designed to advance research in this field. It will open for applications on 4 November 2025 with a foreseen deadline on 28 February 2026. This call will focus on expanding scientific knowledge, improving methodologies and measurement protocols, and identifying effective interventions to enhance the climate mitigation and adaptation potential of blue carbon ecosystems.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "588",
+  "sdo:url": "https://oceandecade.org/actions/jpi-oceans-joint-call-blue-carbon/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "JPI Oceans"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "https://purl.org/oceandecade/decadeactions/814",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Flanders Marine Institute (VLIZ)",
+  "sdo:name": "Flanders Marine Institute (VLIZ)",
+  "sdo:description": "VLIZ promotes the strengthening of marine knowledge and excellence in marine research in Flanders. The marine research areas are the ocean and seas, the coast and the tidal systems. The target groups are the marine research and innovation community as well as educational institutions, the general public, policymakers and the industry (within the scope of the blue economy). VLIZ is the coordination and information platform for marine and coastal research in Flanders. It promotes and supports the international visibility of Flanders marine research and innovation and international marine education as a partner in various projects and networks.",
+  "sdo:location": "Belgium",
+  "sdo:identifier": "814",
+  "sdo:url": "https://oceandecade.org/actions/flanders-marine-institute-vliz/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Flanders Marine Institute (VLIZ)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Contribution",
+      "sdo:description": "A Contribution is a one-off standalone initiative (such as an awareness-raising event, a scientific workshop, a training opportunity or a publication). It enables a Decade Programme or Project, or directly contributes to a Decade Challenge.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}
