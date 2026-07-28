@@ -14,7 +14,7 @@ OUTPUT_DIR = "docs"
 COMBINED_FILE = "ocean_decade_actions.jsonld"
 
 # pURL base for each record
-PURL_BASE = "http://purl.org/oceandecade/decadeactions/"
+PURL_BASE = "https://purl.org/oceandecade/decadeactions/"
 
 # License (Creative Commons Attribution 4.0)
 LICENSE_URL = "https://creativecommons.org/licenses/by/4.0/"
@@ -191,8 +191,8 @@ print(f"\nFinished. {len(all_records)} records saved to '{OUTPUT_DIR}' folder.")
 
 combined_data = {
     "@context": [
-        {"foaf": "http://xmlns.com/foaf/0.1/"},
-        {"sdo": "https://schema.org/"}
+        {"foaf": "://xmlns.com/foaf/0.1/"},
+        {"sdo": "s://schema.org/"}
     ],
     "sdo:dateModified": datetime.now(timezone.utc).date().isoformat(),
     "sdo:license": LICENSE_URL,
