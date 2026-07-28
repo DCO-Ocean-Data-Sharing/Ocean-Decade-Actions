@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/39.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Mediterranean Sea People’s Observatory Data",
+  "sdo:name": "Mediterranean Sea People’s Observatory Data",
+  "sdo:description": "MedSeaPOD, launched in 2023, is a citizen science project based on San Pietro Island, Sardinia, expanding to Sant’Antioco island, western Sardinia and Corsica. It addresses data gaps in coastal marine ecosystems by monitoring sea temperature using sensors operated by divers, fishermen, and local firms, verified by high-resolution probes from Italy’s National Research Council (CNR). Supported by SMEs, CNR, the Parc naturel marin du Cap Corse et de l&#x27;Agriate, the Carloforte Municipality, and EMODnet, the project studies the impact of rising water temperatures on coastal marine ecosystems. It fosters community engagement and knowledge sharing, contributing to the Mediterranean&#x27;s first coastal thermal map and a sustainable ocean observing system. A digital, interactive platform provides open data, gamified tools, and resources to engage both experts and the public on climate change impacts in the Mediterranean.",
+  "sdo:location": "Italy",
+  "sdo:identifier": "39.8",
+  "sdo:url": "https://oceandecade.org/actions/mediterranean-sea-peoples-observatory-data/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Netsoul srl"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/46.jsonld"
+  }
+}

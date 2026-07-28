@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/39.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Ripple Effect: Capacity Sharing for the Ocean",
+  "sdo:name": "The Ripple Effect: Capacity Sharing for the Ocean",
+  "sdo:description": "This proposed Decade Project brings together a diverse multinational partnership to address the critical need for capacity development in ocean science, literacy and conservation in low and middle income countries. We seek to strengthen systems (funding, mentorship, recognition, learning, communication and evaluation) that address the challenges of the Ocean Decade and support the capacity to deliver ocean science and leadership, which is central to healthy oceans and sustainable development. This will proactively advance the integration of capacity development in the design and implementation of priorities for the Ocean Decade.",
+  "sdo:location": "United States of America (USA)",
+  "sdo:identifier": "39",
+  "sdo:url": "https://oceandecade.org/actions/a-multi-dimensional-and-inclusive-approach-for-transformative-capacity-development-cap-dev-4-the-ocean/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "The New England Aquarium (through its global Marine Conservation Action Fund (MCAF) Program)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/16.jsonld"
+  }
+}

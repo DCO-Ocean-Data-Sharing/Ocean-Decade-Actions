@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/42.3.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Monitorament o Mirim Costeiro",
+  "sdo:name": "Monitorament o Mirim Costeiro",
+  "sdo:description": "Monitoramento Mirim Costeiro is a pioneer citizen science education program that aims to promote awareness for the preservation of the oceans, engaging and motivating children from elementary schools to learn about the marine ecosystem by researching and monitoring their coastal zone. Our goal is to contribute to the formation of responsible, proactive, and more aware citizens, engaging children in a Junior Ocean Guardian Network to share knowledge and experience, and to inspire their communities to protect the Ocean. To achieve this goal, since 2019 we have been training educators to replicate our program in different regions of Brazilian and Portuguese coast. Until 2030 we aim to expand our program to 30 more schools on the Brazilian and Portuguese coast and create a digital platform for the Junior Ocean Guardian Network.",
+  "sdo:location": "Brazil",
+  "sdo:identifier": "42.3",
+  "sdo:url": "https://oceandecade.org/actions/monitorament-o-mirim-costeiro/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Instituto Monitoramento Mirim Costeiro"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN7.jsonld"
+  }
+}

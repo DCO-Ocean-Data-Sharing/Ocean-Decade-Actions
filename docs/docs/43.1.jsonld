@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/43.1.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Advancing in situ imaging to study Carbon Storage",
+  "sdo:name": "Advancing in situ imaging to study Carbon Storage",
+  "sdo:description": "Photosynthesis in the ocean converts ~100 Gt CO2 into organic matter yearly, of which 5-15% sinks to the deep ocean. The depth to which this matter sinks influences ocean carbon storage, as changes in this flux attenuation depth drive atmospheric pCO2 variations of up to 200 ppm. Attempts to maps flux attenuation globally have yielded contrasting patterns, blocking our understanding of ocean carbon storage and our ability to predict it. ANTICS uses an innovative synthesis of cutting-edge in situ imaging, machine learning and novel data analyses to mechanistically understand flux attenuation. Using state-of-the-art imaging technologies, we measure size, distribution and composition of particles across the Atlantic. We develop particle size spectra analyses to quantify the processes causing flux attenuation and statistically link these to environmental data to determine dominant controls under varying conditions.",
+  "sdo:location": "United Kingdom of Great Britain and Northern Ireland (UK)",
+  "sdo:identifier": "43.1",
+  "sdo:url": "https://oceandecade.org/actions/advancing-in-situ-imaging-to-study-carbon-storage/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "National Oceanography Centre"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/189.jsonld"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/44.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "The Grass Underwater Project",
+  "sdo:name": "The Grass Underwater Project",
+  "sdo:description": "The Grass underwater project implements the UN Ocean Decade challenge 2, by adopting seagrass meadows and Mangrove areas in Tanzania for monitoring, restoration and conservation, providing ocean literacy to the local coastal communities and global on roles and conservation actions to be taken to conserve these ecosystems. Furthermore the project will empower the local coastal community via sustainable blue economy and will promote sustainable utilization of the ocean natural resources.",
+  "sdo:location": "United Republic of Tanzania",
+  "sdo:identifier": "44.5",
+  "sdo:url": "https://oceandecade.org/actions/the-grass-underwater-project/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Sustainable Ocean Alliance Tanzania (SOA Tanzania)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/17.jsonld"
+  }
+}

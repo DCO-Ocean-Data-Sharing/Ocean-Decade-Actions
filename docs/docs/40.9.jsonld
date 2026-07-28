@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/40.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Sama Bajao IP Ocean Heritage in the Visayas",
+  "sdo:name": "Sama Bajao IP Ocean Heritage in the Visayas",
+  "sdo:description": "“Preserving and Upscaling Sama Bajao Indigenous Ocean Heritage in the Visayas,” safeguards the ancestral maritime knowledge of the Sama Bajao while advancing sustainable development. As original ocean stewards, their practices in navigation, eco-friendly fishing, and ocean living face threats from displacement, poverty, and exclusion. The project will document and digitally preserve traditional ocean practices, while upscaling livelihoods through sustainable fisheries, aquaculture, and heritage-based eco-tourism. It will foster co-created innovations and water-based technologies, merging indigenous wisdom with modern tools. By enabling active Sama Bajao participation in local governance and community-led conservation, the initiative strengthens resilience, dignity, and intergenerational learning. Ultimately, it restores their rightful role as cultural bearers and key partners in building an inclusive blue economy in the Visayas.",
+  "sdo:location": "Philippines",
+  "sdo:identifier": "40.9",
+  "sdo:url": "https://oceandecade.org/actions/sama-bajao-ip-ocean-heritage-in-the-visayas/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "AFOS Foundation for Entrepreneurial Development Cooperation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/69.jsonld"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/38.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Training-through-Research (Floating University)",
+  "sdo:name": "Training-through-Research (Floating University)",
+  "sdo:description": "Training-through-Research (Floating University) is an international multi-disciplinary programme aimed at combining formal academic education with deep involvement of students and early career scientists into real-life scientific investigations in the Ocean, including research cruises and post-expedition processing of the collected field data within international academic communities. Future generations of marine scientists are learning under the supervision of world-class experts and build knowledge in  interdisciplinary studies of complex systems, discovering relationships of hydrosphere, atmosphere, geosphere, and biosphere.",
+  "sdo:location": "Russian Federation",
+  "sdo:identifier": "38",
+  "sdo:url": "Training-through-Research (TTR) – Floating University – Ocean Decade",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Capacity Building Working Group for UN Decade of Ocean Sciences, National Oceanographic Commission of Russian Federation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/15.jsonld"
+  }
+}

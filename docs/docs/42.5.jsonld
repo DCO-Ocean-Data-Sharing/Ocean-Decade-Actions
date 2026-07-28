@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/42.5.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Global Coastal Ocean Restoration and Resilience",
+  "sdo:name": "Global Coastal Ocean Restoration and Resilience",
+  "sdo:description": "Restore our Coasts will address coastal restoration and resilience holistically by delivering new solutions for ecosystem restoration and management through a multidisciplinary approach that integrates in-situ observations, use of numerical models for forecasting, economic analyses and projected social impact. The approach will inform the application of site-specific nature-based solutions such as coral reef reintroduction, seagrass and mangroves restoration. Passive restoration measures removing sources of disturbance, such as establishment of marine protected areas, will also be considered. Co-design and continuous stakeholder and user collaboration at Pilot Sites in more than 14 nations, will be an important element to ensure that solutions are co-designed to support community and coastal resilience. Private, government and community representatives will be engaged. Special emphasis will be on developing sustainable and replicable practices that live beyond the project’s lifespan.",
+  "sdo:location": "South Africa",
+  "sdo:identifier": "42.5",
+  "sdo:url": "https://oceandecade.org/actions/global-coastal-ocean-restoration-resilience/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Institute for Corporate Citizenship (ICC), UNISA"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}

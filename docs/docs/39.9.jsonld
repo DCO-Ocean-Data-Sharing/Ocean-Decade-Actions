@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/39.9.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Fostering Inclusive and Sustainable Habitats",
+  "sdo:name": "Fostering Inclusive and Sustainable Habitats",
+  "sdo:description": "FISH Visayas initiative fosters sustainable and inclusive ocean governance in the Visayas by blending science, innovation, and local knowledge to enhance community resilience. The Project develops open-access data platforms, combines scientific and indigenous knowledge, and institutionalizes community-based monitoring. It strengthens governance thru multi-stakeholder councils like the Blue Economic Council, linking fisherfolk, LGUs, national agencies, and business partners. It pilots innovations such as early warning systems, digital monitoring, and smart aquaculture. It also enhances community resilience by rehabilitating mangroves, seagrass, and corals, integrating climate risk into local planning, and promoting sustainable livelihoods. The initiative builds capacity by empowering youth, women, and fisherfolk through training and South-South exchanges. It serves as a replicable model for small island resilience globally, contributing to UN Ocean Decade goals and multiple SDGs.",
+  "sdo:location": "Philippines",
+  "sdo:identifier": "39.9",
+  "sdo:url": "https://oceandecade.org/actions/fostering-inclusive-and-sustainable-habitats/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "AFOS Foundation for Entrepreneurial Development Cooperation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN5.jsonld"
+  }
+}

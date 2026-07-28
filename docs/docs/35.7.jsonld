@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/35.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Nature-inclusive designs for offshore renewables",
+  "sdo:name": "Nature-inclusive designs for offshore renewables",
+  "sdo:description": "The expansion of offshore renewable energy is crucial for achieving carbon neutrality, but it often conflicts with marine biodiversity preservation. Traditional infrastructure can harm marine habitats, disrupt ecosystems and pose threats to wildlife. Balancing energy needs with environmental protection is a challenge for policymakers and industry leaders. There is a need for innovative solutions that support both sustainable energy and biodiversity goals. The EU-funded NiD4OCEAN project addresses this by advancing nature-inclusive designs for offshore renewables. Targeting the North Sea, Baltic Sea and Western Mediterranean and following a transdisciplinary approach, the project will develop effective, context-dependent solutions to industry, managers, and policy makers, towards achieving the global and EU targets for carbon neutrality, biodiversity restoration and sustainable blue economy.",
+  "sdo:location": "Norway",
+  "sdo:identifier": "35.7",
+  "sdo:url": "https://oceandecade.org/actions/nature-inclusive-designs-for-offshore-renewables/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Norwegian Institute for Water Research (NIVA)"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/172.jsonld"
+  }
+}

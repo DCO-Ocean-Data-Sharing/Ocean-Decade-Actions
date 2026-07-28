@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/35.6.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Typhoon forecast and response in Northwest Pacific (TFRiN)",
+  "sdo:name": "Typhoon forecast and response in Northwest Pacific (TFRiN)",
+  "sdo:description": "Typhoons are tropical cyclones occur in the western Pacific Ocean which caused a lot of casualties and economic losses. The Northwest Pacific Ocean suffers from the highest frequency of typhoons. Although satellite remote sensing and numerical model has improved typhoon track forecast, typhoon intensity forecast remain a big challenge due to lack of understanding of upper ocean thermal/dynamic structure and medium-small scale sea-air interaction processes. TFRiN is designed to predict typhoon more accurately and thus to be better prepared for typhoon disasters. During its implementation, TFRiN will (1) build an international platform and establish a cooperation mechanism for typhoon disaster response among the Northwest Pacific rim countries; (2) Establish a typhoon data sharing platform; (3) Develop a new wind-wave-current coupling numerical typhoon forecast system; (4) Study the policy and management of regional maritime cooperation in response to typhoon disasters. Partner institutions include Ocean Policy Research Institute of the Sasakawa Peace Foundation (Japan), Shanghai Typhoon Institute, China Meteorological Administration (China), China Institute for Marine Affairs, Ministry of Natural Resources (China).",
+  "sdo:location": "China",
+  "sdo:identifier": "35.6",
+  "sdo:url": "https://oceandecade.org/actions/typhoon-forecast-and-response-in-northwest-pacific-tfrin/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "First Institute of Oceanography, Ministry of Natural Resources"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/18.2.jsonld"
+  }
+}

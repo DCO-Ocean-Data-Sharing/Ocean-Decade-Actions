@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/43.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Shaping an Ocean Of Possibilities (SOOP)",
+  "sdo:name": "Shaping an Ocean Of Possibilities (SOOP)",
+  "sdo:description": "SOOP (Shaping an Ocean of Possibilities) is an innovation platform that unites science, industry, and civil society to drive sustainable ocean observation and support the Blue Economy. By co-developing interoperable technologies, scalable measurement systems, and open standards, SOOP lowers barriers to collecting high-quality ocean data on non-scientific infrastructures. The platform fosters open innovation by enabling the creation of reliable, affordable, and user-friendly sensors tailored to diverse user needs. SOOP accelerates technological advancements, opens new markets, and significantly increases the availability and usability of ocean data. Through strategic partnerships and shared expertise, SOOP empowers global stakeholders to contribute to ocean stewardship, enhance environmental monitoring, and support sustainable marine resource management. By bridging innovation and real-world application, SOOP lays the foundation for a data-driven, resilient, and thriving Blue Economy.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "43.8",
+  "sdo:url": "https://oceandecade.org/actions/shaping-an-ocean-of-possibilities-soop/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "GEOMAR Helmholtz Centre for Ocean Research Kiel"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ]
+}

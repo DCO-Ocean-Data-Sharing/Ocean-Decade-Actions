@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/43.7.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Educating a Blue Generation",
+  "sdo:name": "Educating a Blue Generation",
+  "sdo:description": "Educating a Blue Generation is a program developed by Oceano Azul Foundation and Oceanário de Lisboa, in partnership with the Portuguese Directorate-General for Education (Ministry of Education), that promotes ocean literacy in children aged 6-10 through the integration of ocean topics into the curriculum. Through training and educational resources, teachers are guided to teach ocean themes integrated into the different curricular areas and within the scope of curricular flexibility, through a holistic and interdisciplinary approach. Students also get books and are mobilized to take action for the ocean in and with the community.  A 4-year impact assessment reveals that students increase their knowledge and their emotional connection to the ocean and develop key competencies for action. This led to the commitment of the Ministry of Education Science and Innovation to scale up the programme to all Portuguese primary schools and to include the ocean into the curriculum.",
+  "sdo:location": "Portugal",
+  "sdo:identifier": "43.7",
+  "sdo:url": "https://oceandecade.org/actions/educating-a-blue-generation/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "Oceano Azul Foundation"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/UN7.jsonld"
+  }
+}

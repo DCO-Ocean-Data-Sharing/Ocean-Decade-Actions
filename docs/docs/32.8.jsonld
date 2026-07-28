@@ -1,0 +1,41 @@
+{
+  "@context": [
+    {
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "sdo": "https://schema.org/"
+    }
+  ],
+  "@id": "http://purl.org/oceandecade/decadeactions/32.8.jsonld",
+  "@type": [
+    "foaf:Project",
+    "sdo:Project"
+  ],
+  "foaf:name": "Marine Extreme Events &amp; Natural Hazards - mareXtreme",
+  "sdo:name": "Marine Extreme Events &amp; Natural Hazards - mareXtreme",
+  "sdo:description": "The Research Mission mareXtreme addresses pressing societal challenges caused by marine extreme events and natural hazards. The mission will analyse multiple marine extreme events, scrutinize impact cascades and identify societal barriers or opportunities for taking different types of action. It will also explore transformation needs from an engineering and societal perspective and develop innovative solutions. Using synergies across geohazards, biohazards and meteo/oceanographic hazards, the complex interplay of different compound events and cascading effects on coastal social-ecological systems will be systematically examined. Concepts, tools and models will be developed to improve predictions, reduce risks and enhance adaptation and reliable protection. The goal is to develop capacities and targeted programs in civil protection and disaster risk management that take into account socio-political frameworks and concerns and also implement training programs.",
+  "sdo:location": "Germany",
+  "sdo:identifier": "32.8",
+  "sdo:url": "https://oceandecade.org/actions/marine-extreme-events-natural-hazards-marextreme/",
+  "sdo:license": "https://creativecommons.org/licenses/by/4.0/",
+  "sdo:parentOrganization": {
+    "@type": "sdo:Organization",
+    "sdo:name": "MARUM - Center for Marine Environmental Sciences"
+  },
+  "sdo:keywords": [
+    {
+      "@type": "sdo:DefinedTerm",
+      "sdo:name": "Decade Project",
+      "sdo:description": "A Project is a targeted regional, national, or subnational initiative that typically contributes to an identified Decade Programme.",
+      "sdo:inDefinedTermSet": {
+        "@type": "sdo:DefinedTermSet",
+        "sdo:name": "UN Ocean Decade Action types.",
+        "sdo:description": "A definition of the types of Decade Action."
+      }
+    }
+  ],
+  "sdo:memberOf": {
+    "@id": "http://purl.org/oceandecade/decadeactions/144.jsonld"
+  }
+}
